@@ -98,3 +98,23 @@ export interface AttendanceRecord {
   status: "active" | "completed" | string;
 }
 
+export interface CameraSource {
+  id: number;
+  name: string;
+  url: string;
+  stream_type: string; // "auto" | "rtsp" | "m3u8" | "http" | "device"
+  resolved_stream_type?: string;
+  location?: string;
+  is_active: boolean;
+  created_at: string;
+}
+
+export interface CameraTestResult {
+  success: boolean;
+  message: string;
+  stream_type: string;
+  width?: number;
+  height?: number;
+  fps?: number;
+}
+

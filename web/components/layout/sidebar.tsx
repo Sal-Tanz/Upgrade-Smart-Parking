@@ -10,6 +10,7 @@ import {
   Calendar,
   Bell,
   BarChart3,
+  Settings,
   LogOut,
 } from "lucide-react";
 import { cn } from "@/lib/utils";
@@ -20,6 +21,7 @@ const navigation = [
   { name: "Events", href: "/events", icon: Bell },
   { name: "Attendance", href: "/attendance", icon: Calendar },
   { name: "Reports", href: "/reports", icon: BarChart3 },
+  { name: "Settings", href: "/settings", icon: Settings },
 ];
 
 export function Sidebar() {

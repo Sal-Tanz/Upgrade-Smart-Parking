@@ -9,11 +9,13 @@ The gate controller deliberately prefers false negatives over false positives:
 
 import argparse
 import json
+import os
 import re
 import sys
 import time
 from datetime import datetime
 from pathlib import Path
+
 
 import cv2
 import numpy as np
@@ -27,8 +29,10 @@ from ml.alpr.ocr import PlateOCR
 def parse_args():
     parser = argparse.ArgumentParser(description="Gate Control Dual Lane")
     source = parser.add_mutually_exclusive_group()
-    source.add_argument("--video", type=str, default=None)
-    source.add_argument("--camera", type=int, default=None)
+    source.add_argument("--video", type=str, default=None, help="File video lokal atau URL stream")
+    source.add_argument("--camera", type=int, default=None, help="Indeks kamera USB/webcam")
+    source.add_argument("--stream", type=str, default=None, help="URL stream RTSP atau m3u8")
+    source.add_argument("--camera-id", type=int, default=None, help="ID kamera dari database parking.db")
     parser.add_argument("--model", type=str, default="ml/models/best.pt")
     parser.add_argument("--conf", type=float, default=0.2)
     # CPU is the safe default. Users with CUDA can explicitly pass --device cuda.
@@ -379,17 +383,57 @@ def save_gate_report(left_log, right_log, video_source, summary):
 
 
 def open_source(video_source):
+    if isinstance(video_source, str):
+        v_str = video_source.strip()
+        v_lower = v_str.lower()
+        if v_lower.startswith("rstp://"):
+            video_source = "rtsp://" + v_str[7:]
+        elif v_lower.startswith("rstps://"):
+            video_source = "rtsps://" + v_str[8:]
+        if str(video_source).lower().startswith(("rtsp://", "rtsps://")):
+            os.environ["OPENCV_FFMPEG_CAPTURE_OPTIONS"] = "rtsp_transport;tcp|stimeout;3000000"
     cap = cv2.VideoCapture(video_source)
     return cap if cap.isOpened() else None
 
 
 def main():
     args = parse_args()
-    if args.video:
-        if not Path(args.video).exists():
+    if args.stream:
+        v_str = args.stream.strip()
+        if v_str.lower().startswith("rstp://"):
+            v_str = "rtsp://" + v_str[7:]
+        elif v_str.lower().startswith("rstps://"):
+            v_str = "rtsps://" + v_str[8:]
+        video_source, is_camera = v_str, True
+    elif args.camera_id is not None:
+        import sqlite3
+        try:
+            db_file = Path("parking.db")
+            if not db_file.exists():
+                db_file = Path(__file__).resolve().parent / "parking.db"
+            conn = sqlite3.connect(str(db_file))
+            row = conn.execute("SELECT url, name FROM camera_sources WHERE id = ?", (args.camera_id,)).fetchone()
+            conn.close()
+            if not row:
+                print(f"[ERROR] Kamera dengan ID {args.camera_id} tidak ditemukan di database")
+                sys.exit(1)
+            video_source = row[0]
+            if video_source.lower().startswith("rstp://"):
+                video_source = "rtsp://" + video_source[7:]
+            elif video_source.lower().startswith("rstps://"):
+                video_source = "rtsps://" + video_source[8:]
+            is_camera = True
+            print(f"[INFO] Menggunakan kamera dari database: {row[1]} ({video_source})")
+        except Exception as e:
+            print(f"[ERROR] Gagal membaca database kamera: {e}")
+            sys.exit(1)
+    elif args.video:
+        is_stream_url = args.video.lower().startswith(("rtsp://", "rtsps://", "rstp://", "rstps://", "http://", "https://"))
+        if not is_stream_url and not Path(args.video).exists():
             print(f"[ERROR] Video tidak ditemukan: {args.video}")
             sys.exit(1)
-        video_source, is_camera = args.video, False
+        video_source, is_camera = args.video, is_stream_url
+
     elif args.camera is not None:
         video_source, is_camera = args.camera, True
     else:

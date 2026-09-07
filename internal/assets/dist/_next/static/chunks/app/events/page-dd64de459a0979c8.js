@@ -3,4 +3,4 @@
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
- */let n=(0,r(1066).Z)("CheckCircle",[["path",{d:"M22 11.08V12a10 10 0 1 1-5.93-9.14",key:"g774vq"}],["path",{d:"m9 11 3 3L22 4",key:"1pflzl"}]])}},function(e){e.O(0,[308,793,395,418,2,517,971,23,744],function(){return e(e.s=7933)}),_N_E=e.O()}]);
+ */let n=(0,r(1066).Z)("CheckCircle",[["path",{d:"M22 11.08V12a10 10 0 1 1-5.93-9.14",key:"g774vq"}],["path",{d:"m9 11 3 3L22 4",key:"1pflzl"}]])}},function(e){e.O(0,[308,832,395,418,2,517,971,23,744],function(){return e(e.s=7933)}),_N_E=e.O()}]);

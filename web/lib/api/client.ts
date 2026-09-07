@@ -210,3 +210,69 @@ export const attendanceApi = {
   },
 };
 
+// Camera API
+export const cameraApi = {
+  getAll: async (filters?: { is_active?: boolean }) => {
+    const params = new URLSearchParams();
+    if (filters?.is_active !== undefined) {
+      params.append("is_active", String(filters.is_active));
+    }
+    const queryString = params.toString();
+    const response = await apiClient<{ cameras: any[]; total: number }>(
+      `/api/cameras${queryString ? `?${queryString}` : ""}`
+    );
+    const cameras = response.data?.cameras || [];
+    return { ...response, data: cameras };
+  },
+  getById: (id: number) => apiClient<any>(`/api/cameras/${id}`),
+  create: (data: {
+    name: string;
+    url: string;
+    stream_type?: string;
+    location?: string;
+    is_active?: boolean;
+  }) => {
+    return apiClient<any>("/api/cameras", {
+      method: "POST",
+      body: JSON.stringify(data),
+    });
+  },
+  update: (
+    id: number,
+    data: Partial<{
+      name: string;
+      url: string;
+      stream_type?: string;
+      location?: string;
+      is_active?: boolean;
+    }>
+  ) => {
+    return apiClient<any>(`/api/cameras/${id}`, {
+      method: "PUT",
+      body: JSON.stringify(data),
+    });
+  },
+  delete: (id: number) =>
+    apiClient<{ message: string; id: number }>(`/api/cameras/${id}`, {
+      method: "DELETE",
+    }),
+  test: (data: { url: string; stream_type?: string }) => {
+    return apiClient<any>("/api/cameras/test", {
+      method: "POST",
+      body: JSON.stringify(data),
+    });
+  },
+  testById: (id: number) => {
+    return apiClient<any>(`/api/cameras/${id}/test`, {
+      method: "POST",
+    });
+  },
+  detect: (id: number, validate = true) => {
+    return apiClient<any>(`/api/cameras/${id}/detect?validate=${validate}`, {
+      method: "POST",
+    });
+  },
+  getStreamUrl: (id: number) => `${API_BASE_URL}/api/cameras/${id}/stream`,
+  getSnapshotUrl: (id: number) => `${API_BASE_URL}/api/cameras/${id}/snapshot`,
+};
+

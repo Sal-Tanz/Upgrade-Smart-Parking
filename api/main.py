@@ -6,9 +6,10 @@ from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
+from sqlalchemy import text
 from api.database import engine
 from api.models.base import Base
-from api.routes import vehicles, parking, events, auth_routes, attendance, schedules, detection
+from api.routes import vehicles, parking, events, auth_routes, attendance, schedules, detection, cameras
 from api.services.mqtt_service import mqtt_service
 
 
@@ -16,6 +17,16 @@ from api.services.mqtt_service import mqtt_service
 async def lifespan(app: FastAPI):
     async with engine.begin() as conn:
         await conn.run_sync(Base.metadata.create_all)
+
+        def _migrate_cameras_schema(connection):
+            res = connection.execute(text("PRAGMA table_info(camera_sources)")).fetchall()
+            col_names = [r[1] for r in res]
+            if "stream_type" not in col_names and len(col_names) > 0:
+                connection.execute(
+                    text("ALTER TABLE camera_sources ADD COLUMN stream_type VARCHAR(50) DEFAULT 'auto'")
+                )
+
+        await conn.run_sync(_migrate_cameras_schema)
     await mqtt_service.connect()
     yield
     await mqtt_service.disconnect()
@@ -48,6 +59,7 @@ app.include_router(parking.router)
 app.include_router(events.router)
 app.include_router(auth_routes.router)
 app.include_router(detection.router)
+app.include_router(cameras.router)
 
 try:
     app.include_router(attendance.router)

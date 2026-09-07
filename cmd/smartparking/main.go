@@ -126,7 +126,7 @@ func runServer(args []string) {
 
 	// Wait for health
 	fmt.Println("[+] Waiting for backend health check...")
-	if err := sup.WaitForHealth(15 * time.Second); err != nil {
+	if err := sup.WaitForHealth(25 * time.Second); err != nil {
 		fmt.Printf("%s[!] Warning: %v. Proceeding to open gateway.%s\n", ColorYellow, err, ColorReset)
 	} else {
 		fmt.Printf("%s[+] Backend is healthy!%s\n", ColorGreen, ColorReset)
@@ -172,10 +172,13 @@ func runServer(args []string) {
 }
 
 func runGate(args []string) {
-	cfg, err := config.LoadConfig(8080, 8001, "0.0.0.0", false)
+	cfg, err := config.LoadConfig(8090, 8008, "0.0.0.0", false)
 	if err != nil {
 		fmt.Printf("[ERROR] %v\n", err)
 		os.Exit(1)
+	}
+	if err := bootstrap.EnsureEnvironment(cfg); err != nil {
+		fmt.Printf("[WARN] Bootstrap check: %v\n", err)
 	}
 	if err := ml.RunGate(cfg, args); err != nil {
 		fmt.Printf("[ERROR] Gate detection exited with error: %v\n", err)
@@ -184,10 +187,13 @@ func runGate(args []string) {
 }
 
 func runDetect(args []string) {
-	cfg, err := config.LoadConfig(8080, 8001, "0.0.0.0", false)
+	cfg, err := config.LoadConfig(8090, 8008, "0.0.0.0", false)
 	if err != nil {
 		fmt.Printf("[ERROR] %v\n", err)
 		os.Exit(1)
+	}
+	if err := bootstrap.EnsureEnvironment(cfg); err != nil {
+		fmt.Printf("[WARN] Bootstrap check: %v\n", err)
 	}
 	if err := ml.RunDetect(cfg, args); err != nil {
 		fmt.Printf("[ERROR] Detect exited with error: %v\n", err)
@@ -196,10 +202,13 @@ func runDetect(args []string) {
 }
 
 func runTrain(args []string) {
-	cfg, err := config.LoadConfig(8080, 8001, "0.0.0.0", false)
+	cfg, err := config.LoadConfig(8090, 8008, "0.0.0.0", false)
 	if err != nil {
 		fmt.Printf("[ERROR] %v\n", err)
 		os.Exit(1)
+	}
+	if err := bootstrap.EnsureEnvironment(cfg); err != nil {
+		fmt.Printf("[WARN] Bootstrap check: %v\n", err)
 	}
 	if err := ml.RunTrain(cfg, args); err != nil {
 		fmt.Printf("[ERROR] Training exited with error: %v\n", err)
@@ -208,10 +217,13 @@ func runTrain(args []string) {
 }
 
 func runTests(args []string) {
-	cfg, err := config.LoadConfig(8080, 8001, "0.0.0.0", false)
+	cfg, err := config.LoadConfig(8090, 8008, "0.0.0.0", false)
 	if err != nil {
 		fmt.Printf("[ERROR] %v\n", err)
 		os.Exit(1)
+	}
+	if err := bootstrap.EnsureEnvironment(cfg); err != nil {
+		fmt.Printf("[WARN] Bootstrap check: %v\n", err)
 	}
 
 	cmdArgs := append([]string{"-m", "pytest"}, args...)

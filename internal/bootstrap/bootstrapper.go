@@ -8,6 +8,7 @@ import (
 	"path/filepath"
 	"strings"
 
+	"smartparking/internal/assets"
 	"smartparking/internal/config"
 )
 
@@ -53,20 +54,26 @@ func EnsureEnvironment(cfg *config.Config) error {
 		}
 	}
 
-	// 5. Verify ML model weights
+	// 5. Auto-extract embedded ML model weights if missing
+	if err := assets.ExtractModels(cfg.WorkDir); err != nil {
+		fmt.Printf("[BOOTSTRAP] Warning: Failed to extract embedded models: %v\n", err)
+	}
+
+	// 6. Verify ML model weights
 	modelCandidates := []string{
 		filepath.Join(cfg.WorkDir, "runs", "detect", "alpr_plate_detector", "weights", "best.pt"),
 		filepath.Join(cfg.WorkDir, "ml", "models", "best.pt"),
 		filepath.Join(cfg.WorkDir, "yolov8n.pt"),
+		filepath.Join(cfg.WorkDir, "yolo26n.pt"),
 	}
 	var foundModels []string
 	for _, m := range modelCandidates {
-		if fi, err := os.Stat(m); err == nil && !fi.IsDir() {
+		if fi, err := os.Stat(m); err == nil && !fi.IsDir() && fi.Size() > 0 {
 			foundModels = append(foundModels, filepath.Base(m))
 		}
 	}
 	if len(foundModels) > 0 {
-		fmt.Printf("[BOOTSTRAP] Detected ML model weights: %s\n", strings.Join(foundModels, ", "))
+		fmt.Printf("[BOOTSTRAP] Ready ML model weights: %s\n", strings.Join(foundModels, ", "))
 	} else {
 		fmt.Println("[BOOTSTRAP] Warning: No YOLO weights detected in default paths. ALPR may run in fallback mode.")
 	}

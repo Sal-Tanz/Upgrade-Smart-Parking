@@ -125,17 +125,20 @@ def train_alpr(
         # Create dataset YAML
         yaml_content = f"""
 path: {data_dir.absolute()}
-train: train/images/plates
-val: val/images/plates
-test: test/images/plates
+train: train/images
+val: val/images
+test: test/images
 
 names:
-  0: plate
+  0: plat nomor
 """
         dataset_yaml.parent.mkdir(parents=True, exist_ok=True)
         with open(dataset_yaml, 'w') as f:
             f.write(yaml_content)
         logger.info(f"Created dataset YAML at {dataset_yaml}")
+
+    # Validate dataset structure and integrity before invoking YOLO training
+    check_dataset(dataset_yaml)
 
     logger.info("Loading pretrained YOLOv8 model...")
     model = YOLO(model_name)

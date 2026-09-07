@@ -310,23 +310,29 @@ class DualLaneDetector:
         for det in detections:
             lane = self._assign_lane(det, w)
             x1, y1, x2, y2 = map(int, det.bbox)
-            same_track = lane.update_detection((x1, y1, x2, y2))
+            is_lead_vehicle = not seen[lane]
             seen[lane] = True
+
+            if is_lead_vehicle:
+                same_track = lane.update_detection((x1, y1, x2, y2))
+            else:
+                same_track = False
+
             ocr = self.ocr_left if lane is self.lane_left else self.ocr_right
-            crop = frame[max(0, y1):min(h, y2), max(0, x1):min(w, x2)].copy()
+            crop = det.cropped_image if (det.cropped_image is not None and det.cropped_image.size > 0) else frame[max(0, y1):min(h, y2), max(0, x1):min(w, x2)].copy()
 
             # Never reuse OCR from a different track. If OCR is skipped, reuse
             # only the previous result for the same bbox track.
             if run_ocr:
                 plate_text = self._ocr_for(crop, ocr)
-                if plate_text:
+                if plate_text and is_lead_vehicle:
                     lane.last_ocr_text = plate_text
-            elif same_track:
+            elif same_track and is_lead_vehicle:
                 plate_text = lane.last_ocr_text
             else:
                 plate_text = ""
 
-            if plate_text:
+            if plate_text and is_lead_vehicle:
                 lane.check_plate(plate_text, db, self.frame_count)
 
             if lane.is_gate_open:
@@ -486,11 +492,13 @@ def main():
             elif key in (ord("+"), ord("=")):
                 value = min(1.0, detector.pipeline.detection_conf_threshold + 0.05)
                 detector.pipeline.detection_conf_threshold = value
+                detector.pipeline.detector.confidence_threshold = value
                 detector.pipeline.ocr_conf_threshold = value
                 detector.pipeline.overall_conf_threshold = value
             elif key == ord("-"):
                 value = max(0.05, detector.pipeline.detection_conf_threshold - 0.05)
                 detector.pipeline.detection_conf_threshold = value
+                detector.pipeline.detector.confidence_threshold = value
                 detector.pipeline.ocr_conf_threshold = value
                 detector.pipeline.overall_conf_threshold = value
     except KeyboardInterrupt:

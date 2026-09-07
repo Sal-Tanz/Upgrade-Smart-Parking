@@ -144,7 +144,7 @@ def run_batch_inference(
             result.image_height, result.image_width = img.shape[:2]
 
             start_time = time.time()
-            alpr_result = pipeline.process(img, return_images=False)
+            alpr_result = pipeline.process(img, return_images=save_annotated)
             elapsed_ms = (time.time() - start_time) * 1000
 
             result.inference_time_ms = elapsed_ms
@@ -169,15 +169,9 @@ def run_batch_inference(
             ocr_confs.append(alpr_result.ocr_confidence)
 
             # Save annotated image
-            if save_annotated:
-                annotated = pipeline._annotate_image(
-                    img,
-                    pipeline.detector.detect_best_plate(img),
-                    alpr_result.plate_text,
-                    alpr_result.vehicle_status,
-                )
+            if save_annotated and alpr_result.annotated_image is not None:
                 ann_path = output_path / "annotated" / img_file.name
-                cv2.imwrite(str(ann_path), annotated)
+                cv2.imwrite(str(ann_path), alpr_result.annotated_image)
 
         except Exception as e:
             result.error_message = str(e)

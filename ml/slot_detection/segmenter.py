@@ -206,11 +206,22 @@ class SlotDetector:
         kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (5, 5))
         mask = cv2.dilate(mask, kernel, iterations=2)
 
-        # Find contours
-        contours, _ = cv2.findContours(mask, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
+        # Find contours using 2-level hierarchy (RETR_CCOMP) to capture enclosed slot spaces (holes)
+        contours, hierarchy = cv2.findContours(mask, cv2.RETR_CCOMP, cv2.CHAIN_APPROX_SIMPLE)
+
+        candidate_contours = []
+        if hierarchy is not None and len(hierarchy) > 0:
+            for i, contour in enumerate(contours):
+                # Enclosed space inside connected line boundaries has a parent contour
+                is_hole = hierarchy[0][i][3] != -1
+                area = cv2.contourArea(contour)
+                if is_hole or (self.slot_min_area <= area <= self.slot_max_area):
+                    candidate_contours.append(contour)
+        else:
+            candidate_contours = contours
 
         rectangles = []
-        for contour in contours:
+        for contour in candidate_contours:
             # Approximate contour to polygon
             epsilon = 0.02 * cv2.arcLength(contour, True)
             approx = cv2.approxPolyDP(contour, epsilon, True)
@@ -219,6 +230,11 @@ class SlotDetector:
             if len(approx) == 4:
                 rect = [point[0].tolist() for point in approx]
                 rectangles.append(rect)
+            elif len(approx) > 4:
+                # Rotated bounding rect fallback for slots with rounded vertex noise
+                rot_rect = cv2.minAreaRect(contour)
+                box = cv2.boxPoints(rot_rect)
+                rectangles.append([[int(p[0]), int(p[1])] for p in box])
 
         return rectangles
 

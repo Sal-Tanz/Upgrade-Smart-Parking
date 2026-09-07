@@ -12,6 +12,7 @@ from datetime import datetime
 
 sys.path.insert(0, str(Path(__file__).parent))
 
+import torch
 from ml.alpr.pipeline import ALPRPipeline
 
 
@@ -25,14 +26,15 @@ def main():
         print(f"Tidak ada gambar ditemukan di {image_dir}")
         return
 
-    print(f"Memuat model ALPR Pipeline...")
+    device = "cuda" if torch.cuda.is_available() else "cpu"
+    print(f"Memuat model ALPR Pipeline (device={device})...")
     pipeline = ALPRPipeline(
         detector_model_path="ml/models/yolov8_plate.pt",
         ocr_engine="paddleocr",
         detection_confidence_threshold=0.3,
         ocr_confidence_threshold=0.3,
         overall_confidence_threshold=0.3,
-        device="cuda",
+        device=device,
         debug=False,
     )
     print(f"Model siap. Memproses {len(image_files)} gambar...\n")

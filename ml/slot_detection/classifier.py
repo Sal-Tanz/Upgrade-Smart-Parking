@@ -113,7 +113,7 @@ class SlotClassifier:
         # Load model berdasarkan format
         if model_path.endswith(".onnx"):
             self._load_onnx_model(model_path)
-        elif model_path.endswith(".pt"):
+        elif model_path.endswith((".pt", ".pth")):
             self._load_pytorch_model(model_path)
         else:
             raise ValueError(f"Format model tidak didukung: {model_path}")
@@ -143,25 +143,31 @@ class SlotClassifier:
         self.model_type = "pytorch"
 
     def _load_pytorch_model(self, model_path: str):
-        """Load PyTorch model (.pt)."""
+        """Load PyTorch model (.pt atau .pth)."""
         if torch is None:
-            raise ImportError("PyTorch wajib untuk load .pt model")
+            raise ImportError("PyTorch wajib untuk load PyTorch model")
 
         # SECURITY: weights_only=True prevents arbitrary code execution during unpickling
         # See: https://pytorch.org/docs/stable/notes/serialization.html
-        self.model = torch.load(model_path, map_location=self.device, weights_only=True)
-        self.model.eval()
-        self.model.to(self.device)
+        loaded = torch.load(model_path, map_location=self.device, weights_only=True)
+        if isinstance(loaded, dict):
+            self._init_mobilenet()
+            state_dict = loaded.get("state_dict", loaded.get("model_state_dict", loaded))
+            self.model.load_state_dict(state_dict)
+        else:
+            self.model = loaded
+            self.model.eval()
+            self.model.to(self.device)
 
-        self.transform = transforms.Compose([
-            transforms.ToPILImage(),
-            transforms.Resize((self.input_size, self.input_size)),
-            transforms.ToTensor(),
-            transforms.Normalize(
-                mean=[0.485, 0.456, 0.406],
-                std=[0.229, 0.224, 0.225]
-            ),
-        ])
+            self.transform = transforms.Compose([
+                transforms.ToPILImage(),
+                transforms.Resize((self.input_size, self.input_size)),
+                transforms.ToTensor(),
+                transforms.Normalize(
+                    mean=[0.485, 0.456, 0.406],
+                    std=[0.229, 0.224, 0.225]
+                ),
+            ])
 
         self.model_type = "pytorch"
 
@@ -177,6 +183,7 @@ class SlotClassifier:
 
     def _init_background_subtraction(self):
         """Initialize Background Subtraction (MOG2) sebagai alternatif tanpa training."""
+        self.slot_bg_subtractors: dict[str, cv2.BackgroundSubtractorMOG2] = {}
         self.bg_subtractor = cv2.createBackgroundSubtractorMOG2(
             history=500,
             varThreshold=50,
@@ -261,11 +268,13 @@ class SlotClassifier:
         # Resize dan normalize
         image_resized = cv2.resize(image_rgb, (self.input_size, self.input_size))
         image_normalized = image_resized.astype(np.float32) / 255.0
-        image_normalized = (image_normalized - [0.485, 0.456, 0.406]) / [0.229, 0.224, 0.225]
+        mean = np.array([0.485, 0.456, 0.406], dtype=np.float32)
+        std = np.array([0.229, 0.224, 0.225], dtype=np.float32)
+        image_normalized = (image_normalized - mean) / std
 
         # Transpose ke NCHW format
         input_tensor = np.transpose(image_normalized, (2, 0, 1))
-        input_tensor = np.expand_dims(input_tensor, axis=0)
+        input_tensor = np.expand_dims(input_tensor, axis=0).astype(np.float32)
 
         # VALIDATION: Verify input shape matches ONNX model expectations
         # See: https://onnxruntime.ai/docs/get-started/with-python.html
@@ -330,14 +339,29 @@ class SlotClassifier:
             - Jika pixel ratio > threshold → terisi
             - Jika pixel ratio < threshold → kosong
         """
+        # Resize to consistent canonical size to prevent MOG2 background model reset on variable shapes
+        image_canonical = cv2.resize(image, (self.input_size, self.input_size))
+
         # Convert to grayscale
-        if len(image.shape) == 3:
-            gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+        if len(image_canonical.shape) == 3:
+            gray = cv2.cvtColor(image_canonical, cv2.COLOR_BGR2GRAY)
         else:
-            gray = image
+            gray = image_canonical
+
+        # Use per-slot background subtractor to maintain independent temporal history
+        if slot_id:
+            if slot_id not in self.slot_bg_subtractors:
+                self.slot_bg_subtractors[slot_id] = cv2.createBackgroundSubtractorMOG2(
+                    history=500,
+                    varThreshold=50,
+                    detectShadows=False,
+                )
+            subtractor = self.slot_bg_subtractors[slot_id]
+        else:
+            subtractor = self.bg_subtractor
 
         # Apply background subtraction
-        fg_mask = self.bg_subtractor.apply(gray)
+        fg_mask = subtractor.apply(gray)
 
         # Calculate pixel ratio (foreground pixels / total pixels)
         total_pixels = fg_mask.size
@@ -351,6 +375,9 @@ class SlotClassifier:
         else:
             status = self.STATUS_KOSONG
             confidence = 1.0 - pixel_ratio
+
+        if confidence < self.confidence_threshold:
+            status = self.STATUS_UNKNOWN
 
         logger.debug(
             f"Slot {slot_id} classified (BG Sub): {status} "

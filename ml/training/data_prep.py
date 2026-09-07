@@ -45,13 +45,15 @@ def split_dataset(
 
     # Create output directories
     for split in ['train', 'val', 'test']:
-        Path(output_dir) / split / 'images' / 'plates'
-        Path(output_dir) / split / 'labels'
+        (Path(output_dir) / split / 'images' / 'plates').mkdir(parents=True, exist_ok=True)
+        (Path(output_dir) / split / 'labels').mkdir(parents=True, exist_ok=True)
 
-    # Get all image files
+    # Get all image files (support both images/plates and images structure)
     images_dir = Path(source_dir) / 'images' / 'plates'
     if not images_dir.exists():
-        raise FileNotFoundError(f"Images directory not found: {images_dir}")
+        images_dir = Path(source_dir) / 'images'
+    if not images_dir.exists():
+        raise FileNotFoundError(f"Images directory not found in {source_dir} (checked 'images/plates' and 'images')")
 
     image_files = list(images_dir.glob('*.jpg')) + list(images_dir.glob('*.png'))
     if not image_files:

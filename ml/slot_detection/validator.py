@@ -206,7 +206,9 @@ class ParkingValidator:
         actual_cluster = self.slots[slot_id].get("cluster")
 
         # Check 5: Validasi menggunakan logika Karnaugh Map
-        is_valid = validate_cluster_access(jabatan, actual_cluster)
+        is_valid = validate_cluster_access(
+            jabatan, actual_cluster, allow_merah_to_orange_fallback=self.allow_fallback
+        )
 
         if is_valid:
             # Valid! Parkir di cluster yang benar

@@ -168,18 +168,31 @@ class ALPRVideoDetector:
             result = self.pipeline.process_video_frame(frame)
             self.last_result = result
         else:
-            result = self.pipeline.detector.detect_best_plate(frame)
-            if result is not None and self.last_result is not None:
-                result = self.last_result
-            elif result is not None:
+            det = self.pipeline.detector.detect_best_plate(frame)
+            if det is not None and self.last_result is not None:
+                from ml.alpr.pipeline import ALPRResult
+                result = ALPRResult(
+                    plate_text=self.last_result.plate_text,
+                    raw_plate_text=self.last_result.raw_plate_text,
+                    detection_confidence=det.confidence,
+                    ocr_confidence=self.last_result.ocr_confidence,
+                    overall_confidence=self.last_result.overall_confidence,
+                    bbox=det.bbox,
+                    vehicle_status=self.last_result.vehicle_status,
+                    is_valid_format=self.last_result.is_valid_format,
+                    ocr_engine_used=self.last_result.ocr_engine_used,
+                    processing_time_ms=0.0,
+                    cropped_plate=det.cropped_image,
+                )
+            elif det is not None:
                 from ml.alpr.pipeline import ALPRResult, VehicleStatus
                 result = ALPRResult(
                     plate_text="",
                     raw_plate_text="",
-                    detection_confidence=result.confidence,
+                    detection_confidence=det.confidence,
                     ocr_confidence=0.0,
                     overall_confidence=0.0,
-                    bbox=result.bbox,
+                    bbox=det.bbox,
                     vehicle_status=VehicleStatus.REJECTED,
                     is_valid_format=False,
                     ocr_engine_used="",

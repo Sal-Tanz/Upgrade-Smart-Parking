@@ -188,10 +188,12 @@ class ALPRPipeline:
             _cv2.imwrite(f"output/debug_crop/crop_{self._debug_counter:04d}.jpg", detection.cropped_image)
             self._debug_counter = getattr(self, '_debug_counter', 0) + 1
 
-        if self.ocr.engine_type.value == "paddleocr":
-            ocr_result = self.ocr.read(detection.cropped_image)
-        else:
-            ocr_result = self.ocr.read(processed_plate)
+        # Both deep learning OCR engines (PaddleOCR & EasyOCR) perform best on natural RGB crops
+        ocr_result = self.ocr.read(detection.cropped_image)
+        if not ocr_result.text.strip():
+            fallback_ocr = self.ocr.read(processed_plate)
+            if fallback_ocr.confidence > ocr_result.confidence or fallback_ocr.text.strip():
+                ocr_result = fallback_ocr
 
         # Step 4: Calculate overall confidence & determine status
         logger.debug("Step 4: Calculating confidence & status...")

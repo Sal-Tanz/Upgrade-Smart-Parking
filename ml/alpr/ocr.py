@@ -211,25 +211,63 @@ class PlateOCR:
             return ""
 
         parts = text.split()
+        reverse_corrections = {v: k for k, v in PlateFormat.CHAR_CORRECTIONS.items()}
+
+        def _clean_prefix(p: str) -> str:
+            if p == "13":
+                return "B"
+            return "".join(reverse_corrections.get(c, c) if c.isdigit() else c for c in p)
+
+        def _clean_number(n: str) -> str:
+            return "".join(PlateFormat.CHAR_CORRECTIONS.get(c, c) if c.isalpha() else c for c in n)
+
+        def _clean_suffix(s: str) -> str:
+            return "".join(reverse_corrections.get(c, c) if c.isdigit() else c for c in s)
+
         # If OCR already separated the plate, correct characters by semantic
         # position: prefix letters, number digits, suffix letters.
         if len(parts) >= 2:
-            prefix = "".join(PlateFormat.CHAR_CORRECTIONS.get(c, c) if c.isdigit() else c
-                              for c in parts[0])
-            number = "".join(PlateFormat.CHAR_CORRECTIONS.get(c, c) if c.isalpha() else c
-                              for c in parts[1])
-            suffix = "".join(c if c.isalpha() else PlateFormat.CHAR_CORRECTIONS.get(c, c)
-                              for c in "".join(parts[2:]))
+            prefix = _clean_prefix(parts[0])
+            number = _clean_number(parts[1])
+            suffix = _clean_suffix("".join(parts[2:]))
             if prefix and number:
                 return f"{prefix} {number}" + (f" {suffix}" if suffix else "")
 
+        # Handle unspaced or partially spaced plates
         raw = text.replace(" ", "")
-        match = re.search(r"([A-Z]{1,2})(\d{1,4})([A-Z]{1,3})", raw)
+
+        # Standard unspaced plate with letter prefix: e.g. B1234XYZ -> B 1234 XYZ
+        match = re.search(r"^([A-Z]{1,2})(\d{1,4})([A-Z]{1,3})$", raw)
         if match:
-            return " ".join(match.groups())
-        match = re.search(r"([A-Z]{1,2})(\d{1,4})", raw)
+            return f"{match.group(1)} {match.group(2)} {match.group(3)}"
+
+        match = re.search(r"^([A-Z]{1,2})(\d{1,4})$", raw)
         if match:
             return f"{match.group(1)} {match.group(2)}"
+
+        # If prefix starts with misread digit (0 -> O, 8 -> B, etc.)
+        if raw and raw[0] in reverse_corrections:
+            candidate_raw = reverse_corrections[raw[0]] + raw[1:]
+            match = re.search(r"^([A-Z]{1,2})(\d{1,4})([A-Z]{1,3})$", candidate_raw)
+            if match:
+                return f"{match.group(1)} {match.group(2)} {match.group(3)}"
+
+        if raw.startswith("13"):
+            candidate_raw = "B" + raw[2:]
+            match = re.search(r"^([A-Z]{1,2})(\d{1,4})([A-Z]{1,3})$", candidate_raw)
+            if match:
+                return f"{match.group(1)} {match.group(2)} {match.group(3)}"
+
+        # Secondary fallback if number block has letters confused with digits
+        match = re.search(r"^([A-Z]{1,2})([0-9OISBZG]{1,4})([A-Z]{1,3})$", raw)
+        if match:
+            p, n, s = match.groups()
+            prefix = _clean_prefix(p)
+            number = _clean_number(n)
+            suffix = _clean_suffix(s)
+            if prefix and number:
+                return f"{prefix} {number}" + (f" {suffix}" if suffix else "")
+
         return text
 
     @staticmethod

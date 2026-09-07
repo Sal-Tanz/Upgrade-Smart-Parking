@@ -21,6 +21,11 @@ import numpy as np
 from loguru import logger
 
 try:
+    import torch
+except ImportError:
+    torch = None
+
+try:
     from ultralytics import YOLO
 except ImportError:
     YOLO = None
@@ -65,6 +70,10 @@ class PlateDetector:
                 "ultralytics wajib terinstall. " "Jalankan: pip install ultralytics"
             )
 
+        if device == "cuda" and (torch is None or not torch.cuda.is_available()):
+            logger.info("CUDA tidak tersedia atau GPU tidak terdeteksi, beralih ke device='cpu'")
+            device = "cpu"
+
         self.confidence_threshold = confidence_threshold
         self.iou_threshold = iou_threshold
         self.device = device
@@ -75,6 +84,7 @@ class PlateDetector:
         if model_file.exists():
             logger.info(f"Memuat model custom: {model_path}")
             self.model = YOLO(str(model_file))
+            self.is_custom = True
         else:
             logger.warning(
                 f"⚠️  Model custom tidak ditemukan: {model_path}\n"
@@ -86,6 +96,7 @@ class PlateDetector:
                 f"   3. Export ke {model_path}"
             )
             self.model = YOLO(self.PRETRAINED_MODEL)
+            self.is_custom = False
 
         logger.info(
             f"PlateDetector siap | device={device} | "
@@ -133,6 +144,12 @@ class PlateDetector:
 
                 # Class ID
                 cls_id = int(box.cls[0].cpu().numpy())
+
+                # If using generic COCO fallback (80 classes), ignore non-vehicle classes
+                # (e.g. class 0 is 'person' in COCO). Only inspect vehicle regions (car=2, motorcycle=3, bus=5, truck=7).
+                if not self.is_custom and len(self.model.names) >= 80:
+                    if cls_id not in (2, 3, 5, 7):
+                        continue
 
                 # Crop gambar plat dari image asli dengan padding
                 h, w = image.shape[:2]

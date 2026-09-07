@@ -1,4 +1,4 @@
-path: /home/x/dev/project/Machine-Learning-Parking/ml/data/license_plates
+path: ml/data/license_plates
 train: train/images
 val: val/images
 test: test/images

@@ -252,6 +252,8 @@ def train_slot_classifier(
     optimizer = optim.Adam(model.parameters(), lr=learning_rate)
     scheduler = optim.lr_scheduler.ReduceLROnPlateau(optimizer, mode="min", patience=3, factor=0.5)
 
+    output_path = Path(output_dir)
+    output_path.mkdir(parents=True, exist_ok=True)
     best_val_acc = 0.0
     best_epoch = 0
     epochs_without_improvement = 0
@@ -274,8 +276,6 @@ def train_slot_classifier(
             best_epoch = epoch + 1
             epochs_without_improvement = 0
 
-            output_path = Path(output_dir)
-            output_path.mkdir(parents=True, exist_ok=True)
             torch.save(model.state_dict(), output_path / "slot_classifier_best.pth")
             logger.success(f"New best model saved (Val Acc: {val_acc:.2%})")
         else:

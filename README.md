@@ -4,65 +4,68 @@ Sistem manajemen parkir cerdas berbasis computer vision. Mendeteksi plat nomor k
 
 ## Deskripsi
 
-Program ini memproses video dari kamera/CCTV dan melakukan:
+## Fitur Utama
 
-1. **Deteksi plat nomor** — YOLOv8 mendeteksi bounding box plat pada frame
-2. **OCR plat nomor** — PaddleOCR membaca teks dari hasil crop plat
-3. **Matching database** — Teks OCR dicocokkan ke `data/plate_database.json` (fuzzy match berdasarkan digit)
-4. **Gate control** — Palang otomatis terbuka jika plat terdaftar, dengan timer (default 120 detik)
-5. **Dual lane independen** — Layar terbagi kiri (60%) dan kanan (40%), masing-masing jalur memproses dan mengunci plat pertama yang terdeteksi secara terpisah
+1. **Deteksi Plat Nomor (ALPR)** — YOLOv8 mendeteksi bounding box plat pada frame dengan padding margin tepi yang aman.
+2. **OCR Plat Nomor Dua Arah** — PaddleOCR / EasyOCR membaca teks plat nomor dengan koreksi semantik digit-ke-huruf (prefix/suffix) dan huruf-ke-digit (nomor polisi), serta normalisasi salah ketik `13 -> B`.
+3. **Sumber Kamera Fleksibel (RTSP & M3U8)** — Mendukung kamera IP/CCTV lokal lewat protokol RTSP (termasuk toleransi `rstp://`) maupun streaming HLS (`.m3u8`) yang dapat diatur dinamis di Web UI.
+4. **Matching Database & Validasi Cluster** — Teks plat nomor dicocokkan ke database dan divalidasi dengan logika akses cluster parkir Karnaugh Map.
+5. **Gate Control Dual Lane** — Palang pintu otomatis terbuka jika plat terdaftar dengan isolasi tracking antrean kendaraan di tiap lajur.
+6. **Biner Mandiri Standalone (All-in-One)** — Eksekutabel tunggal Go (`./smartparking`) yang meng-embed Web UI Next.js, FastAPI supervisor, dan model ML tanpa perlu konfigurasi terpisah.
 
-## Library
-
-| Library | Versi | Kegunaan |
-|---------|-------|----------|
-| Python | 3.10+ | Runtime |
-| PyTorch | 2.5+ | Inference backend YOLO |
-| ultralytics | 8.4+ | YOLOv8 object detection |
-| PaddleOCR | 2.9+ | OCR engine untuk membaca teks plat |
-| PaddlePaddle | 2.5+ | Backend PaddleOCR |
-| OpenCV | 4.8+ | Image/video processing & rendering |
-
-Install semua dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-## Instalasi
-
-```bash
-# Clone repository
-git clone https://github.com/Sal-Tanz/Machine-Learning-Parking.git
-cd Machine-Learning-Parking
-
-# (Opsional) Buat virtual environment
-python -m venv venv
-source venv/bin/activate
-
-# Install dependencies
-pip install -r requirements.txt
-```
+---
 
 ## Penggunaan
 
-### Menjalankan Backend API & Frontend Web UI Sekaligus
+### 1. Menjalankan via Biner Standalone (Paling Praktis)
 
-Anda dapat menjalankan FastAPI backend (`http://localhost:8000`) dan Next.js frontend (`http://localhost:3000`) secara bersamaan dalam satu command:
+Aplikasi telah dibundel menjadi biner executable mandiri `./smartparking` yang mengintegrasikan Web UI, Backend API, dan Gateway Reverse Proxy dalam satu file:
+
+```bash
+# Menjalankan server lengkap (Web UI + Backend Gateway di http://localhost:8090)
+./smartparking run
+
+# Opsi kustom port
+./smartparking run --port 8090 --backend 8008
+
+# Menjalankan gate detection langsung lewat biner
+./smartparking gate --stream rtsp://admin:pass@192.168.1.100:554/live
+
+# Cek versi biner dan bantuan perintah
+./smartparking version
+./smartparking --help
+```
+
+---
+
+### 2. Menjalankan Backend API & Frontend Web UI Manual (Development Mode)
+
+Jika ingin menjalankan secara terpisah untuk pengembangan:
 
 ```bash
 # Menggunakan Bash script (Linux / macOS)
 ./start.sh
 
-# ATAU menggunakan Python script (Cross-platform / Windows / Linux / macOS)
+# ATAU menggunakan Python script (Cross-platform)
 python run.py
 ```
 
-Script ini secara otomatis akan:
-- Membuat file `.env` dari `.env.example` jika belum tersedia.
-- Menjalankan Backend API FastAPI pada port `8000` (`http://localhost:8000`, API Docs di `http://localhost:8000/docs`).
-- Menjalankan Frontend Next.js Web UI pada port `3000` (`http://localhost:3000`).
-- Menghentikan kedua layanan secara bersih saat menekan `Ctrl+C`.
+Layanan akan aktif pada:
+- **Web UI Dashboard & Monitoring**: `http://localhost:3000` (atau `http://localhost:8090` jika menggunakan biner)
+- **Backend API Docs (Swagger)**: `http://localhost:8000/docs`
+
+---
+
+### 3. Pengaturan Sumber Kamera di Web UI
+
+Anda dapat mengatur sumber kamera CCTV secara interaktif tanpa menyentuh kode:
+1. Buka Web UI Monitoring, masuk ke menu **Pengaturan** (`/settings`).
+2. Pilih tab **"Sumber Kamera (RTSP & M3U8)"**.
+3. Klik **"Tambah Sumber Kamera"**:
+   - Masukkan nama kamera (misal: *Gate Masuk Utama*) dan lokasi.
+   - Masukkan URL stream (misal: `rtsp://admin:password@192.168.1.50:554/live` atau link `https://domain.com/stream.m3u8`).
+   - Gunakan tombol **"Uji Koneksi"** untuk memverifikasi stream secara langsung.
+4. Kamera yang aktif akan otomatis muncul di player dashboard utama (`/`) dengan opsi pemutaran langsung HLS atau proxy MJPEG backend serta tombol capture snapshot dan ALPR trigger.
 
 
 ### Gate Detection (Program Utama)
@@ -128,25 +131,29 @@ File `data/plate_database.json`:
 ## Struktur Proyek
 
 ```
-Machine-Learning-Parking/
-├── gate_detection.py              # Program utama: dual lane gate control
-├── ml/
-│   ├── alpr/
-│   │   ├── detector.py            # YOLOv8 plate detection
-│   │   ├── ocr.py                 # PaddleOCR / EasyOCR
-│   │   ├── pipeline.py            # End-to-end ALPR pipeline
-│   │   └── preprocessor.py        # Image preprocessing
-│   └── models/
-│       └── best.pt                # Model YOLO trained
-├── data/
-│   ├── plate_database.json        # Database plat terdaftar
-│   └── slot_config.json           # Konfigurasi slot parkir
+smart-parking-system/
+├── smartparking                   # Standalone All-in-One Go Binary (Web UI + Backend + ML)
+├── gate_detection.py              # Dual lane gate controller & ALPR
 ├── api/                           # Backend API (FastAPI)
-├── web/                           # Frontend (Next.js 14)
+│   ├── routes/
+│   │   ├── cameras.py             # RTSP/M3U8 camera management & streaming
+│   │   ├── detection.py           # ALPR inference endpoints
+│   │   ├── parking.py             # Parking slot endpoints
+│   │   └── ...
+│   └── models/
+│       └── camera_source.py       # CameraSource DB model
+├── web/                           # Frontend Dashboard (Next.js 14 + Tailwind CSS)
+│   ├── components/monitoring/     # CameraPlayer & CameraSettings components
+│   └── app/settings/              # Halaman konfigurasi kamera RTSP/M3U8 & ALPR
+├── internal/                      # Go Standalone Engine (Supervisor, Gateway, Assets)
+│   └── assets/                    # Embedded dist & ML models
+├── ml/
+│   ├── alpr/                      # YOLOv8 detector, OCR, preprocessor, pipeline
+│   ├── slot_detection/            # Slot classification (MOG2/CNN) & validation
+│   └── training/                  # Training pipelines & evaluation scripts
 ├── logic/
-│   └── karnaugh.py                # Logika validasi cluster parkir
-├── tests/                         # Unit tests
-├── output/                        # Laporan & debug output
+│   └── karnaugh.py                # Logika validasi cluster parkir (Karnaugh Map)
+├── tests/                         # Unit tests (Pytest: API, OCR, ML, Cameras)
 └── requirements.txt               # Python dependencies
 ```
 

@@ -112,6 +112,7 @@ def evaluate_plate_detector(
             metrics.mAP50_95 = float(results.box.map) if hasattr(results.box, 'map') else 0.0
             metrics.precision = float(results.box.mp) if hasattr(results.box, 'mp') else 0.0
             metrics.recall = float(results.box.mr) if hasattr(results.box, 'mr') else 0.0
+            metrics.accuracy = metrics.mAP50
 
             metrics.target_met = metrics.mAP50 >= target_map
 
@@ -163,14 +164,12 @@ def evaluate_ocr_accuracy(
         pred_norm = pred.strip().upper().replace(" ", "")
         gt_norm = gt.strip().upper().replace(" ", "")
 
-        # Character-level comparison
-        for i, (pc, gc) in enumerate(zip(pred_norm, gt_norm)):
-            if pc == gc:
-                correct_chars += 1
-            total_chars += 1
-
-        # Account for length differences
-        total_chars += abs(len(pred_norm) - len(gt_norm))
+        # Character-level comparison using sequence alignment to avoid positional shift penalties
+        from difflib import SequenceMatcher
+        matcher = SequenceMatcher(None, pred_norm, gt_norm)
+        matches = sum(triple.size for triple in matcher.get_matching_blocks())
+        correct_chars += matches
+        total_chars += max(len(pred_norm), len(gt_norm))
 
         # Full-plate match
         if pred_norm == gt_norm:

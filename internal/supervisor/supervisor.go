@@ -10,7 +10,6 @@ import (
 	"path/filepath"
 	"strconv"
 	"sync"
-	"syscall"
 	"time"
 
 	"smartparking/internal/config"
@@ -74,8 +73,8 @@ func (s *Supervisor) Start() error {
 	env = append(env, fmt.Sprintf("PYTHONPATH=%s:%s", s.cfg.WorkDir, os.Getenv("PYTHONPATH")))
 	cmd.Env = env
 
-	// Set process group on Unix systems so all child processes can be killed together
-	cmd.SysProcAttr = &syscall.SysProcAttr{Setpgid: true}
+	// Set process group so all child processes can be killed together
+	setProcessGroup(cmd)
 
 	stdoutPipe, err := cmd.StdoutPipe()
 	if err != nil {
@@ -93,11 +92,7 @@ func (s *Supervisor) Start() error {
 
 	s.cmd = cmd
 	s.running = true
-	if pgid, err := syscall.Getpgid(cmd.Process.Pid); err == nil {
-		s.pgid = pgid
-	} else {
-		s.pgid = cmd.Process.Pid
-	}
+	s.pgid = getProcessGroupID(cmd.Process.Pid)
 
 	// Write PID file
 	_ = os.WriteFile(s.pidFile, []byte(strconv.Itoa(cmd.Process.Pid)), 0644)
@@ -159,14 +154,10 @@ func (s *Supervisor) Stop() error {
 		return nil
 	}
 
-	// Send SIGTERM to process group
-	if s.pgid > 0 {
-		_ = syscall.Kill(-s.pgid, syscall.SIGTERM)
-	} else {
-		_ = s.cmd.Process.Signal(syscall.SIGTERM)
-	}
+	// Send terminate signal
+	terminateProcess(s.cmd, s.pgid)
 
-	// Wait up to 5 seconds for clean exit, then SIGKILL
+	// Wait up to 5 seconds for clean exit, then kill
 	waitCh := make(chan struct{})
 	go func() {
 		for {
@@ -185,11 +176,7 @@ func (s *Supervisor) Stop() error {
 	case <-waitCh:
 		// gracefully exited
 	case <-time.After(5 * time.Second):
-		if s.pgid > 0 {
-			_ = syscall.Kill(-s.pgid, syscall.SIGKILL)
-		} else {
-			_ = s.cmd.Process.Kill()
-		}
+		killProcess(s.cmd, s.pgid)
 	}
 
 	s.running = false

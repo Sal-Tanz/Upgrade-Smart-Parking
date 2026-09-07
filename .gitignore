@@ -75,3 +75,6 @@ web/out/
 /smartparking
 /smartparking.exe
 .smartparking.pid
+/bin/
+/release/
+

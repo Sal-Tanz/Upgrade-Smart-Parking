@@ -8,10 +8,8 @@ import (
 	"net/http"
 	"os"
 	"os/exec"
-	"os/signal"
 	"strconv"
 	"strings"
-	"syscall"
 	"time"
 
 	"smartparking/internal/bootstrap"
@@ -150,7 +148,7 @@ func runServer(args []string) {
 
 	// Graceful shutdown handler
 	sigCh := make(chan os.Signal, 1)
-	signal.Notify(sigCh, os.Interrupt, syscall.SIGTERM)
+	notifyShutdown(sigCh)
 
 	go func() {
 		<-sigCh
@@ -283,8 +281,8 @@ func stopServer() {
 		return
 	}
 
-	fmt.Printf("[STOP] Sending SIGTERM to PID %d...\n", pid)
-	_ = proc.Signal(syscall.SIGTERM)
+	fmt.Printf("[STOP] Sending terminate signal to PID %d...\n", pid)
+	_ = terminatePID(proc)
 	time.Sleep(1 * time.Second)
 	_ = os.Remove(pidFile)
 	fmt.Println("[STOP] Done.")

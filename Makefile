@@ -19,13 +19,24 @@ export-models:
 build: export-models
 	@if [ ! -d internal/assets/dist ]; then $(MAKE) export-ui; fi
 	@echo "==> Compiling standalone Go binary (smartparking)..."
-	go build -ldflags="-s -w" -o smartparking ./cmd/smartparking
+	CGO_ENABLED=0 go build -ldflags="-s -w" -o smartparking ./cmd/smartparking
 	@echo "==> Build completed successfully: ./smartparking"
 
 rebuild: export-ui export-models
 	@echo "==> Compiling standalone Go binary (smartparking)..."
-	go build -ldflags="-s -w" -o smartparking ./cmd/smartparking
+	CGO_ENABLED=0 go build -ldflags="-s -w" -o smartparking ./cmd/smartparking
 	@echo "==> Build completed successfully: ./smartparking"
+
+release-build: export-models
+	@if [ ! -d internal/assets/dist ]; then $(MAKE) export-ui; fi
+	@echo "==> Building cross-platform release binaries..."
+	mkdir -p bin
+	CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -ldflags="-s -w" -o bin/smartparking-linux-amd64 ./cmd/smartparking
+	CGO_ENABLED=0 GOOS=linux GOARCH=arm64 go build -ldflags="-s -w" -o bin/smartparking-linux-arm64 ./cmd/smartparking
+	CGO_ENABLED=0 GOOS=darwin GOARCH=amd64 go build -ldflags="-s -w" -o bin/smartparking-darwin-amd64 ./cmd/smartparking
+	CGO_ENABLED=0 GOOS=darwin GOARCH=arm64 go build -ldflags="-s -w" -o bin/smartparking-darwin-arm64 ./cmd/smartparking
+	CGO_ENABLED=0 GOOS=windows GOARCH=amd64 go build -ldflags="-s -w" -o bin/smartparking-windows-amd64.exe ./cmd/smartparking
+	@echo "==> Release binaries built in ./bin"
 
 run:
 	./smartparking run

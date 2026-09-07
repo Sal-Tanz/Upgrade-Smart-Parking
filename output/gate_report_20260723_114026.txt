@@ -1,0 +1,5787 @@
+LAPORAN GATE DETECTION
+Tanggal: 2026-07-23 11:40:26
+Video: /home/x/Desktop/1.mp4
+Total Frame: 3855
+Total Deteksi: 845
+Total OCR: 825
+Palang Terbuka: 825 kali
+FPS Rata-rata: 75.0
+
+============================================================
+LOG PALANG TERBUKA
+============================================================
+
+#1
+  Waktu: 11:39:53 (frame 3031)
+  OCR: 01205
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#2
+  Waktu: 11:39:53 (frame 3032)
+  OCR: 01205
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#3
+  Waktu: 11:39:53 (frame 3033)
+  OCR: 01205
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#4
+  Waktu: 11:39:53 (frame 3034)
+  OCR: 01205
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#5
+  Waktu: 11:39:53 (frame 3035)
+  OCR: 01205
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#6
+  Waktu: 11:39:53 (frame 3036)
+  OCR: 01205
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#7
+  Waktu: 11:39:53 (frame 3037)
+  OCR: 01205
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#8
+  Waktu: 11:39:53 (frame 3038)
+  OCR: 01205
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#9
+  Waktu: 11:39:53 (frame 3039)
+  OCR: 01205
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#10
+  Waktu: 11:39:53 (frame 3040)
+  OCR: 01205
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#11
+  Waktu: 11:39:54 (frame 3041)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#12
+  Waktu: 11:39:54 (frame 3042)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#13
+  Waktu: 11:39:54 (frame 3043)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#14
+  Waktu: 11:39:54 (frame 3044)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#15
+  Waktu: 11:39:54 (frame 3045)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#16
+  Waktu: 11:39:54 (frame 3046)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#17
+  Waktu: 11:39:54 (frame 3047)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#18
+  Waktu: 11:39:54 (frame 3048)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#19
+  Waktu: 11:39:54 (frame 3049)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#20
+  Waktu: 11:39:54 (frame 3050)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#21
+  Waktu: 11:39:54 (frame 3051)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#22
+  Waktu: 11:39:54 (frame 3052)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#23
+  Waktu: 11:39:54 (frame 3053)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#24
+  Waktu: 11:39:54 (frame 3054)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#25
+  Waktu: 11:39:54 (frame 3055)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#26
+  Waktu: 11:39:54 (frame 3056)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#27
+  Waktu: 11:39:54 (frame 3057)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#28
+  Waktu: 11:39:54 (frame 3058)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#29
+  Waktu: 11:39:54 (frame 3059)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#30
+  Waktu: 11:39:54 (frame 3060)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#31
+  Waktu: 11:39:54 (frame 3061)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#32
+  Waktu: 11:39:54 (frame 3062)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#33
+  Waktu: 11:39:54 (frame 3063)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#34
+  Waktu: 11:39:54 (frame 3064)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#35
+  Waktu: 11:39:54 (frame 3065)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#36
+  Waktu: 11:39:55 (frame 3066)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#37
+  Waktu: 11:39:55 (frame 3067)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#38
+  Waktu: 11:39:55 (frame 3068)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#39
+  Waktu: 11:39:55 (frame 3069)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#40
+  Waktu: 11:39:55 (frame 3070)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#41
+  Waktu: 11:39:55 (frame 3071)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#42
+  Waktu: 11:39:55 (frame 3072)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#43
+  Waktu: 11:39:55 (frame 3073)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#44
+  Waktu: 11:39:55 (frame 3074)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#45
+  Waktu: 11:39:55 (frame 3075)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#46
+  Waktu: 11:39:55 (frame 3076)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#47
+  Waktu: 11:39:55 (frame 3077)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#48
+  Waktu: 11:39:55 (frame 3078)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#49
+  Waktu: 11:39:55 (frame 3079)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#50
+  Waktu: 11:39:55 (frame 3080)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#51
+  Waktu: 11:39:55 (frame 3081)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#52
+  Waktu: 11:39:55 (frame 3082)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#53
+  Waktu: 11:39:55 (frame 3083)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#54
+  Waktu: 11:39:55 (frame 3084)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#55
+  Waktu: 11:39:55 (frame 3085)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#56
+  Waktu: 11:39:55 (frame 3086)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#57
+  Waktu: 11:39:55 (frame 3087)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#58
+  Waktu: 11:39:55 (frame 3088)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#59
+  Waktu: 11:39:55 (frame 3089)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#60
+  Waktu: 11:39:55 (frame 3090)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#61
+  Waktu: 11:39:56 (frame 3091)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#62
+  Waktu: 11:39:56 (frame 3092)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#63
+  Waktu: 11:39:56 (frame 3093)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#64
+  Waktu: 11:39:56 (frame 3094)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#65
+  Waktu: 11:39:56 (frame 3095)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#66
+  Waktu: 11:39:56 (frame 3096)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#67
+  Waktu: 11:39:56 (frame 3097)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#68
+  Waktu: 11:39:56 (frame 3098)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#69
+  Waktu: 11:39:56 (frame 3099)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#70
+  Waktu: 11:39:56 (frame 3100)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#71
+  Waktu: 11:39:56 (frame 3101)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#72
+  Waktu: 11:39:56 (frame 3102)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#73
+  Waktu: 11:39:56 (frame 3103)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#74
+  Waktu: 11:39:56 (frame 3104)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#75
+  Waktu: 11:39:56 (frame 3105)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#76
+  Waktu: 11:39:56 (frame 3106)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#77
+  Waktu: 11:39:56 (frame 3107)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#78
+  Waktu: 11:39:56 (frame 3108)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#79
+  Waktu: 11:39:56 (frame 3109)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#80
+  Waktu: 11:39:56 (frame 3110)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#81
+  Waktu: 11:39:56 (frame 3111)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#82
+  Waktu: 11:39:56 (frame 3112)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#83
+  Waktu: 11:39:56 (frame 3113)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#84
+  Waktu: 11:39:56 (frame 3114)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#85
+  Waktu: 11:39:56 (frame 3115)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#86
+  Waktu: 11:39:56 (frame 3116)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#87
+  Waktu: 11:39:57 (frame 3117)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#88
+  Waktu: 11:39:57 (frame 3118)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#89
+  Waktu: 11:39:57 (frame 3119)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#90
+  Waktu: 11:39:57 (frame 3120)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#91
+  Waktu: 11:39:57 (frame 3121)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#92
+  Waktu: 11:39:57 (frame 3122)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#93
+  Waktu: 11:39:57 (frame 3123)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#94
+  Waktu: 11:39:57 (frame 3124)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#95
+  Waktu: 11:39:57 (frame 3125)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#96
+  Waktu: 11:39:57 (frame 3126)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#97
+  Waktu: 11:39:57 (frame 3127)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#98
+  Waktu: 11:39:57 (frame 3128)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#99
+  Waktu: 11:39:57 (frame 3129)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#100
+  Waktu: 11:39:57 (frame 3130)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#101
+  Waktu: 11:39:57 (frame 3131)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#102
+  Waktu: 11:39:57 (frame 3132)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#103
+  Waktu: 11:39:57 (frame 3133)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#104
+  Waktu: 11:39:57 (frame 3134)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#105
+  Waktu: 11:39:57 (frame 3135)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#106
+  Waktu: 11:39:57 (frame 3136)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#107
+  Waktu: 11:39:57 (frame 3137)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#108
+  Waktu: 11:39:57 (frame 3138)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#109
+  Waktu: 11:39:57 (frame 3139)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#110
+  Waktu: 11:39:57 (frame 3140)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#111
+  Waktu: 11:39:58 (frame 3141)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#112
+  Waktu: 11:39:58 (frame 3142)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#113
+  Waktu: 11:39:58 (frame 3143)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#114
+  Waktu: 11:39:58 (frame 3144)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#115
+  Waktu: 11:39:58 (frame 3145)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#116
+  Waktu: 11:39:58 (frame 3146)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#117
+  Waktu: 11:39:58 (frame 3147)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#118
+  Waktu: 11:39:58 (frame 3148)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#119
+  Waktu: 11:39:58 (frame 3149)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#120
+  Waktu: 11:39:58 (frame 3150)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#121
+  Waktu: 11:39:58 (frame 3151)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#122
+  Waktu: 11:39:58 (frame 3152)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#123
+  Waktu: 11:39:58 (frame 3153)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#124
+  Waktu: 11:39:58 (frame 3154)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#125
+  Waktu: 11:39:58 (frame 3155)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#126
+  Waktu: 11:39:58 (frame 3156)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#127
+  Waktu: 11:39:58 (frame 3157)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#128
+  Waktu: 11:39:58 (frame 3158)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#129
+  Waktu: 11:39:58 (frame 3159)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#130
+  Waktu: 11:39:58 (frame 3160)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#131
+  Waktu: 11:39:58 (frame 3161)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#132
+  Waktu: 11:39:58 (frame 3162)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#133
+  Waktu: 11:39:58 (frame 3163)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#134
+  Waktu: 11:39:58 (frame 3164)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#135
+  Waktu: 11:39:59 (frame 3165)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#136
+  Waktu: 11:39:59 (frame 3166)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#137
+  Waktu: 11:39:59 (frame 3167)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#138
+  Waktu: 11:39:59 (frame 3168)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#139
+  Waktu: 11:39:59 (frame 3169)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#140
+  Waktu: 11:39:59 (frame 3170)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#141
+  Waktu: 11:39:59 (frame 3171)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#142
+  Waktu: 11:39:59 (frame 3172)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#143
+  Waktu: 11:39:59 (frame 3173)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#144
+  Waktu: 11:39:59 (frame 3174)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#145
+  Waktu: 11:39:59 (frame 3175)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#146
+  Waktu: 11:39:59 (frame 3176)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#147
+  Waktu: 11:39:59 (frame 3177)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#148
+  Waktu: 11:39:59 (frame 3178)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#149
+  Waktu: 11:39:59 (frame 3179)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#150
+  Waktu: 11:39:59 (frame 3180)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#151
+  Waktu: 11:39:59 (frame 3181)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#152
+  Waktu: 11:39:59 (frame 3182)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#153
+  Waktu: 11:39:59 (frame 3183)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#154
+  Waktu: 11:39:59 (frame 3184)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#155
+  Waktu: 11:39:59 (frame 3185)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#156
+  Waktu: 11:39:59 (frame 3186)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#157
+  Waktu: 11:39:59 (frame 3187)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#158
+  Waktu: 11:39:59 (frame 3188)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#159
+  Waktu: 11:39:59 (frame 3189)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#160
+  Waktu: 11:39:59 (frame 3190)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#161
+  Waktu: 11:40:00 (frame 3191)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#162
+  Waktu: 11:40:00 (frame 3192)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#163
+  Waktu: 11:40:00 (frame 3193)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#164
+  Waktu: 11:40:00 (frame 3194)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#165
+  Waktu: 11:40:00 (frame 3195)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#166
+  Waktu: 11:40:00 (frame 3196)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#167
+  Waktu: 11:40:00 (frame 3197)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#168
+  Waktu: 11:40:00 (frame 3198)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#169
+  Waktu: 11:40:00 (frame 3199)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#170
+  Waktu: 11:40:00 (frame 3200)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#171
+  Waktu: 11:40:00 (frame 3201)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#172
+  Waktu: 11:40:00 (frame 3202)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#173
+  Waktu: 11:40:00 (frame 3203)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#174
+  Waktu: 11:40:00 (frame 3204)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#175
+  Waktu: 11:40:00 (frame 3205)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#176
+  Waktu: 11:40:00 (frame 3206)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#177
+  Waktu: 11:40:00 (frame 3207)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#178
+  Waktu: 11:40:00 (frame 3208)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#179
+  Waktu: 11:40:00 (frame 3209)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#180
+  Waktu: 11:40:00 (frame 3210)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#181
+  Waktu: 11:40:01 (frame 3211)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#182
+  Waktu: 11:40:01 (frame 3212)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#183
+  Waktu: 11:40:01 (frame 3213)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#184
+  Waktu: 11:40:01 (frame 3214)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#185
+  Waktu: 11:40:01 (frame 3215)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#186
+  Waktu: 11:40:01 (frame 3216)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#187
+  Waktu: 11:40:01 (frame 3217)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#188
+  Waktu: 11:40:01 (frame 3218)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#189
+  Waktu: 11:40:01 (frame 3219)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#190
+  Waktu: 11:40:01 (frame 3220)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#191
+  Waktu: 11:40:01 (frame 3221)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#192
+  Waktu: 11:40:01 (frame 3222)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#193
+  Waktu: 11:40:01 (frame 3223)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#194
+  Waktu: 11:40:01 (frame 3224)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#195
+  Waktu: 11:40:01 (frame 3225)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#196
+  Waktu: 11:40:01 (frame 3226)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#197
+  Waktu: 11:40:01 (frame 3227)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#198
+  Waktu: 11:40:01 (frame 3228)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#199
+  Waktu: 11:40:01 (frame 3229)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#200
+  Waktu: 11:40:01 (frame 3230)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#201
+  Waktu: 11:40:01 (frame 3231)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#202
+  Waktu: 11:40:01 (frame 3232)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#203
+  Waktu: 11:40:01 (frame 3233)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#204
+  Waktu: 11:40:01 (frame 3234)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#205
+  Waktu: 11:40:01 (frame 3235)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#206
+  Waktu: 11:40:01 (frame 3236)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#207
+  Waktu: 11:40:01 (frame 3237)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#208
+  Waktu: 11:40:02 (frame 3238)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#209
+  Waktu: 11:40:02 (frame 3239)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#210
+  Waktu: 11:40:02 (frame 3240)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#211
+  Waktu: 11:40:02 (frame 3241)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#212
+  Waktu: 11:40:02 (frame 3242)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#213
+  Waktu: 11:40:02 (frame 3243)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#214
+  Waktu: 11:40:02 (frame 3244)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#215
+  Waktu: 11:40:02 (frame 3245)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#216
+  Waktu: 11:40:02 (frame 3246)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#217
+  Waktu: 11:40:02 (frame 3247)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#218
+  Waktu: 11:40:02 (frame 3248)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#219
+  Waktu: 11:40:02 (frame 3249)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#220
+  Waktu: 11:40:02 (frame 3250)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#221
+  Waktu: 11:40:02 (frame 3251)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#222
+  Waktu: 11:40:02 (frame 3252)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#223
+  Waktu: 11:40:02 (frame 3253)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#224
+  Waktu: 11:40:02 (frame 3254)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#225
+  Waktu: 11:40:02 (frame 3255)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#226
+  Waktu: 11:40:02 (frame 3256)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#227
+  Waktu: 11:40:02 (frame 3257)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#228
+  Waktu: 11:40:02 (frame 3258)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#229
+  Waktu: 11:40:02 (frame 3259)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#230
+  Waktu: 11:40:02 (frame 3260)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#231
+  Waktu: 11:40:03 (frame 3261)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#232
+  Waktu: 11:40:03 (frame 3262)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#233
+  Waktu: 11:40:03 (frame 3263)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#234
+  Waktu: 11:40:03 (frame 3264)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#235
+  Waktu: 11:40:03 (frame 3265)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#236
+  Waktu: 11:40:03 (frame 3266)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#237
+  Waktu: 11:40:03 (frame 3267)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#238
+  Waktu: 11:40:03 (frame 3268)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#239
+  Waktu: 11:40:03 (frame 3269)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#240
+  Waktu: 11:40:03 (frame 3270)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#241
+  Waktu: 11:40:03 (frame 3271)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#242
+  Waktu: 11:40:03 (frame 3272)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#243
+  Waktu: 11:40:03 (frame 3273)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#244
+  Waktu: 11:40:03 (frame 3274)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#245
+  Waktu: 11:40:03 (frame 3275)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#246
+  Waktu: 11:40:03 (frame 3276)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#247
+  Waktu: 11:40:03 (frame 3277)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#248
+  Waktu: 11:40:03 (frame 3278)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#249
+  Waktu: 11:40:03 (frame 3279)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#250
+  Waktu: 11:40:03 (frame 3280)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#251
+  Waktu: 11:40:03 (frame 3281)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#252
+  Waktu: 11:40:03 (frame 3282)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#253
+  Waktu: 11:40:03 (frame 3283)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#254
+  Waktu: 11:40:03 (frame 3284)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#255
+  Waktu: 11:40:04 (frame 3285)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#256
+  Waktu: 11:40:04 (frame 3286)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#257
+  Waktu: 11:40:04 (frame 3287)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#258
+  Waktu: 11:40:04 (frame 3288)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#259
+  Waktu: 11:40:04 (frame 3289)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#260
+  Waktu: 11:40:04 (frame 3290)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#261
+  Waktu: 11:40:04 (frame 3291)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#262
+  Waktu: 11:40:04 (frame 3292)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#263
+  Waktu: 11:40:04 (frame 3293)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#264
+  Waktu: 11:40:04 (frame 3294)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#265
+  Waktu: 11:40:04 (frame 3295)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#266
+  Waktu: 11:40:04 (frame 3296)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#267
+  Waktu: 11:40:04 (frame 3297)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#268
+  Waktu: 11:40:04 (frame 3298)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#269
+  Waktu: 11:40:04 (frame 3299)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#270
+  Waktu: 11:40:04 (frame 3300)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#271
+  Waktu: 11:40:04 (frame 3301)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#272
+  Waktu: 11:40:04 (frame 3302)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#273
+  Waktu: 11:40:04 (frame 3303)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#274
+  Waktu: 11:40:04 (frame 3304)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#275
+  Waktu: 11:40:04 (frame 3305)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#276
+  Waktu: 11:40:04 (frame 3306)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#277
+  Waktu: 11:40:04 (frame 3307)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#278
+  Waktu: 11:40:04 (frame 3308)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#279
+  Waktu: 11:40:04 (frame 3309)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#280
+  Waktu: 11:40:05 (frame 3310)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#281
+  Waktu: 11:40:05 (frame 3311)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#282
+  Waktu: 11:40:05 (frame 3312)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#283
+  Waktu: 11:40:05 (frame 3313)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#284
+  Waktu: 11:40:05 (frame 3314)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#285
+  Waktu: 11:40:05 (frame 3315)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#286
+  Waktu: 11:40:05 (frame 3316)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#287
+  Waktu: 11:40:05 (frame 3317)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#288
+  Waktu: 11:40:05 (frame 3318)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#289
+  Waktu: 11:40:05 (frame 3319)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#290
+  Waktu: 11:40:05 (frame 3320)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#291
+  Waktu: 11:40:05 (frame 3321)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#292
+  Waktu: 11:40:05 (frame 3322)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#293
+  Waktu: 11:40:05 (frame 3323)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#294
+  Waktu: 11:40:05 (frame 3324)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#295
+  Waktu: 11:40:05 (frame 3325)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#296
+  Waktu: 11:40:05 (frame 3326)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#297
+  Waktu: 11:40:05 (frame 3327)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#298
+  Waktu: 11:40:05 (frame 3328)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#299
+  Waktu: 11:40:05 (frame 3329)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#300
+  Waktu: 11:40:05 (frame 3330)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#301
+  Waktu: 11:40:06 (frame 3331)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#302
+  Waktu: 11:40:06 (frame 3332)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#303
+  Waktu: 11:40:06 (frame 3333)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#304
+  Waktu: 11:40:06 (frame 3334)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#305
+  Waktu: 11:40:06 (frame 3335)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#306
+  Waktu: 11:40:06 (frame 3336)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#307
+  Waktu: 11:40:06 (frame 3337)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#308
+  Waktu: 11:40:06 (frame 3338)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#309
+  Waktu: 11:40:06 (frame 3339)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#310
+  Waktu: 11:40:06 (frame 3340)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#311
+  Waktu: 11:40:06 (frame 3341)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#312
+  Waktu: 11:40:06 (frame 3342)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#313
+  Waktu: 11:40:06 (frame 3343)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#314
+  Waktu: 11:40:06 (frame 3344)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#315
+  Waktu: 11:40:06 (frame 3345)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#316
+  Waktu: 11:40:06 (frame 3346)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#317
+  Waktu: 11:40:06 (frame 3347)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#318
+  Waktu: 11:40:06 (frame 3348)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#319
+  Waktu: 11:40:06 (frame 3349)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#320
+  Waktu: 11:40:06 (frame 3350)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#321
+  Waktu: 11:40:06 (frame 3351)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#322
+  Waktu: 11:40:06 (frame 3352)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#323
+  Waktu: 11:40:06 (frame 3353)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#324
+  Waktu: 11:40:06 (frame 3354)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#325
+  Waktu: 11:40:06 (frame 3355)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#326
+  Waktu: 11:40:06 (frame 3356)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#327
+  Waktu: 11:40:06 (frame 3357)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#328
+  Waktu: 11:40:06 (frame 3358)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#329
+  Waktu: 11:40:06 (frame 3359)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#330
+  Waktu: 11:40:06 (frame 3360)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#331
+  Waktu: 11:40:07 (frame 3361)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#332
+  Waktu: 11:40:07 (frame 3362)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#333
+  Waktu: 11:40:07 (frame 3363)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#334
+  Waktu: 11:40:07 (frame 3364)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#335
+  Waktu: 11:40:07 (frame 3365)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#336
+  Waktu: 11:40:07 (frame 3366)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#337
+  Waktu: 11:40:07 (frame 3367)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#338
+  Waktu: 11:40:07 (frame 3368)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#339
+  Waktu: 11:40:07 (frame 3369)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#340
+  Waktu: 11:40:07 (frame 3370)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#341
+  Waktu: 11:40:07 (frame 3371)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#342
+  Waktu: 11:40:07 (frame 3372)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#343
+  Waktu: 11:40:07 (frame 3373)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#344
+  Waktu: 11:40:07 (frame 3374)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#345
+  Waktu: 11:40:07 (frame 3375)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#346
+  Waktu: 11:40:07 (frame 3376)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#347
+  Waktu: 11:40:07 (frame 3377)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#348
+  Waktu: 11:40:07 (frame 3378)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#349
+  Waktu: 11:40:07 (frame 3379)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#350
+  Waktu: 11:40:07 (frame 3380)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#351
+  Waktu: 11:40:07 (frame 3381)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#352
+  Waktu: 11:40:07 (frame 3382)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#353
+  Waktu: 11:40:07 (frame 3383)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#354
+  Waktu: 11:40:07 (frame 3384)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#355
+  Waktu: 11:40:07 (frame 3385)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#356
+  Waktu: 11:40:07 (frame 3386)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#357
+  Waktu: 11:40:08 (frame 3387)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#358
+  Waktu: 11:40:08 (frame 3388)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#359
+  Waktu: 11:40:08 (frame 3389)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#360
+  Waktu: 11:40:08 (frame 3390)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#361
+  Waktu: 11:40:08 (frame 3391)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#362
+  Waktu: 11:40:08 (frame 3392)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#363
+  Waktu: 11:40:08 (frame 3393)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#364
+  Waktu: 11:40:08 (frame 3394)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#365
+  Waktu: 11:40:08 (frame 3395)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#366
+  Waktu: 11:40:08 (frame 3396)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#367
+  Waktu: 11:40:08 (frame 3397)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#368
+  Waktu: 11:40:08 (frame 3398)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#369
+  Waktu: 11:40:08 (frame 3399)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#370
+  Waktu: 11:40:08 (frame 3400)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#371
+  Waktu: 11:40:08 (frame 3401)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#372
+  Waktu: 11:40:08 (frame 3402)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#373
+  Waktu: 11:40:08 (frame 3403)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#374
+  Waktu: 11:40:08 (frame 3404)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#375
+  Waktu: 11:40:08 (frame 3405)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#376
+  Waktu: 11:40:08 (frame 3406)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#377
+  Waktu: 11:40:08 (frame 3407)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#378
+  Waktu: 11:40:08 (frame 3408)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#379
+  Waktu: 11:40:08 (frame 3409)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#380
+  Waktu: 11:40:08 (frame 3410)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#381
+  Waktu: 11:40:09 (frame 3411)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#382
+  Waktu: 11:40:09 (frame 3412)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#383
+  Waktu: 11:40:09 (frame 3413)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#384
+  Waktu: 11:40:09 (frame 3414)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#385
+  Waktu: 11:40:09 (frame 3415)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#386
+  Waktu: 11:40:09 (frame 3416)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#387
+  Waktu: 11:40:09 (frame 3417)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#388
+  Waktu: 11:40:09 (frame 3418)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#389
+  Waktu: 11:40:09 (frame 3419)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#390
+  Waktu: 11:40:09 (frame 3420)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#391
+  Waktu: 11:40:09 (frame 3421)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#392
+  Waktu: 11:40:09 (frame 3422)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#393
+  Waktu: 11:40:09 (frame 3423)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#394
+  Waktu: 11:40:09 (frame 3424)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#395
+  Waktu: 11:40:09 (frame 3425)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#396
+  Waktu: 11:40:09 (frame 3426)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#397
+  Waktu: 11:40:09 (frame 3427)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#398
+  Waktu: 11:40:09 (frame 3428)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#399
+  Waktu: 11:40:09 (frame 3429)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#400
+  Waktu: 11:40:09 (frame 3430)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#401
+  Waktu: 11:40:09 (frame 3431)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#402
+  Waktu: 11:40:09 (frame 3432)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#403
+  Waktu: 11:40:09 (frame 3433)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#404
+  Waktu: 11:40:09 (frame 3434)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#405
+  Waktu: 11:40:09 (frame 3435)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#406
+  Waktu: 11:40:09 (frame 3436)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#407
+  Waktu: 11:40:10 (frame 3437)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#408
+  Waktu: 11:40:10 (frame 3438)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#409
+  Waktu: 11:40:10 (frame 3439)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#410
+  Waktu: 11:40:10 (frame 3440)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#411
+  Waktu: 11:40:10 (frame 3441)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#412
+  Waktu: 11:40:10 (frame 3442)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#413
+  Waktu: 11:40:10 (frame 3443)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#414
+  Waktu: 11:40:10 (frame 3444)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#415
+  Waktu: 11:40:10 (frame 3445)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#416
+  Waktu: 11:40:10 (frame 3446)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#417
+  Waktu: 11:40:10 (frame 3447)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#418
+  Waktu: 11:40:10 (frame 3448)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#419
+  Waktu: 11:40:10 (frame 3449)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#420
+  Waktu: 11:40:10 (frame 3450)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#421
+  Waktu: 11:40:10 (frame 3451)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#422
+  Waktu: 11:40:10 (frame 3452)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#423
+  Waktu: 11:40:10 (frame 3453)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#424
+  Waktu: 11:40:10 (frame 3454)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#425
+  Waktu: 11:40:10 (frame 3455)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#426
+  Waktu: 11:40:10 (frame 3456)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#427
+  Waktu: 11:40:10 (frame 3457)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#428
+  Waktu: 11:40:10 (frame 3458)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#429
+  Waktu: 11:40:10 (frame 3459)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#430
+  Waktu: 11:40:10 (frame 3460)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#431
+  Waktu: 11:40:11 (frame 3461)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#432
+  Waktu: 11:40:11 (frame 3462)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#433
+  Waktu: 11:40:11 (frame 3463)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#434
+  Waktu: 11:40:11 (frame 3464)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#435
+  Waktu: 11:40:11 (frame 3465)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#436
+  Waktu: 11:40:11 (frame 3466)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#437
+  Waktu: 11:40:11 (frame 3467)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#438
+  Waktu: 11:40:11 (frame 3468)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#439
+  Waktu: 11:40:11 (frame 3469)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#440
+  Waktu: 11:40:11 (frame 3470)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#441
+  Waktu: 11:40:11 (frame 3471)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#442
+  Waktu: 11:40:11 (frame 3472)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#443
+  Waktu: 11:40:11 (frame 3473)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#444
+  Waktu: 11:40:11 (frame 3474)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#445
+  Waktu: 11:40:11 (frame 3475)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#446
+  Waktu: 11:40:11 (frame 3476)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#447
+  Waktu: 11:40:11 (frame 3477)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#448
+  Waktu: 11:40:11 (frame 3478)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#449
+  Waktu: 11:40:11 (frame 3479)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#450
+  Waktu: 11:40:11 (frame 3480)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#451
+  Waktu: 11:40:11 (frame 3481)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#452
+  Waktu: 11:40:11 (frame 3482)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#453
+  Waktu: 11:40:11 (frame 3483)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#454
+  Waktu: 11:40:11 (frame 3484)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#455
+  Waktu: 11:40:11 (frame 3485)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#456
+  Waktu: 11:40:12 (frame 3486)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#457
+  Waktu: 11:40:12 (frame 3487)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#458
+  Waktu: 11:40:12 (frame 3488)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#459
+  Waktu: 11:40:12 (frame 3489)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#460
+  Waktu: 11:40:12 (frame 3490)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#461
+  Waktu: 11:40:12 (frame 3491)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#462
+  Waktu: 11:40:12 (frame 3492)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#463
+  Waktu: 11:40:12 (frame 3493)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#464
+  Waktu: 11:40:12 (frame 3494)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#465
+  Waktu: 11:40:12 (frame 3495)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#466
+  Waktu: 11:40:12 (frame 3496)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#467
+  Waktu: 11:40:12 (frame 3497)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#468
+  Waktu: 11:40:12 (frame 3498)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#469
+  Waktu: 11:40:12 (frame 3499)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#470
+  Waktu: 11:40:12 (frame 3500)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#471
+  Waktu: 11:40:12 (frame 3501)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#472
+  Waktu: 11:40:12 (frame 3502)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#473
+  Waktu: 11:40:12 (frame 3503)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#474
+  Waktu: 11:40:12 (frame 3504)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#475
+  Waktu: 11:40:12 (frame 3505)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#476
+  Waktu: 11:40:12 (frame 3506)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#477
+  Waktu: 11:40:12 (frame 3507)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#478
+  Waktu: 11:40:12 (frame 3508)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#479
+  Waktu: 11:40:12 (frame 3509)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#480
+  Waktu: 11:40:12 (frame 3510)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#481
+  Waktu: 11:40:13 (frame 3511)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#482
+  Waktu: 11:40:13 (frame 3512)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#483
+  Waktu: 11:40:13 (frame 3513)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#484
+  Waktu: 11:40:13 (frame 3514)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#485
+  Waktu: 11:40:13 (frame 3515)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#486
+  Waktu: 11:40:13 (frame 3516)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#487
+  Waktu: 11:40:13 (frame 3517)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#488
+  Waktu: 11:40:13 (frame 3518)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#489
+  Waktu: 11:40:13 (frame 3519)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#490
+  Waktu: 11:40:13 (frame 3520)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#491
+  Waktu: 11:40:13 (frame 3521)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#492
+  Waktu: 11:40:13 (frame 3522)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#493
+  Waktu: 11:40:13 (frame 3523)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#494
+  Waktu: 11:40:13 (frame 3524)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#495
+  Waktu: 11:40:13 (frame 3525)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#496
+  Waktu: 11:40:13 (frame 3526)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#497
+  Waktu: 11:40:13 (frame 3527)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#498
+  Waktu: 11:40:13 (frame 3528)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#499
+  Waktu: 11:40:13 (frame 3529)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#500
+  Waktu: 11:40:13 (frame 3530)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#501
+  Waktu: 11:40:13 (frame 3531)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#502
+  Waktu: 11:40:13 (frame 3532)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#503
+  Waktu: 11:40:13 (frame 3533)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#504
+  Waktu: 11:40:13 (frame 3534)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#505
+  Waktu: 11:40:13 (frame 3535)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#506
+  Waktu: 11:40:13 (frame 3536)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#507
+  Waktu: 11:40:13 (frame 3537)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#508
+  Waktu: 11:40:13 (frame 3538)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#509
+  Waktu: 11:40:13 (frame 3539)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#510
+  Waktu: 11:40:14 (frame 3540)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#511
+  Waktu: 11:40:14 (frame 3541)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#512
+  Waktu: 11:40:14 (frame 3542)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#513
+  Waktu: 11:40:14 (frame 3543)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#514
+  Waktu: 11:40:14 (frame 3544)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#515
+  Waktu: 11:40:14 (frame 3545)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#516
+  Waktu: 11:40:14 (frame 3546)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#517
+  Waktu: 11:40:14 (frame 3547)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#518
+  Waktu: 11:40:14 (frame 3548)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#519
+  Waktu: 11:40:14 (frame 3549)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#520
+  Waktu: 11:40:14 (frame 3550)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#521
+  Waktu: 11:40:14 (frame 3551)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#522
+  Waktu: 11:40:14 (frame 3552)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#523
+  Waktu: 11:40:14 (frame 3553)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#524
+  Waktu: 11:40:14 (frame 3554)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#525
+  Waktu: 11:40:14 (frame 3555)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#526
+  Waktu: 11:40:14 (frame 3556)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#527
+  Waktu: 11:40:14 (frame 3557)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#528
+  Waktu: 11:40:14 (frame 3558)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#529
+  Waktu: 11:40:14 (frame 3559)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#530
+  Waktu: 11:40:14 (frame 3560)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#531
+  Waktu: 11:40:14 (frame 3561)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#532
+  Waktu: 11:40:14 (frame 3562)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#533
+  Waktu: 11:40:14 (frame 3563)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#534
+  Waktu: 11:40:14 (frame 3564)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#535
+  Waktu: 11:40:15 (frame 3565)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#536
+  Waktu: 11:40:15 (frame 3566)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#537
+  Waktu: 11:40:15 (frame 3567)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#538
+  Waktu: 11:40:15 (frame 3568)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#539
+  Waktu: 11:40:15 (frame 3569)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#540
+  Waktu: 11:40:15 (frame 3570)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#541
+  Waktu: 11:40:15 (frame 3571)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#542
+  Waktu: 11:40:15 (frame 3572)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#543
+  Waktu: 11:40:15 (frame 3573)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#544
+  Waktu: 11:40:15 (frame 3574)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#545
+  Waktu: 11:40:15 (frame 3575)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#546
+  Waktu: 11:40:15 (frame 3576)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#547
+  Waktu: 11:40:15 (frame 3577)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#548
+  Waktu: 11:40:15 (frame 3578)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#549
+  Waktu: 11:40:15 (frame 3579)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#550
+  Waktu: 11:40:15 (frame 3580)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#551
+  Waktu: 11:40:15 (frame 3581)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#552
+  Waktu: 11:40:15 (frame 3582)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#553
+  Waktu: 11:40:15 (frame 3583)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#554
+  Waktu: 11:40:15 (frame 3584)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#555
+  Waktu: 11:40:15 (frame 3585)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#556
+  Waktu: 11:40:15 (frame 3586)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#557
+  Waktu: 11:40:15 (frame 3587)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#558
+  Waktu: 11:40:15 (frame 3588)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#559
+  Waktu: 11:40:15 (frame 3589)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#560
+  Waktu: 11:40:15 (frame 3590)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#561
+  Waktu: 11:40:16 (frame 3591)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#562
+  Waktu: 11:40:16 (frame 3592)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#563
+  Waktu: 11:40:16 (frame 3593)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#564
+  Waktu: 11:40:16 (frame 3594)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#565
+  Waktu: 11:40:16 (frame 3595)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#566
+  Waktu: 11:40:16 (frame 3596)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#567
+  Waktu: 11:40:16 (frame 3597)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#568
+  Waktu: 11:40:16 (frame 3598)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#569
+  Waktu: 11:40:16 (frame 3599)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#570
+  Waktu: 11:40:16 (frame 3600)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#571
+  Waktu: 11:40:16 (frame 3601)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#572
+  Waktu: 11:40:16 (frame 3602)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#573
+  Waktu: 11:40:16 (frame 3603)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#574
+  Waktu: 11:40:16 (frame 3604)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#575
+  Waktu: 11:40:16 (frame 3605)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#576
+  Waktu: 11:40:16 (frame 3606)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#577
+  Waktu: 11:40:16 (frame 3607)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#578
+  Waktu: 11:40:16 (frame 3608)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#579
+  Waktu: 11:40:16 (frame 3609)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#580
+  Waktu: 11:40:16 (frame 3610)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#581
+  Waktu: 11:40:16 (frame 3611)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#582
+  Waktu: 11:40:16 (frame 3612)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#583
+  Waktu: 11:40:17 (frame 3613)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#584
+  Waktu: 11:40:17 (frame 3614)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#585
+  Waktu: 11:40:17 (frame 3615)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#586
+  Waktu: 11:40:17 (frame 3616)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#587
+  Waktu: 11:40:17 (frame 3617)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#588
+  Waktu: 11:40:17 (frame 3618)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#589
+  Waktu: 11:40:17 (frame 3619)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#590
+  Waktu: 11:40:17 (frame 3620)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#591
+  Waktu: 11:40:17 (frame 3621)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#592
+  Waktu: 11:40:17 (frame 3622)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#593
+  Waktu: 11:40:17 (frame 3623)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#594
+  Waktu: 11:40:17 (frame 3624)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#595
+  Waktu: 11:40:17 (frame 3625)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#596
+  Waktu: 11:40:17 (frame 3626)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#597
+  Waktu: 11:40:17 (frame 3627)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#598
+  Waktu: 11:40:17 (frame 3628)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#599
+  Waktu: 11:40:17 (frame 3629)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#600
+  Waktu: 11:40:17 (frame 3630)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#601
+  Waktu: 11:40:17 (frame 3631)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#602
+  Waktu: 11:40:17 (frame 3632)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#603
+  Waktu: 11:40:17 (frame 3633)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#604
+  Waktu: 11:40:17 (frame 3634)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#605
+  Waktu: 11:40:17 (frame 3635)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#606
+  Waktu: 11:40:17 (frame 3636)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#607
+  Waktu: 11:40:17 (frame 3637)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#608
+  Waktu: 11:40:17 (frame 3638)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#609
+  Waktu: 11:40:17 (frame 3639)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#610
+  Waktu: 11:40:18 (frame 3640)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#611
+  Waktu: 11:40:18 (frame 3641)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#612
+  Waktu: 11:40:18 (frame 3642)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#613
+  Waktu: 11:40:18 (frame 3643)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#614
+  Waktu: 11:40:18 (frame 3644)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#615
+  Waktu: 11:40:18 (frame 3645)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#616
+  Waktu: 11:40:18 (frame 3646)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#617
+  Waktu: 11:40:18 (frame 3647)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#618
+  Waktu: 11:40:18 (frame 3648)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#619
+  Waktu: 11:40:18 (frame 3649)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#620
+  Waktu: 11:40:18 (frame 3650)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#621
+  Waktu: 11:40:18 (frame 3651)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#622
+  Waktu: 11:40:18 (frame 3652)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#623
+  Waktu: 11:40:18 (frame 3653)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#624
+  Waktu: 11:40:18 (frame 3654)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#625
+  Waktu: 11:40:18 (frame 3655)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#626
+  Waktu: 11:40:18 (frame 3656)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#627
+  Waktu: 11:40:18 (frame 3657)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#628
+  Waktu: 11:40:18 (frame 3658)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#629
+  Waktu: 11:40:18 (frame 3659)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#630
+  Waktu: 11:40:18 (frame 3660)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#631
+  Waktu: 11:40:19 (frame 3661)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#632
+  Waktu: 11:40:19 (frame 3662)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#633
+  Waktu: 11:40:19 (frame 3663)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#634
+  Waktu: 11:40:19 (frame 3664)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#635
+  Waktu: 11:40:19 (frame 3665)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#636
+  Waktu: 11:40:19 (frame 3666)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#637
+  Waktu: 11:40:19 (frame 3667)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#638
+  Waktu: 11:40:19 (frame 3668)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#639
+  Waktu: 11:40:19 (frame 3669)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#640
+  Waktu: 11:40:19 (frame 3670)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#641
+  Waktu: 11:40:19 (frame 3671)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#642
+  Waktu: 11:40:19 (frame 3672)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#643
+  Waktu: 11:40:19 (frame 3673)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#644
+  Waktu: 11:40:19 (frame 3674)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#645
+  Waktu: 11:40:19 (frame 3675)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#646
+  Waktu: 11:40:19 (frame 3676)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#647
+  Waktu: 11:40:19 (frame 3677)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#648
+  Waktu: 11:40:19 (frame 3678)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#649
+  Waktu: 11:40:19 (frame 3679)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#650
+  Waktu: 11:40:19 (frame 3680)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#651
+  Waktu: 11:40:19 (frame 3681)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#652
+  Waktu: 11:40:19 (frame 3682)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#653
+  Waktu: 11:40:19 (frame 3683)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#654
+  Waktu: 11:40:19 (frame 3684)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#655
+  Waktu: 11:40:19 (frame 3685)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#656
+  Waktu: 11:40:19 (frame 3686)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#657
+  Waktu: 11:40:19 (frame 3687)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#658
+  Waktu: 11:40:20 (frame 3688)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#659
+  Waktu: 11:40:20 (frame 3689)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#660
+  Waktu: 11:40:20 (frame 3690)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#661
+  Waktu: 11:40:20 (frame 3691)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#662
+  Waktu: 11:40:20 (frame 3692)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#663
+  Waktu: 11:40:20 (frame 3693)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#664
+  Waktu: 11:40:20 (frame 3694)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#665
+  Waktu: 11:40:20 (frame 3695)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#666
+  Waktu: 11:40:20 (frame 3696)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#667
+  Waktu: 11:40:20 (frame 3697)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#668
+  Waktu: 11:40:20 (frame 3698)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#669
+  Waktu: 11:40:20 (frame 3699)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#670
+  Waktu: 11:40:20 (frame 3700)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#671
+  Waktu: 11:40:20 (frame 3701)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#672
+  Waktu: 11:40:20 (frame 3702)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#673
+  Waktu: 11:40:20 (frame 3703)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#674
+  Waktu: 11:40:20 (frame 3704)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#675
+  Waktu: 11:40:20 (frame 3705)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#676
+  Waktu: 11:40:20 (frame 3706)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#677
+  Waktu: 11:40:20 (frame 3707)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#678
+  Waktu: 11:40:20 (frame 3708)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#679
+  Waktu: 11:40:20 (frame 3709)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#680
+  Waktu: 11:40:20 (frame 3710)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#681
+  Waktu: 11:40:21 (frame 3711)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#682
+  Waktu: 11:40:21 (frame 3712)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#683
+  Waktu: 11:40:21 (frame 3713)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#684
+  Waktu: 11:40:21 (frame 3714)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#685
+  Waktu: 11:40:21 (frame 3715)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#686
+  Waktu: 11:40:21 (frame 3716)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#687
+  Waktu: 11:40:21 (frame 3717)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#688
+  Waktu: 11:40:21 (frame 3718)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#689
+  Waktu: 11:40:21 (frame 3719)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#690
+  Waktu: 11:40:21 (frame 3720)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#691
+  Waktu: 11:40:21 (frame 3721)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#692
+  Waktu: 11:40:21 (frame 3722)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#693
+  Waktu: 11:40:21 (frame 3723)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#694
+  Waktu: 11:40:21 (frame 3724)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#695
+  Waktu: 11:40:21 (frame 3725)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#696
+  Waktu: 11:40:21 (frame 3726)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#697
+  Waktu: 11:40:21 (frame 3727)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#698
+  Waktu: 11:40:21 (frame 3728)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#699
+  Waktu: 11:40:21 (frame 3729)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#700
+  Waktu: 11:40:21 (frame 3730)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#701
+  Waktu: 11:40:21 (frame 3731)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#702
+  Waktu: 11:40:21 (frame 3732)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#703
+  Waktu: 11:40:21 (frame 3733)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#704
+  Waktu: 11:40:21 (frame 3734)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#705
+  Waktu: 11:40:21 (frame 3735)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#706
+  Waktu: 11:40:21 (frame 3736)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#707
+  Waktu: 11:40:22 (frame 3737)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#708
+  Waktu: 11:40:22 (frame 3738)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#709
+  Waktu: 11:40:22 (frame 3739)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#710
+  Waktu: 11:40:22 (frame 3740)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#711
+  Waktu: 11:40:22 (frame 3741)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#712
+  Waktu: 11:40:22 (frame 3742)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#713
+  Waktu: 11:40:22 (frame 3743)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#714
+  Waktu: 11:40:22 (frame 3744)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#715
+  Waktu: 11:40:22 (frame 3745)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#716
+  Waktu: 11:40:22 (frame 3746)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#717
+  Waktu: 11:40:22 (frame 3747)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#718
+  Waktu: 11:40:22 (frame 3748)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#719
+  Waktu: 11:40:22 (frame 3749)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#720
+  Waktu: 11:40:22 (frame 3750)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#721
+  Waktu: 11:40:22 (frame 3751)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#722
+  Waktu: 11:40:22 (frame 3752)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#723
+  Waktu: 11:40:22 (frame 3753)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#724
+  Waktu: 11:40:22 (frame 3754)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#725
+  Waktu: 11:40:22 (frame 3755)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#726
+  Waktu: 11:40:22 (frame 3756)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#727
+  Waktu: 11:40:22 (frame 3757)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#728
+  Waktu: 11:40:22 (frame 3758)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#729
+  Waktu: 11:40:22 (frame 3759)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#730
+  Waktu: 11:40:22 (frame 3760)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#731
+  Waktu: 11:40:23 (frame 3761)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#732
+  Waktu: 11:40:23 (frame 3762)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#733
+  Waktu: 11:40:23 (frame 3763)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#734
+  Waktu: 11:40:23 (frame 3764)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#735
+  Waktu: 11:40:23 (frame 3765)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#736
+  Waktu: 11:40:23 (frame 3766)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#737
+  Waktu: 11:40:23 (frame 3767)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#738
+  Waktu: 11:40:23 (frame 3768)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#739
+  Waktu: 11:40:23 (frame 3769)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#740
+  Waktu: 11:40:23 (frame 3770)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#741
+  Waktu: 11:40:23 (frame 3771)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#742
+  Waktu: 11:40:23 (frame 3772)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#743
+  Waktu: 11:40:23 (frame 3773)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#744
+  Waktu: 11:40:23 (frame 3774)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#745
+  Waktu: 11:40:23 (frame 3775)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#746
+  Waktu: 11:40:23 (frame 3776)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#747
+  Waktu: 11:40:23 (frame 3777)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#748
+  Waktu: 11:40:23 (frame 3778)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#749
+  Waktu: 11:40:23 (frame 3779)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#750
+  Waktu: 11:40:23 (frame 3780)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#751
+  Waktu: 11:40:23 (frame 3781)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#752
+  Waktu: 11:40:23 (frame 3782)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#753
+  Waktu: 11:40:23 (frame 3783)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#754
+  Waktu: 11:40:24 (frame 3784)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#755
+  Waktu: 11:40:24 (frame 3785)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#756
+  Waktu: 11:40:24 (frame 3786)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#757
+  Waktu: 11:40:24 (frame 3787)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#758
+  Waktu: 11:40:24 (frame 3788)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#759
+  Waktu: 11:40:24 (frame 3789)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#760
+  Waktu: 11:40:24 (frame 3790)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#761
+  Waktu: 11:40:24 (frame 3791)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#762
+  Waktu: 11:40:24 (frame 3792)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#763
+  Waktu: 11:40:24 (frame 3793)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#764
+  Waktu: 11:40:24 (frame 3794)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#765
+  Waktu: 11:40:24 (frame 3795)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#766
+  Waktu: 11:40:24 (frame 3796)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#767
+  Waktu: 11:40:24 (frame 3797)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#768
+  Waktu: 11:40:24 (frame 3798)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#769
+  Waktu: 11:40:24 (frame 3799)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#770
+  Waktu: 11:40:24 (frame 3800)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#771
+  Waktu: 11:40:24 (frame 3801)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#772
+  Waktu: 11:40:24 (frame 3802)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#773
+  Waktu: 11:40:24 (frame 3803)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#774
+  Waktu: 11:40:24 (frame 3804)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#775
+  Waktu: 11:40:24 (frame 3805)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#776
+  Waktu: 11:40:24 (frame 3806)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#777
+  Waktu: 11:40:24 (frame 3807)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#778
+  Waktu: 11:40:24 (frame 3808)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#779
+  Waktu: 11:40:24 (frame 3809)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#780
+  Waktu: 11:40:24 (frame 3810)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#781
+  Waktu: 11:40:25 (frame 3811)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#782
+  Waktu: 11:40:25 (frame 3812)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#783
+  Waktu: 11:40:25 (frame 3813)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#784
+  Waktu: 11:40:25 (frame 3814)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#785
+  Waktu: 11:40:25 (frame 3815)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#786
+  Waktu: 11:40:25 (frame 3816)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#787
+  Waktu: 11:40:25 (frame 3817)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#788
+  Waktu: 11:40:25 (frame 3818)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#789
+  Waktu: 11:40:25 (frame 3819)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#790
+  Waktu: 11:40:25 (frame 3820)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#791
+  Waktu: 11:40:25 (frame 3821)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#792
+  Waktu: 11:40:25 (frame 3822)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#793
+  Waktu: 11:40:25 (frame 3823)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#794
+  Waktu: 11:40:25 (frame 3824)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#795
+  Waktu: 11:40:25 (frame 3825)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#796
+  Waktu: 11:40:25 (frame 3826)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#797
+  Waktu: 11:40:25 (frame 3827)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#798
+  Waktu: 11:40:25 (frame 3828)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#799
+  Waktu: 11:40:25 (frame 3829)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#800
+  Waktu: 11:40:25 (frame 3830)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#801
+  Waktu: 11:40:25 (frame 3831)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#802
+  Waktu: 11:40:25 (frame 3832)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#803
+  Waktu: 11:40:25 (frame 3833)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#804
+  Waktu: 11:40:26 (frame 3834)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#805
+  Waktu: 11:40:26 (frame 3835)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#806
+  Waktu: 11:40:26 (frame 3836)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#807
+  Waktu: 11:40:26 (frame 3837)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#808
+  Waktu: 11:40:26 (frame 3838)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#809
+  Waktu: 11:40:26 (frame 3839)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#810
+  Waktu: 11:40:26 (frame 3840)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#811
+  Waktu: 11:40:26 (frame 3841)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#812
+  Waktu: 11:40:26 (frame 3842)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#813
+  Waktu: 11:40:26 (frame 3843)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#814
+  Waktu: 11:40:26 (frame 3844)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#815
+  Waktu: 11:40:26 (frame 3845)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#816
+  Waktu: 11:40:26 (frame 3846)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#817
+  Waktu: 11:40:26 (frame 3847)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#818
+  Waktu: 11:40:26 (frame 3848)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#819
+  Waktu: 11:40:26 (frame 3849)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#820
+  Waktu: 11:40:26 (frame 3850)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#821
+  Waktu: 11:40:26 (frame 3851)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#822
+  Waktu: 11:40:26 (frame 3852)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#823
+  Waktu: 11:40:26 (frame 3853)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#824
+  Waktu: 11:40:26 (frame 3854)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#825
+  Waktu: 11:40:26 (frame 3855)
+  OCR: D 1205 AJA
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA

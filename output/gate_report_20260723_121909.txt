@@ -1,0 +1,27 @@
+LAPORAN GATE DETECTION DUAL LANE
+Tanggal: 2026-07-23 12:19:09
+Video: /home/x/Desktop/2.mp4
+Total Frame: 2706
+Palang Kiri: 1 kali
+Palang Kanan: 1 kali
+FPS Rata-rata: 70.1
+
+============================================================
+LOG PALANG TERBUKA - JALUR KIRI
+============================================================
+
+  #1
+  Waktu: 12:17:44 (frame 871)
+  OCR: 1023US
+  Database: T 1023 US
+  Pemilik: Wakil Dekan
+
+============================================================
+LOG PALANG TERBUKA - JALUR KANAN
+============================================================
+
+  #1
+  Waktu: 12:17:44 (frame 861)
+  OCR: 1023 US
+  Database: T 1023 US
+  Pemilik: Wakil Dekan

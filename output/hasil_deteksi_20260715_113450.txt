@@ -1,0 +1,124 @@
+LAPORAN HASIL DETEKSI PLAT NOMOR
+Tanggal: 2026-07-15 11:34:50
+Jumlah Gambar: 8
+Model YOLO: ml/models/yolov8_plate.pt
+
+============================================================
+File: data_test1.jpg
+[--] Status: REJECTED
+Plat Nomor: IZ9Z 0926
+Teks Mentah: 1292 09-26
+Confidence Deteksi YOLO: 0.329
+Confidence OCR: 0.651
+Confidence Keseluruhan: 0.522
+Valid Format: Tidak
+Engine OCR: easyocr
+Bounding Box: (281, 447, 536, 588)
+Error: -
+============================================================
+
+============================================================
+File: data_test2.jpg
+[??] Status: RETRY
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.304
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.122
+Valid Format: Tidak
+Engine OCR: easyocr
+Bounding Box: (2278, 1905, 2769, 2246)
+Error: -
+============================================================
+
+============================================================
+File: data_test3.jpg
+[--] Status: REJECTED
+Plat Nomor: IIG9 0
+Teks Mentah: 1169 0K
+Confidence Deteksi YOLO: 0.335
+Confidence OCR: 0.346
+Confidence Keseluruhan: 0.342
+Valid Format: Tidak
+Engine OCR: easyocr
+Bounding Box: (695, 348, 815, 459)
+Error: -
+============================================================
+
+============================================================
+File: data_test4.jpg
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+File: data_test5.jpg
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+File: data_test6.jpg
+[??] Status: RETRY
+Plat Nomor: 7IO73 OBZZ
+Teks Mentah: 71073 Huu 0822
+Confidence Deteksi YOLO: 0.309
+Confidence OCR: 0.284
+Confidence Keseluruhan: 0.294
+Valid Format: Tidak
+Engine OCR: easyocr
+Bounding Box: (1172, 725, 1525, 871)
+Error: -
+============================================================
+
+============================================================
+File: data_test7.jpg
+[--] Status: REJECTED
+Plat Nomor: 7OZ3 5 OZZ
+Teks Mentah: 7023  uSL 02*2
+Confidence Deteksi YOLO: 0.366
+Confidence OCR: 0.512
+Confidence Keseluruhan: 0.454
+Valid Format: Tidak
+Engine OCR: easyocr
+Bounding Box: (1123, 788, 1369, 929)
+Error: -
+============================================================
+
+============================================================
+File: data_test8.jpg
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+RINGKASAN
+============================================================
+Total Gambar:     8
+Terdeteksi:       0
+Tidak Valid:      6
+Perlu Retry:      2
+============================================================

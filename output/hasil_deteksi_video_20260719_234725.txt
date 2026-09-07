@@ -1,0 +1,6986 @@
+LAPORAN HASIL DETEKSI PLAT NOMOR DARI VIDEO
+Tanggal: 2026-07-19 23:47:25
+File Video: 95712341_2026-07-16_09-56-35.mp4
+Total Frame: 11526
+Frame Diproses: 497 (setiap 10 frame)
+Model YOLO: ml/models/yolov8_plate.pt
+
+============================================================
+Frame: 0 (waktu: 0.00s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 10 (waktu: 0.52s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 20 (waktu: 1.04s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 30 (waktu: 1.56s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 40 (waktu: 2.08s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 50 (waktu: 2.60s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 60 (waktu: 3.11s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 70 (waktu: 3.63s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 80 (waktu: 4.15s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 90 (waktu: 4.67s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 100 (waktu: 5.19s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 110 (waktu: 5.71s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 120 (waktu: 6.23s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 130 (waktu: 6.75s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 140 (waktu: 7.27s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 150 (waktu: 7.79s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 160 (waktu: 8.30s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 170 (waktu: 8.82s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 180 (waktu: 9.34s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 190 (waktu: 9.86s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 200 (waktu: 10.38s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 210 (waktu: 10.90s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 220 (waktu: 11.42s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 230 (waktu: 11.94s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 240 (waktu: 12.46s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 250 (waktu: 12.98s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 260 (waktu: 13.49s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 270 (waktu: 14.01s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 280 (waktu: 14.53s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 290 (waktu: 15.05s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 300 (waktu: 15.57s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 310 (waktu: 16.09s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 320 (waktu: 16.61s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 330 (waktu: 17.13s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 340 (waktu: 17.65s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 350 (waktu: 18.17s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 360 (waktu: 18.68s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 370 (waktu: 19.20s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 380 (waktu: 19.72s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 390 (waktu: 20.24s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 400 (waktu: 20.76s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 410 (waktu: 21.28s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 420 (waktu: 21.80s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 430 (waktu: 22.32s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 440 (waktu: 22.84s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 450 (waktu: 23.36s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 460 (waktu: 23.87s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 470 (waktu: 24.39s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 480 (waktu: 24.91s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 490 (waktu: 25.43s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 500 (waktu: 25.95s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 510 (waktu: 26.47s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 520 (waktu: 26.99s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 530 (waktu: 27.51s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 540 (waktu: 28.03s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 550 (waktu: 28.55s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 560 (waktu: 29.06s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 570 (waktu: 29.58s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 580 (waktu: 30.10s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 590 (waktu: 30.62s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 600 (waktu: 31.14s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 610 (waktu: 31.66s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 620 (waktu: 32.18s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 630 (waktu: 32.70s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 640 (waktu: 33.22s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 650 (waktu: 33.74s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 660 (waktu: 34.25s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 670 (waktu: 34.77s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 680 (waktu: 35.29s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 690 (waktu: 35.81s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 700 (waktu: 36.33s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 710 (waktu: 36.85s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 720 (waktu: 37.37s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 730 (waktu: 37.89s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 740 (waktu: 38.41s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 750 (waktu: 38.93s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 760 (waktu: 39.44s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 770 (waktu: 39.96s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 780 (waktu: 40.48s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 790 (waktu: 41.00s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 800 (waktu: 41.52s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 810 (waktu: 42.04s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 820 (waktu: 42.56s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 830 (waktu: 43.08s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 840 (waktu: 43.60s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 850 (waktu: 44.12s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 860 (waktu: 44.63s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.224
+Confidence OCR: 0.909
+Confidence Keseluruhan: 0.635
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (599, 157, 697, 213)
+Error: -
+============================================================
+
+============================================================
+Frame: 870 (waktu: 45.15s)
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+Frame: 880 (waktu: 45.67s)
+[--] Status: REJECTED
+Plat Nomor: 1023US
+Teks Mentah: 1023US
+Confidence Deteksi YOLO: 0.232
+Confidence OCR: 0.960
+Confidence Keseluruhan: 0.669
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (530, 225, 668, 292)
+Error: -
+============================================================
+
+============================================================
+Frame: 890 (waktu: 46.19s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.336
+Confidence OCR: 0.990
+Confidence Keseluruhan: 0.728
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (490, 263, 636, 337)
+Error: -
+============================================================
+
+============================================================
+Frame: 900 (waktu: 46.71s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 - US
+Confidence Deteksi YOLO: 0.407
+Confidence OCR: 0.840
+Confidence Keseluruhan: 0.667
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (441, 294, 613, 374)
+Error: -
+============================================================
+
+============================================================
+Frame: 910 (waktu: 47.23s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.273
+Confidence OCR: 0.964
+Confidence Keseluruhan: 0.688
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (359, 348, 559, 421)
+Error: -
+============================================================
+
+============================================================
+Frame: 920 (waktu: 47.75s)
+[--] Status: REJECTED
+Plat Nomor: 1023US
+Teks Mentah: 1023US
+Confidence Deteksi YOLO: 0.272
+Confidence OCR: 0.984
+Confidence Keseluruhan: 0.699
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (327, 380, 509, 463)
+Error: -
+============================================================
+
+============================================================
+Frame: 930 (waktu: 48.27s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.367
+Confidence OCR: 0.920
+Confidence Keseluruhan: 0.699
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (259, 413, 462, 502)
+Error: -
+============================================================
+
+============================================================
+Frame: 940 (waktu: 48.79s)
+[--] Status: REJECTED
+Plat Nomor: 1023US
+Teks Mentah: 1023US
+Confidence Deteksi YOLO: 0.295
+Confidence OCR: 0.994
+Confidence Keseluruhan: 0.714
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (225, 443, 430, 525)
+Error: -
+============================================================
+
+============================================================
+Frame: 950 (waktu: 49.31s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.282
+Confidence OCR: 0.985
+Confidence Keseluruhan: 0.704
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (71, 468, 406, 561)
+Error: -
+============================================================
+
+============================================================
+Frame: 960 (waktu: 49.82s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.376
+Confidence OCR: 0.959
+Confidence Keseluruhan: 0.726
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (170, 477, 384, 575)
+Error: -
+============================================================
+
+============================================================
+Frame: 970 (waktu: 50.34s)
+[--] Status: REJECTED
+Plat Nomor: 1023US
+Teks Mentah: 1023US
+Confidence Deteksi YOLO: 0.321
+Confidence OCR: 0.986
+Confidence Keseluruhan: 0.720
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (166, 474, 381, 587)
+Error: -
+============================================================
+
+============================================================
+Frame: 980 (waktu: 50.86s)
+[--] Status: REJECTED
+Plat Nomor: 1023US
+Teks Mentah: 1023US
+Confidence Deteksi YOLO: 0.300
+Confidence OCR: 0.994
+Confidence Keseluruhan: 0.717
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (136, 498, 375, 597)
+Error: -
+============================================================
+
+============================================================
+Frame: 990 (waktu: 51.38s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 - US
+Confidence Deteksi YOLO: 0.318
+Confidence OCR: 0.835
+Confidence Keseluruhan: 0.629
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (68, 524, 347, 634)
+Error: -
+============================================================
+
+============================================================
+Frame: 1000 (waktu: 51.90s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.294
+Confidence OCR: 0.989
+Confidence Keseluruhan: 0.711
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (95, 556, 328, 665)
+Error: -
+============================================================
+
+============================================================
+Frame: 1010 (waktu: 52.42s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.302
+Confidence OCR: 0.979
+Confidence Keseluruhan: 0.708
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (73, 553, 331, 665)
+Error: -
+============================================================
+
+============================================================
+Frame: 1020 (waktu: 52.94s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.315
+Confidence OCR: 0.988
+Confidence Keseluruhan: 0.719
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (63, 565, 317, 696)
+Error: -
+============================================================
+
+============================================================
+Frame: 1030 (waktu: 53.46s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.291
+Confidence OCR: 0.992
+Confidence Keseluruhan: 0.711
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (46, 583, 311, 709)
+Error: -
+============================================================
+
+============================================================
+Frame: 1040 (waktu: 53.98s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.268
+Confidence OCR: 0.979
+Confidence Keseluruhan: 0.695
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (47, 592, 305, 710)
+Error: -
+============================================================
+
+============================================================
+Frame: 1050 (waktu: 54.50s)
+[--] Status: REJECTED
+Plat Nomor: 1023 3 US
+Teks Mentah: 1023 3 US
+Confidence Deteksi YOLO: 0.273
+Confidence OCR: 0.944
+Confidence Keseluruhan: 0.675
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (37, 597, 299, 714)
+Error: -
+============================================================
+
+============================================================
+Frame: 1060 (waktu: 55.01s)
+[--] Status: REJECTED
+Plat Nomor: 1023US
+Teks Mentah: 1023US
+Confidence Deteksi YOLO: 0.270
+Confidence OCR: 0.995
+Confidence Keseluruhan: 0.705
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (44, 598, 297, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1070 (waktu: 55.53s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US -
+Confidence Deteksi YOLO: 0.299
+Confidence OCR: 0.829
+Confidence Keseluruhan: 0.617
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (34, 613, 299, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1080 (waktu: 56.05s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.295
+Confidence OCR: 0.992
+Confidence Keseluruhan: 0.713
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 613, 296, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1090 (waktu: 56.57s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.289
+Confidence OCR: 0.986
+Confidence Keseluruhan: 0.708
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (8, 625, 290, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1100 (waktu: 57.09s)
+[--] Status: REJECTED
+Plat Nomor: 1023US
+Teks Mentah: 1023US
+Confidence Deteksi YOLO: 0.243
+Confidence OCR: 0.994
+Confidence Keseluruhan: 0.694
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (5, 627, 293, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1110 (waktu: 57.61s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US -
+Confidence Deteksi YOLO: 0.246
+Confidence OCR: 0.894
+Confidence Keseluruhan: 0.635
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (4, 629, 289, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1120 (waktu: 58.13s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.238
+Confidence OCR: 0.985
+Confidence Keseluruhan: 0.686
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (1, 640, 290, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1130 (waktu: 58.65s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.237
+Confidence OCR: 0.988
+Confidence Keseluruhan: 0.688
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (0, 642, 290, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1140 (waktu: 59.17s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.231
+Confidence OCR: 0.991
+Confidence Keseluruhan: 0.687
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (0, 640, 291, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1150 (waktu: 59.69s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US -
+Confidence Deteksi YOLO: 0.253
+Confidence OCR: 0.899
+Confidence Keseluruhan: 0.641
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (0, 649, 288, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1160 (waktu: 60.20s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.254
+Confidence OCR: 0.994
+Confidence Keseluruhan: 0.698
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (0, 648, 288, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1170 (waktu: 60.72s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 - US
+Confidence Deteksi YOLO: 0.253
+Confidence OCR: 0.882
+Confidence Keseluruhan: 0.631
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (0, 648, 288, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1180 (waktu: 61.24s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 - US
+Confidence Deteksi YOLO: 0.248
+Confidence OCR: 0.899
+Confidence Keseluruhan: 0.639
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (0, 647, 289, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1190 (waktu: 61.76s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 - US
+Confidence Deteksi YOLO: 0.251
+Confidence OCR: 0.884
+Confidence Keseluruhan: 0.631
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (1, 651, 287, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1200 (waktu: 62.28s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 - US
+Confidence Deteksi YOLO: 0.246
+Confidence OCR: 0.868
+Confidence Keseluruhan: 0.619
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (1, 652, 286, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1210 (waktu: 62.80s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US -
+Confidence Deteksi YOLO: 0.240
+Confidence OCR: 0.857
+Confidence Keseluruhan: 0.610
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (2, 651, 286, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1220 (waktu: 63.32s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 - US
+Confidence Deteksi YOLO: 0.246
+Confidence OCR: 0.858
+Confidence Keseluruhan: 0.613
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (2, 651, 286, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1230 (waktu: 63.84s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.230
+Confidence OCR: 0.989
+Confidence Keseluruhan: 0.685
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (2, 647, 291, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1240 (waktu: 64.36s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.234
+Confidence OCR: 0.989
+Confidence Keseluruhan: 0.687
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (2, 648, 290, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1250 (waktu: 64.88s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.234
+Confidence OCR: 0.992
+Confidence Keseluruhan: 0.689
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (2, 647, 290, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1260 (waktu: 65.39s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.234
+Confidence OCR: 0.993
+Confidence Keseluruhan: 0.690
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (1, 647, 290, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1270 (waktu: 65.91s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.234
+Confidence OCR: 0.988
+Confidence Keseluruhan: 0.686
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (1, 648, 290, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1280 (waktu: 66.43s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.229
+Confidence OCR: 0.986
+Confidence Keseluruhan: 0.683
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (1, 646, 290, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1290 (waktu: 66.95s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.230
+Confidence OCR: 0.983
+Confidence Keseluruhan: 0.682
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (1, 646, 290, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1300 (waktu: 67.47s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.227
+Confidence OCR: 0.987
+Confidence Keseluruhan: 0.683
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (1, 647, 290, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1310 (waktu: 67.99s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.228
+Confidence OCR: 0.986
+Confidence Keseluruhan: 0.683
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (1, 647, 290, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1320 (waktu: 68.51s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 - US
+Confidence Deteksi YOLO: 0.254
+Confidence OCR: 0.864
+Confidence Keseluruhan: 0.620
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (4, 652, 287, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1330 (waktu: 69.03s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 - US
+Confidence Deteksi YOLO: 0.251
+Confidence OCR: 0.856
+Confidence Keseluruhan: 0.614
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (3, 651, 287, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1340 (waktu: 69.55s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US -
+Confidence Deteksi YOLO: 0.248
+Confidence OCR: 0.835
+Confidence Keseluruhan: 0.600
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (3, 651, 287, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1350 (waktu: 70.07s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.245
+Confidence OCR: 0.990
+Confidence Keseluruhan: 0.692
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (4, 651, 287, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1360 (waktu: 70.58s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.253
+Confidence OCR: 0.988
+Confidence Keseluruhan: 0.694
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (5, 651, 287, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1370 (waktu: 71.10s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.251
+Confidence OCR: 0.992
+Confidence Keseluruhan: 0.695
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (4, 650, 286, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1380 (waktu: 71.62s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 - US
+Confidence Deteksi YOLO: 0.251
+Confidence OCR: 0.857
+Confidence Keseluruhan: 0.615
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (4, 651, 286, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1390 (waktu: 72.14s)
+[OK] Status: ACCEPTED
+Plat Nomor: D 1205
+Teks Mentah: D120547
+Confidence Deteksi YOLO: 0.274
+Confidence OCR: 0.810
+Confidence Keseluruhan: 0.596
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (998, 274, 1144, 345)
+Error: -
+============================================================
+
+============================================================
+Frame: 1400 (waktu: 72.66s)
+[OK] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA
+Confidence Deteksi YOLO: 0.300
+Confidence OCR: 0.904
+Confidence Keseluruhan: 0.662
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (1061, 326, 1211, 400)
+Error: -
+============================================================
+
+============================================================
+Frame: 1410 (waktu: 73.18s)
+[OK] Status: ACCEPTED
+Plat Nomor: D 1205 AJ
+Teks Mentah: D1205AJ
+Confidence Deteksi YOLO: 0.351
+Confidence OCR: 0.874
+Confidence Keseluruhan: 0.664
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (1111, 358, 1277, 440)
+Error: -
+============================================================
+
+============================================================
+Frame: 1420 (waktu: 73.70s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 - US
+Confidence Deteksi YOLO: 0.278
+Confidence OCR: 0.837
+Confidence Keseluruhan: 0.613
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (7, 655, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1430 (waktu: 74.22s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.273
+Confidence OCR: 0.990
+Confidence Keseluruhan: 0.703
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (8, 656, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1440 (waktu: 74.74s)
+[--] Status: REJECTED
+Plat Nomor: 1023US
+Teks Mentah: 1023US
+Confidence Deteksi YOLO: 0.325
+Confidence OCR: 0.996
+Confidence Keseluruhan: 0.728
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 651, 282, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1450 (waktu: 75.26s)
+[--] Status: REJECTED
+Plat Nomor: 1023US
+Teks Mentah: 1023US
+Confidence Deteksi YOLO: 0.306
+Confidence OCR: 0.995
+Confidence Keseluruhan: 0.720
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 652, 282, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1460 (waktu: 75.77s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.323
+Confidence OCR: 0.992
+Confidence Keseluruhan: 0.724
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (13, 642, 282, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1470 (waktu: 76.29s)
+[--] Status: REJECTED
+Plat Nomor: 1023US
+Teks Mentah: 1023US
+Confidence Deteksi YOLO: 0.343
+Confidence OCR: 0.996
+Confidence Keseluruhan: 0.735
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (10, 638, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1480 (waktu: 76.81s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.356
+Confidence OCR: 0.933
+Confidence Keseluruhan: 0.702
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (9, 636, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1490 (waktu: 77.33s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.356
+Confidence OCR: 0.987
+Confidence Keseluruhan: 0.735
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (9, 636, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1500 (waktu: 77.85s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.360
+Confidence OCR: 0.935
+Confidence Keseluruhan: 0.705
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (9, 636, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1510 (waktu: 78.37s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.361
+Confidence OCR: 0.933
+Confidence Keseluruhan: 0.704
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (9, 636, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1520 (waktu: 78.89s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 BUS 02
+Confidence Deteksi YOLO: 0.371
+Confidence OCR: 0.894
+Confidence Keseluruhan: 0.685
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 636, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1530 (waktu: 79.41s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.372
+Confidence OCR: 0.907
+Confidence Keseluruhan: 0.693
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1540 (waktu: 79.93s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.375
+Confidence OCR: 0.840
+Confidence Keseluruhan: 0.654
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1550 (waktu: 80.45s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.378
+Confidence OCR: 0.796
+Confidence Keseluruhan: 0.628
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1560 (waktu: 80.96s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.373
+Confidence OCR: 0.748
+Confidence Keseluruhan: 0.598
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (10, 635, 282, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1570 (waktu: 81.48s)
+[--] Status: REJECTED
+Plat Nomor: 1023 BUS
+Teks Mentah: 1023 BUS
+Confidence Deteksi YOLO: 0.376
+Confidence OCR: 0.902
+Confidence Keseluruhan: 0.692
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (9, 635, 282, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1580 (waktu: 82.00s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.374
+Confidence OCR: 0.990
+Confidence Keseluruhan: 0.744
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (9, 634, 282, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1590 (waktu: 82.52s)
+[--] Status: REJECTED
+Plat Nomor: 1023 BUS
+Teks Mentah: 1023 BUS
+Confidence Deteksi YOLO: 0.375
+Confidence OCR: 0.901
+Confidence Keseluruhan: 0.691
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (9, 635, 282, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1600 (waktu: 83.04s)
+[OK] Status: ACCEPTED
+Plat Nomor: D 1
+Teks Mentah: D1
+Confidence Deteksi YOLO: 0.372
+Confidence OCR: 0.948
+Confidence Keseluruhan: 0.718
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (1187, 555, 1279, 658)
+Error: -
+============================================================
+
+============================================================
+Frame: 1610 (waktu: 83.56s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.372
+Confidence OCR: 0.842
+Confidence Keseluruhan: 0.654
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1620 (waktu: 84.08s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.372
+Confidence OCR: 0.952
+Confidence Keseluruhan: 0.720
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1630 (waktu: 84.60s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.370
+Confidence OCR: 0.939
+Confidence Keseluruhan: 0.711
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1640 (waktu: 85.12s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.389
+Confidence OCR: 0.991
+Confidence Keseluruhan: 0.750
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1650 (waktu: 85.64s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.393
+Confidence OCR: 0.991
+Confidence Keseluruhan: 0.752
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1660 (waktu: 86.15s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.398
+Confidence OCR: 0.779
+Confidence Keseluruhan: 0.627
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1670 (waktu: 86.67s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.398
+Confidence OCR: 0.950
+Confidence Keseluruhan: 0.729
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1680 (waktu: 87.19s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.397
+Confidence OCR: 0.948
+Confidence Keseluruhan: 0.728
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1690 (waktu: 87.71s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.407
+Confidence OCR: 0.801
+Confidence Keseluruhan: 0.644
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1700 (waktu: 88.23s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.409
+Confidence OCR: 0.842
+Confidence Keseluruhan: 0.669
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1710 (waktu: 88.75s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.409
+Confidence OCR: 0.825
+Confidence Keseluruhan: 0.659
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1720 (waktu: 89.27s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.407
+Confidence OCR: 0.851
+Confidence Keseluruhan: 0.673
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1730 (waktu: 89.79s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.381
+Confidence OCR: 0.979
+Confidence Keseluruhan: 0.740
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 635, 282, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1740 (waktu: 90.31s)
+[--] Status: REJECTED
+Plat Nomor: 1023 3 US
+Teks Mentah: 1023 3 US
+Confidence Deteksi YOLO: 0.385
+Confidence OCR: 0.886
+Confidence Keseluruhan: 0.686
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1750 (waktu: 90.83s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.386
+Confidence OCR: 0.966
+Confidence Keseluruhan: 0.734
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1760 (waktu: 91.34s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.385
+Confidence OCR: 0.960
+Confidence Keseluruhan: 0.730
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1770 (waktu: 91.86s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.390
+Confidence OCR: 0.971
+Confidence Keseluruhan: 0.738
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 635, 282, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1780 (waktu: 92.38s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.390
+Confidence OCR: 0.771
+Confidence Keseluruhan: 0.619
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 635, 282, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1790 (waktu: 92.90s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.390
+Confidence OCR: 0.974
+Confidence Keseluruhan: 0.740
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 282, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1800 (waktu: 93.42s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.388
+Confidence OCR: 0.970
+Confidence Keseluruhan: 0.737
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 282, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1810 (waktu: 93.94s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.382
+Confidence OCR: 0.941
+Confidence Keseluruhan: 0.718
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1820 (waktu: 94.46s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.383
+Confidence OCR: 0.940
+Confidence Keseluruhan: 0.718
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1830 (waktu: 94.98s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.383
+Confidence OCR: 0.941
+Confidence Keseluruhan: 0.718
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1840 (waktu: 95.50s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.385
+Confidence OCR: 0.941
+Confidence Keseluruhan: 0.719
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1850 (waktu: 96.02s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.382
+Confidence OCR: 0.741
+Confidence Keseluruhan: 0.598
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1860 (waktu: 96.53s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.386
+Confidence OCR: 0.742
+Confidence Keseluruhan: 0.600
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1870 (waktu: 97.05s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 BUS 0
+Confidence Deteksi YOLO: 0.386
+Confidence OCR: 0.752
+Confidence Keseluruhan: 0.606
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1880 (waktu: 97.57s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.385
+Confidence OCR: 0.872
+Confidence Keseluruhan: 0.677
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1890 (waktu: 98.09s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.374
+Confidence OCR: 0.758
+Confidence Keseluruhan: 0.604
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1900 (waktu: 98.61s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 8 US 0
+Confidence Deteksi YOLO: 0.375
+Confidence OCR: 0.770
+Confidence Keseluruhan: 0.612
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1910 (waktu: 99.13s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 8 US 02
+Confidence Deteksi YOLO: 0.376
+Confidence OCR: 0.753
+Confidence Keseluruhan: 0.602
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1920 (waktu: 99.65s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.376
+Confidence OCR: 0.750
+Confidence Keseluruhan: 0.600
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1930 (waktu: 100.17s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.383
+Confidence OCR: 0.855
+Confidence Keseluruhan: 0.666
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1940 (waktu: 100.69s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 B US 0
+Confidence Deteksi YOLO: 0.380
+Confidence OCR: 0.760
+Confidence Keseluruhan: 0.608
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1950 (waktu: 101.21s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.380
+Confidence OCR: 0.891
+Confidence Keseluruhan: 0.687
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1960 (waktu: 101.72s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.380
+Confidence OCR: 0.880
+Confidence Keseluruhan: 0.680
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1970 (waktu: 102.24s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.396
+Confidence OCR: 0.749
+Confidence Keseluruhan: 0.608
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1980 (waktu: 102.76s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.395
+Confidence OCR: 0.743
+Confidence Keseluruhan: 0.604
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 1990 (waktu: 103.28s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.396
+Confidence OCR: 0.929
+Confidence Keseluruhan: 0.716
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2000 (waktu: 103.80s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.402
+Confidence OCR: 0.984
+Confidence Keseluruhan: 0.751
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (10, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2010 (waktu: 104.32s)
+[OK] Status: ACCEPTED
+Plat Nomor: D 1
+Teks Mentah: D1
+Confidence Deteksi YOLO: 0.323
+Confidence OCR: 0.961
+Confidence Keseluruhan: 0.706
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (1187, 544, 1279, 655)
+Error: -
+============================================================
+
+============================================================
+Frame: 2020 (waktu: 104.84s)
+[OK] Status: ACCEPTED
+Plat Nomor: D 1
+Teks Mentah: D1
+Confidence Deteksi YOLO: 0.323
+Confidence OCR: 0.963
+Confidence Keseluruhan: 0.707
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (1187, 544, 1279, 655)
+Error: -
+============================================================
+
+============================================================
+Frame: 2030 (waktu: 105.36s)
+[--] Status: REJECTED
+Plat Nomor: 1023US
+Teks Mentah: 1023US
+Confidence Deteksi YOLO: 0.355
+Confidence OCR: 0.986
+Confidence Keseluruhan: 0.734
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (10, 633, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2040 (waktu: 105.88s)
+[OK] Status: ACCEPTED
+Plat Nomor: T 1023 US
+Teks Mentah: T1023US
+Confidence Deteksi YOLO: 0.369
+Confidence OCR: 0.923
+Confidence Keseluruhan: 0.701
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (10, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2050 (waktu: 106.40s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.398
+Confidence OCR: 0.728
+Confidence Keseluruhan: 0.596
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2060 (waktu: 106.92s)
+[--] Status: REJECTED
+Plat Nomor: 1023 BUS
+Teks Mentah: 1023 BUS
+Confidence Deteksi YOLO: 0.400
+Confidence OCR: 0.885
+Confidence Keseluruhan: 0.691
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (10, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2070 (waktu: 107.43s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 8US 0
+Confidence Deteksi YOLO: 0.398
+Confidence OCR: 0.764
+Confidence Keseluruhan: 0.617
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (10, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2080 (waktu: 107.95s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.401
+Confidence OCR: 0.731
+Confidence Keseluruhan: 0.599
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2090 (waktu: 108.47s)
+[--] Status: REJECTED
+Plat Nomor: 1023 BUS
+Teks Mentah: 1023 BUS
+Confidence Deteksi YOLO: 0.400
+Confidence OCR: 0.890
+Confidence Keseluruhan: 0.694
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (10, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2100 (waktu: 108.99s)
+[--] Status: REJECTED
+Plat Nomor: 1023 8 US
+Teks Mentah: 1023 8 US
+Confidence Deteksi YOLO: 0.370
+Confidence OCR: 0.875
+Confidence Keseluruhan: 0.673
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2110 (waktu: 109.51s)
+[--] Status: REJECTED
+Plat Nomor: 1023 8US
+Teks Mentah: 1023 8US
+Confidence Deteksi YOLO: 0.370
+Confidence OCR: 0.880
+Confidence Keseluruhan: 0.676
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2120 (waktu: 110.03s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.370
+Confidence OCR: 0.992
+Confidence Keseluruhan: 0.743
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2130 (waktu: 110.55s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.371
+Confidence OCR: 0.992
+Confidence Keseluruhan: 0.743
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2140 (waktu: 111.07s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.375
+Confidence OCR: 0.768
+Confidence Keseluruhan: 0.611
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2150 (waktu: 111.59s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.373
+Confidence OCR: 0.951
+Confidence Keseluruhan: 0.720
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2160 (waktu: 112.11s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 BUS 0
+Confidence Deteksi YOLO: 0.373
+Confidence OCR: 0.769
+Confidence Keseluruhan: 0.611
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2170 (waktu: 112.62s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.374
+Confidence OCR: 0.955
+Confidence Keseluruhan: 0.723
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2180 (waktu: 113.14s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US 02.28
+Confidence Deteksi YOLO: 0.387
+Confidence OCR: 0.949
+Confidence Keseluruhan: 0.724
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2190 (waktu: 113.66s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US 02.28
+Confidence Deteksi YOLO: 0.389
+Confidence OCR: 0.945
+Confidence Keseluruhan: 0.722
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2200 (waktu: 114.18s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.387
+Confidence OCR: 0.826
+Confidence Keseluruhan: 0.650
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2210 (waktu: 114.70s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US 02.20
+Confidence Deteksi YOLO: 0.388
+Confidence OCR: 0.882
+Confidence Keseluruhan: 0.684
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2220 (waktu: 115.22s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.370
+Confidence OCR: 0.849
+Confidence Keseluruhan: 0.657
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (15, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2230 (waktu: 115.74s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.371
+Confidence OCR: 0.895
+Confidence Keseluruhan: 0.685
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (15, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2240 (waktu: 116.26s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.372
+Confidence OCR: 0.834
+Confidence Keseluruhan: 0.649
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (15, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2250 (waktu: 116.78s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.372
+Confidence OCR: 0.867
+Confidence Keseluruhan: 0.669
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (15, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2260 (waktu: 117.30s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.375
+Confidence OCR: 0.940
+Confidence Keseluruhan: 0.714
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2270 (waktu: 117.81s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.376
+Confidence OCR: 0.933
+Confidence Keseluruhan: 0.710
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2280 (waktu: 118.33s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.376
+Confidence OCR: 0.948
+Confidence Keseluruhan: 0.720
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2290 (waktu: 118.85s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.379
+Confidence OCR: 0.992
+Confidence Keseluruhan: 0.746
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2300 (waktu: 119.37s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.375
+Confidence OCR: 0.741
+Confidence Keseluruhan: 0.595
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2310 (waktu: 119.89s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.373
+Confidence OCR: 0.736
+Confidence Keseluruhan: 0.591
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2320 (waktu: 120.41s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.372
+Confidence OCR: 0.745
+Confidence Keseluruhan: 0.596
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2330 (waktu: 120.93s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023US 0
+Confidence Deteksi YOLO: 0.373
+Confidence OCR: 0.819
+Confidence Keseluruhan: 0.641
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2340 (waktu: 121.45s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 028
+Teks Mentah: 1023 US 02.8
+Confidence Deteksi YOLO: 0.385
+Confidence OCR: 0.762
+Confidence Keseluruhan: 0.611
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2350 (waktu: 121.97s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.385
+Confidence OCR: 0.755
+Confidence Keseluruhan: 0.607
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2360 (waktu: 122.49s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.386
+Confidence OCR: 0.941
+Confidence Keseluruhan: 0.719
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2370 (waktu: 123.00s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US 02.28
+Confidence Deteksi YOLO: 0.385
+Confidence OCR: 0.888
+Confidence Keseluruhan: 0.687
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2380 (waktu: 123.52s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.389
+Confidence OCR: 0.789
+Confidence Keseluruhan: 0.629
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2390 (waktu: 124.04s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 8 US 02
+Confidence Deteksi YOLO: 0.388
+Confidence OCR: 0.743
+Confidence Keseluruhan: 0.601
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2400 (waktu: 124.56s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.387
+Confidence OCR: 0.772
+Confidence Keseluruhan: 0.618
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2410 (waktu: 125.08s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.387
+Confidence OCR: 0.749
+Confidence Keseluruhan: 0.604
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2420 (waktu: 125.60s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.380
+Confidence OCR: 0.767
+Confidence Keseluruhan: 0.613
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2430 (waktu: 126.12s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US 02.28
+Confidence Deteksi YOLO: 0.380
+Confidence OCR: 0.880
+Confidence Keseluruhan: 0.680
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (10, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2440 (waktu: 126.64s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US 02.28
+Confidence Deteksi YOLO: 0.376
+Confidence OCR: 0.899
+Confidence Keseluruhan: 0.690
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (10, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2450 (waktu: 127.16s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.376
+Confidence OCR: 0.944
+Confidence Keseluruhan: 0.717
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2460 (waktu: 127.68s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.376
+Confidence OCR: 0.989
+Confidence Keseluruhan: 0.744
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2470 (waktu: 128.19s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.378
+Confidence OCR: 0.978
+Confidence Keseluruhan: 0.738
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2480 (waktu: 128.71s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.378
+Confidence OCR: 0.924
+Confidence Keseluruhan: 0.706
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2490 (waktu: 129.23s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.379
+Confidence OCR: 0.985
+Confidence Keseluruhan: 0.742
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2500 (waktu: 129.75s)
+[--] Status: REJECTED
+Plat Nomor: 1023 8US
+Teks Mentah: 1023 8US
+Confidence Deteksi YOLO: 0.379
+Confidence OCR: 0.877
+Confidence Keseluruhan: 0.678
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2510 (waktu: 130.27s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 BUS 02
+Confidence Deteksi YOLO: 0.386
+Confidence OCR: 0.905
+Confidence Keseluruhan: 0.697
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (10, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2520 (waktu: 130.79s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.389
+Confidence OCR: 0.865
+Confidence Keseluruhan: 0.675
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (10, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2530 (waktu: 131.31s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.386
+Confidence OCR: 0.992
+Confidence Keseluruhan: 0.749
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (10, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2540 (waktu: 131.83s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.386
+Confidence OCR: 0.992
+Confidence Keseluruhan: 0.750
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (10, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2550 (waktu: 132.35s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.380
+Confidence OCR: 0.767
+Confidence Keseluruhan: 0.612
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2560 (waktu: 132.87s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0238
+Teks Mentah: 1023 BUS 0238
+Confidence Deteksi YOLO: 0.380
+Confidence OCR: 0.768
+Confidence Keseluruhan: 0.613
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2570 (waktu: 133.38s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0228
+Teks Mentah: 1023 BUS 0228
+Confidence Deteksi YOLO: 0.381
+Confidence OCR: 0.776
+Confidence Keseluruhan: 0.618
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2580 (waktu: 133.90s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.382
+Confidence OCR: 0.771
+Confidence Keseluruhan: 0.615
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2590 (waktu: 134.42s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 BUS 0
+Confidence Deteksi YOLO: 0.378
+Confidence OCR: 0.757
+Confidence Keseluruhan: 0.606
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (13, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2600 (waktu: 134.94s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.378
+Confidence OCR: 0.836
+Confidence Keseluruhan: 0.653
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (13, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2610 (waktu: 135.46s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 BUS 0
+Confidence Deteksi YOLO: 0.378
+Confidence OCR: 0.771
+Confidence Keseluruhan: 0.614
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (13, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2620 (waktu: 135.98s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 BUS 0
+Confidence Deteksi YOLO: 0.377
+Confidence OCR: 0.779
+Confidence Keseluruhan: 0.618
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (13, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2630 (waktu: 136.50s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.379
+Confidence OCR: 0.770
+Confidence Keseluruhan: 0.614
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2640 (waktu: 137.02s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.380
+Confidence OCR: 0.824
+Confidence Keseluruhan: 0.647
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2650 (waktu: 137.54s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.380
+Confidence OCR: 0.764
+Confidence Keseluruhan: 0.611
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2660 (waktu: 138.06s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.380
+Confidence OCR: 0.750
+Confidence Keseluruhan: 0.602
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2670 (waktu: 138.57s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.386
+Confidence OCR: 0.941
+Confidence Keseluruhan: 0.719
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2680 (waktu: 139.09s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.386
+Confidence OCR: 0.964
+Confidence Keseluruhan: 0.733
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2690 (waktu: 139.61s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.387
+Confidence OCR: 0.959
+Confidence Keseluruhan: 0.730
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2700 (waktu: 140.13s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.387
+Confidence OCR: 0.960
+Confidence Keseluruhan: 0.731
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2710 (waktu: 140.65s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US 00.28
+Confidence Deteksi YOLO: 0.386
+Confidence OCR: 0.890
+Confidence Keseluruhan: 0.688
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2720 (waktu: 141.17s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US 00.28
+Confidence Deteksi YOLO: 0.386
+Confidence OCR: 0.894
+Confidence Keseluruhan: 0.691
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2730 (waktu: 141.69s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US 00.28
+Confidence Deteksi YOLO: 0.388
+Confidence OCR: 0.897
+Confidence Keseluruhan: 0.693
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2740 (waktu: 142.21s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US 00.28
+Confidence Deteksi YOLO: 0.387
+Confidence OCR: 0.899
+Confidence Keseluruhan: 0.694
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2750 (waktu: 142.73s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.381
+Confidence OCR: 0.826
+Confidence Keseluruhan: 0.648
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (10, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2760 (waktu: 143.25s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.382
+Confidence OCR: 0.990
+Confidence Keseluruhan: 0.747
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (10, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2770 (waktu: 143.76s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.383
+Confidence OCR: 0.990
+Confidence Keseluruhan: 0.747
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (10, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2780 (waktu: 144.28s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.382
+Confidence OCR: 0.856
+Confidence Keseluruhan: 0.666
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (10, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2790 (waktu: 144.80s)
+[--] Status: REJECTED
+Plat Nomor: 1023 BUS
+Teks Mentah: 1023 BUS
+Confidence Deteksi YOLO: 0.370
+Confidence OCR: 0.886
+Confidence Keseluruhan: 0.680
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (13, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2800 (waktu: 145.32s)
+[--] Status: REJECTED
+Plat Nomor: 1023 BUS
+Teks Mentah: 1023 BUS
+Confidence Deteksi YOLO: 0.374
+Confidence OCR: 0.885
+Confidence Keseluruhan: 0.681
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (13, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2810 (waktu: 145.84s)
+[--] Status: REJECTED
+Plat Nomor: 1023 BUS
+Teks Mentah: 1023 BUS
+Confidence Deteksi YOLO: 0.378
+Confidence OCR: 0.893
+Confidence Keseluruhan: 0.687
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (13, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2820 (waktu: 146.36s)
+[--] Status: REJECTED
+Plat Nomor: 1023 BUS
+Teks Mentah: 1023 BUS
+Confidence Deteksi YOLO: 0.379
+Confidence OCR: 0.891
+Confidence Keseluruhan: 0.686
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (13, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2830 (waktu: 146.88s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.383
+Confidence OCR: 0.864
+Confidence Keseluruhan: 0.672
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2840 (waktu: 147.40s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 B US 0
+Confidence Deteksi YOLO: 0.382
+Confidence OCR: 0.766
+Confidence Keseluruhan: 0.612
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2850 (waktu: 147.92s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 BUS 0
+Confidence Deteksi YOLO: 0.384
+Confidence OCR: 0.783
+Confidence Keseluruhan: 0.623
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2860 (waktu: 148.44s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 BUS 0
+Confidence Deteksi YOLO: 0.383
+Confidence OCR: 0.787
+Confidence Keseluruhan: 0.625
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2870 (waktu: 148.95s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.379
+Confidence OCR: 0.836
+Confidence Keseluruhan: 0.653
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2880 (waktu: 149.47s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.383
+Confidence OCR: 0.829
+Confidence Keseluruhan: 0.650
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2890 (waktu: 149.99s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.380
+Confidence OCR: 0.991
+Confidence Keseluruhan: 0.746
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2900 (waktu: 150.51s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.379
+Confidence OCR: 0.991
+Confidence Keseluruhan: 0.746
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2910 (waktu: 151.03s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.377
+Confidence OCR: 0.833
+Confidence Keseluruhan: 0.651
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2920 (waktu: 151.55s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.391
+Confidence OCR: 0.753
+Confidence Keseluruhan: 0.608
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2930 (waktu: 152.07s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.391
+Confidence OCR: 0.738
+Confidence Keseluruhan: 0.599
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2940 (waktu: 152.59s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.388
+Confidence OCR: 0.991
+Confidence Keseluruhan: 0.750
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2950 (waktu: 153.11s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.387
+Confidence OCR: 0.991
+Confidence Keseluruhan: 0.749
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2960 (waktu: 153.63s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.382
+Confidence OCR: 0.789
+Confidence Keseluruhan: 0.626
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2970 (waktu: 154.14s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.382
+Confidence OCR: 0.787
+Confidence Keseluruhan: 0.625
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2980 (waktu: 154.66s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.383
+Confidence OCR: 0.992
+Confidence Keseluruhan: 0.748
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 2990 (waktu: 155.18s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.384
+Confidence OCR: 0.841
+Confidence Keseluruhan: 0.658
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3000 (waktu: 155.70s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.373
+Confidence OCR: 0.770
+Confidence Keseluruhan: 0.611
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (13, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3010 (waktu: 156.22s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.375
+Confidence OCR: 0.958
+Confidence Keseluruhan: 0.725
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (13, 635, 282, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3020 (waktu: 156.74s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.376
+Confidence OCR: 0.948
+Confidence Keseluruhan: 0.719
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3030 (waktu: 157.26s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.377
+Confidence OCR: 0.950
+Confidence Keseluruhan: 0.721
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3040 (waktu: 157.78s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 8 US 02
+Confidence Deteksi YOLO: 0.386
+Confidence OCR: 0.764
+Confidence Keseluruhan: 0.613
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3050 (waktu: 158.30s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 BUS 0
+Confidence Deteksi YOLO: 0.386
+Confidence OCR: 0.792
+Confidence Keseluruhan: 0.630
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3060 (waktu: 158.82s)
+[--] Status: REJECTED
+Plat Nomor: 1023 BUS
+Teks Mentah: 1023 BUS
+Confidence Deteksi YOLO: 0.386
+Confidence OCR: 0.895
+Confidence Keseluruhan: 0.691
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3070 (waktu: 159.33s)
+[--] Status: REJECTED
+Plat Nomor: 1023 BUS
+Teks Mentah: 1023 BUS
+Confidence Deteksi YOLO: 0.389
+Confidence OCR: 0.894
+Confidence Keseluruhan: 0.692
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3080 (waktu: 159.85s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0228
+Teks Mentah: 1023 US 0228
+Confidence Deteksi YOLO: 0.382
+Confidence OCR: 0.925
+Confidence Keseluruhan: 0.708
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3090 (waktu: 160.37s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.381
+Confidence OCR: 0.990
+Confidence Keseluruhan: 0.746
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3100 (waktu: 160.89s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.379
+Confidence OCR: 0.990
+Confidence Keseluruhan: 0.745
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3110 (waktu: 161.41s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.377
+Confidence OCR: 0.991
+Confidence Keseluruhan: 0.746
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3120 (waktu: 161.93s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.387
+Confidence OCR: 0.833
+Confidence Keseluruhan: 0.655
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3130 (waktu: 162.45s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.385
+Confidence OCR: 0.759
+Confidence Keseluruhan: 0.610
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3140 (waktu: 162.97s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.387
+Confidence OCR: 0.970
+Confidence Keseluruhan: 0.737
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3150 (waktu: 163.49s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.387
+Confidence OCR: 0.969
+Confidence Keseluruhan: 0.736
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3160 (waktu: 164.01s)
+[--] Status: REJECTED
+Plat Nomor: 1023 8 US
+Teks Mentah: 1023 8 US
+Confidence Deteksi YOLO: 0.392
+Confidence OCR: 0.894
+Confidence Keseluruhan: 0.693
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3170 (waktu: 164.52s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.388
+Confidence OCR: 0.962
+Confidence Keseluruhan: 0.732
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3180 (waktu: 165.04s)
+[--] Status: REJECTED
+Plat Nomor: 1023 8 US
+Teks Mentah: 1023 8 US
+Confidence Deteksi YOLO: 0.387
+Confidence OCR: 0.890
+Confidence Keseluruhan: 0.689
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3190 (waktu: 165.56s)
+[--] Status: REJECTED
+Plat Nomor: 1023 8 US
+Teks Mentah: 1023 8 US
+Confidence Deteksi YOLO: 0.389
+Confidence OCR: 0.889
+Confidence Keseluruhan: 0.689
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3200 (waktu: 166.08s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 3 US 0
+Confidence Deteksi YOLO: 0.387
+Confidence OCR: 0.796
+Confidence Keseluruhan: 0.632
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 635, 282, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3210 (waktu: 166.60s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.386
+Confidence OCR: 0.975
+Confidence Keseluruhan: 0.739
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 282, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3220 (waktu: 167.12s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.389
+Confidence OCR: 0.966
+Confidence Keseluruhan: 0.735
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 282, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3230 (waktu: 167.64s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 B US 0
+Confidence Deteksi YOLO: 0.387
+Confidence OCR: 0.763
+Confidence Keseluruhan: 0.612
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3240 (waktu: 168.16s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 8 US 0
+Confidence Deteksi YOLO: 0.378
+Confidence OCR: 0.764
+Confidence Keseluruhan: 0.610
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (13, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3250 (waktu: 168.68s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 8 US 0
+Confidence Deteksi YOLO: 0.385
+Confidence OCR: 0.745
+Confidence Keseluruhan: 0.601
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3260 (waktu: 169.20s)
+[--] Status: REJECTED
+Plat Nomor: 1023 8 US
+Teks Mentah: 1023 8 US
+Confidence Deteksi YOLO: 0.385
+Confidence OCR: 0.848
+Confidence Keseluruhan: 0.663
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3270 (waktu: 169.71s)
+[--] Status: REJECTED
+Plat Nomor: 1023 8 US
+Teks Mentah: 1023 8 US
+Confidence Deteksi YOLO: 0.386
+Confidence OCR: 0.847
+Confidence Keseluruhan: 0.663
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3280 (waktu: 170.23s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.388
+Confidence OCR: 0.808
+Confidence Keseluruhan: 0.640
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3290 (waktu: 170.75s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.388
+Confidence OCR: 0.746
+Confidence Keseluruhan: 0.603
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3300 (waktu: 171.27s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.388
+Confidence OCR: 0.760
+Confidence Keseluruhan: 0.611
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3310 (waktu: 171.79s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.388
+Confidence OCR: 0.939
+Confidence Keseluruhan: 0.719
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3320 (waktu: 172.31s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.384
+Confidence OCR: 0.941
+Confidence Keseluruhan: 0.718
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3330 (waktu: 172.83s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 BUS 0
+Confidence Deteksi YOLO: 0.393
+Confidence OCR: 0.770
+Confidence Keseluruhan: 0.619
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (10, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3340 (waktu: 173.35s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.393
+Confidence OCR: 0.982
+Confidence Keseluruhan: 0.746
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (10, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3350 (waktu: 173.87s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.394
+Confidence OCR: 0.983
+Confidence Keseluruhan: 0.747
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (10, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3360 (waktu: 174.39s)
+[--] Status: REJECTED
+Plat Nomor: 1023 BUS
+Teks Mentah: 1023 BUS
+Confidence Deteksi YOLO: 0.394
+Confidence OCR: 0.898
+Confidence Keseluruhan: 0.696
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3370 (waktu: 174.90s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.374
+Confidence OCR: 0.963
+Confidence Keseluruhan: 0.727
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3380 (waktu: 175.42s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.375
+Confidence OCR: 0.964
+Confidence Keseluruhan: 0.728
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3390 (waktu: 175.94s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.375
+Confidence OCR: 0.772
+Confidence Keseluruhan: 0.614
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3400 (waktu: 176.46s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.375
+Confidence OCR: 0.783
+Confidence Keseluruhan: 0.620
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3410 (waktu: 176.98s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 BUS 0
+Confidence Deteksi YOLO: 0.382
+Confidence OCR: 0.785
+Confidence Keseluruhan: 0.624
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3420 (waktu: 177.50s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 3 US 0
+Confidence Deteksi YOLO: 0.381
+Confidence OCR: 0.781
+Confidence Keseluruhan: 0.621
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3430 (waktu: 178.02s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.379
+Confidence OCR: 0.859
+Confidence Keseluruhan: 0.667
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3440 (waktu: 178.54s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.381
+Confidence OCR: 0.872
+Confidence Keseluruhan: 0.676
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3450 (waktu: 179.06s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 BUS 0
+Confidence Deteksi YOLO: 0.380
+Confidence OCR: 0.786
+Confidence Keseluruhan: 0.624
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3460 (waktu: 179.58s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 BUS 0
+Confidence Deteksi YOLO: 0.378
+Confidence OCR: 0.795
+Confidence Keseluruhan: 0.628
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3470 (waktu: 180.09s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 3 US 0
+Confidence Deteksi YOLO: 0.378
+Confidence OCR: 0.803
+Confidence Keseluruhan: 0.633
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3480 (waktu: 180.61s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 3 US 0
+Confidence Deteksi YOLO: 0.377
+Confidence OCR: 0.798
+Confidence Keseluruhan: 0.630
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3490 (waktu: 181.13s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.386
+Confidence OCR: 0.975
+Confidence Keseluruhan: 0.740
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3500 (waktu: 181.65s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.386
+Confidence OCR: 0.981
+Confidence Keseluruhan: 0.743
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3510 (waktu: 182.17s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.385
+Confidence OCR: 0.986
+Confidence Keseluruhan: 0.746
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3520 (waktu: 182.69s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.388
+Confidence OCR: 0.979
+Confidence Keseluruhan: 0.743
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3530 (waktu: 183.21s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.386
+Confidence OCR: 0.956
+Confidence Keseluruhan: 0.728
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3540 (waktu: 183.73s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.384
+Confidence OCR: 0.947
+Confidence Keseluruhan: 0.722
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3550 (waktu: 184.25s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.384
+Confidence OCR: 0.966
+Confidence Keseluruhan: 0.733
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3560 (waktu: 184.77s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.386
+Confidence OCR: 0.969
+Confidence Keseluruhan: 0.736
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3570 (waktu: 185.28s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.383
+Confidence OCR: 0.938
+Confidence Keseluruhan: 0.716
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3580 (waktu: 185.80s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.382
+Confidence OCR: 0.753
+Confidence Keseluruhan: 0.605
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3590 (waktu: 186.32s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.385
+Confidence OCR: 0.960
+Confidence Keseluruhan: 0.730
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3600 (waktu: 186.84s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.386
+Confidence OCR: 0.958
+Confidence Keseluruhan: 0.729
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3610 (waktu: 187.36s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.371
+Confidence OCR: 0.791
+Confidence Keseluruhan: 0.623
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3620 (waktu: 187.88s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 BUS 02
+Confidence Deteksi YOLO: 0.373
+Confidence OCR: 0.810
+Confidence Keseluruhan: 0.636
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3630 (waktu: 188.40s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.375
+Confidence OCR: 0.891
+Confidence Keseluruhan: 0.684
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3640 (waktu: 188.92s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.376
+Confidence OCR: 0.793
+Confidence Keseluruhan: 0.626
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3650 (waktu: 189.44s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 3 US 0
+Confidence Deteksi YOLO: 0.379
+Confidence OCR: 0.842
+Confidence Keseluruhan: 0.657
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (13, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3660 (waktu: 189.96s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.380
+Confidence OCR: 0.945
+Confidence Keseluruhan: 0.719
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (13, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3670 (waktu: 190.47s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.381
+Confidence OCR: 0.918
+Confidence Keseluruhan: 0.703
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3680 (waktu: 190.99s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.378
+Confidence OCR: 0.927
+Confidence Keseluruhan: 0.707
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3690 (waktu: 191.51s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.384
+Confidence OCR: 0.943
+Confidence Keseluruhan: 0.719
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3700 (waktu: 192.03s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.383
+Confidence OCR: 0.942
+Confidence Keseluruhan: 0.719
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3710 (waktu: 192.55s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.380
+Confidence OCR: 0.945
+Confidence Keseluruhan: 0.719
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3720 (waktu: 193.07s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.379
+Confidence OCR: 0.723
+Confidence Keseluruhan: 0.585
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3730 (waktu: 193.59s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.379
+Confidence OCR: 0.748
+Confidence Keseluruhan: 0.600
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3740 (waktu: 194.11s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 BUS 02
+Confidence Deteksi YOLO: 0.383
+Confidence OCR: 0.802
+Confidence Keseluruhan: 0.634
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 633, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3750 (waktu: 194.63s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 BUS 02
+Confidence Deteksi YOLO: 0.382
+Confidence OCR: 0.813
+Confidence Keseluruhan: 0.641
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 633, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3760 (waktu: 195.15s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 BUS 02
+Confidence Deteksi YOLO: 0.381
+Confidence OCR: 0.846
+Confidence Keseluruhan: 0.660
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 633, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3770 (waktu: 195.66s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.379
+Confidence OCR: 0.771
+Confidence Keseluruhan: 0.614
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3780 (waktu: 196.18s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.368
+Confidence OCR: 0.786
+Confidence Keseluruhan: 0.619
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (13, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3790 (waktu: 196.70s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.369
+Confidence OCR: 0.758
+Confidence Keseluruhan: 0.602
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (13, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3800 (waktu: 197.22s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.371
+Confidence OCR: 0.739
+Confidence Keseluruhan: 0.592
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (13, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3810 (waktu: 197.74s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.371
+Confidence OCR: 0.760
+Confidence Keseluruhan: 0.605
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (13, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3820 (waktu: 198.26s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.382
+Confidence OCR: 0.951
+Confidence Keseluruhan: 0.724
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3830 (waktu: 198.78s)
+[--] Status: REJECTED
+Plat Nomor: 1023 3 US
+Teks Mentah: 1023 3 US
+Confidence Deteksi YOLO: 0.381
+Confidence OCR: 0.944
+Confidence Keseluruhan: 0.719
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3840 (waktu: 199.30s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.381
+Confidence OCR: 0.728
+Confidence Keseluruhan: 0.589
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3850 (waktu: 199.82s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.382
+Confidence OCR: 0.947
+Confidence Keseluruhan: 0.721
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3860 (waktu: 200.34s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.381
+Confidence OCR: 0.952
+Confidence Keseluruhan: 0.724
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3870 (waktu: 200.85s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.380
+Confidence OCR: 0.754
+Confidence Keseluruhan: 0.605
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3880 (waktu: 201.37s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.380
+Confidence OCR: 0.761
+Confidence Keseluruhan: 0.608
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3890 (waktu: 201.89s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.378
+Confidence OCR: 0.768
+Confidence Keseluruhan: 0.612
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3900 (waktu: 202.41s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.383
+Confidence OCR: 0.821
+Confidence Keseluruhan: 0.646
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3910 (waktu: 202.93s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.384
+Confidence OCR: 0.837
+Confidence Keseluruhan: 0.656
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3920 (waktu: 203.45s)
+[--] Status: REJECTED
+Plat Nomor: 1023 B US
+Teks Mentah: 1023 B US
+Confidence Deteksi YOLO: 0.385
+Confidence OCR: 0.850
+Confidence Keseluruhan: 0.664
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 282, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3930 (waktu: 203.97s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.384
+Confidence OCR: 0.980
+Confidence Keseluruhan: 0.742
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3940 (waktu: 204.49s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.376
+Confidence OCR: 0.780
+Confidence Keseluruhan: 0.618
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3950 (waktu: 205.01s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.379
+Confidence OCR: 0.812
+Confidence Keseluruhan: 0.639
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3960 (waktu: 205.53s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.379
+Confidence OCR: 0.814
+Confidence Keseluruhan: 0.640
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3970 (waktu: 206.04s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.379
+Confidence OCR: 0.789
+Confidence Keseluruhan: 0.625
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3980 (waktu: 206.56s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.391
+Confidence OCR: 0.849
+Confidence Keseluruhan: 0.666
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 3990 (waktu: 207.08s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.393
+Confidence OCR: 0.855
+Confidence Keseluruhan: 0.670
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4000 (waktu: 207.60s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.392
+Confidence OCR: 0.981
+Confidence Keseluruhan: 0.745
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4010 (waktu: 208.12s)
+[--] Status: REJECTED
+Plat Nomor: 1023 BUS
+Teks Mentah: 1023 BUS
+Confidence Deteksi YOLO: 0.391
+Confidence OCR: 0.880
+Confidence Keseluruhan: 0.684
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4020 (waktu: 208.64s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.388
+Confidence OCR: 0.970
+Confidence Keseluruhan: 0.737
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4030 (waktu: 209.16s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.385
+Confidence OCR: 0.928
+Confidence Keseluruhan: 0.711
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4040 (waktu: 209.68s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.386
+Confidence OCR: 0.939
+Confidence Keseluruhan: 0.717
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4050 (waktu: 210.20s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.388
+Confidence OCR: 0.940
+Confidence Keseluruhan: 0.719
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4060 (waktu: 210.72s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 8 US 02
+Confidence Deteksi YOLO: 0.381
+Confidence OCR: 0.787
+Confidence Keseluruhan: 0.625
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (13, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4070 (waktu: 211.23s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 8 US 02
+Confidence Deteksi YOLO: 0.382
+Confidence OCR: 0.785
+Confidence Keseluruhan: 0.624
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (13, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4080 (waktu: 211.75s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 8 US 0
+Confidence Deteksi YOLO: 0.382
+Confidence OCR: 0.777
+Confidence Keseluruhan: 0.619
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4090 (waktu: 212.27s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 8 US 0
+Confidence Deteksi YOLO: 0.382
+Confidence OCR: 0.773
+Confidence Keseluruhan: 0.617
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (13, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4100 (waktu: 212.79s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.390
+Confidence OCR: 0.981
+Confidence Keseluruhan: 0.745
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4110 (waktu: 213.31s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.392
+Confidence OCR: 0.976
+Confidence Keseluruhan: 0.742
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4120 (waktu: 213.83s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.389
+Confidence OCR: 0.827
+Confidence Keseluruhan: 0.651
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4130 (waktu: 214.35s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.389
+Confidence OCR: 0.830
+Confidence Keseluruhan: 0.654
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4140 (waktu: 214.87s)
+[--] Status: REJECTED
+Plat Nomor: 1023 BUS
+Teks Mentah: 1023 BUS
+Confidence Deteksi YOLO: 0.388
+Confidence OCR: 0.880
+Confidence Keseluruhan: 0.683
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4150 (waktu: 215.39s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.376
+Confidence OCR: 0.978
+Confidence Keseluruhan: 0.737
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (13, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4160 (waktu: 215.91s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 BUS 0
+Confidence Deteksi YOLO: 0.373
+Confidence OCR: 0.769
+Confidence Keseluruhan: 0.610
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (13, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4170 (waktu: 216.43s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.377
+Confidence OCR: 0.982
+Confidence Keseluruhan: 0.740
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4180 (waktu: 216.94s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 BUS 0
+Confidence Deteksi YOLO: 0.377
+Confidence OCR: 0.761
+Confidence Keseluruhan: 0.608
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (13, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4190 (waktu: 217.46s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.390
+Confidence OCR: 0.952
+Confidence Keseluruhan: 0.727
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4200 (waktu: 217.98s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.392
+Confidence OCR: 0.938
+Confidence Keseluruhan: 0.719
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4210 (waktu: 218.50s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.394
+Confidence OCR: 0.933
+Confidence Keseluruhan: 0.717
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4220 (waktu: 219.02s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.394
+Confidence OCR: 0.926
+Confidence Keseluruhan: 0.713
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4230 (waktu: 219.54s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.377
+Confidence OCR: 0.963
+Confidence Keseluruhan: 0.728
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4240 (waktu: 220.06s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.376
+Confidence OCR: 0.963
+Confidence Keseluruhan: 0.728
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4250 (waktu: 220.58s)
+[--] Status: REJECTED
+Plat Nomor: 1023 8 US
+Teks Mentah: 1023 8 US
+Confidence Deteksi YOLO: 0.376
+Confidence OCR: 0.878
+Confidence Keseluruhan: 0.677
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4260 (waktu: 221.10s)
+[--] Status: REJECTED
+Plat Nomor: 1023 8 US
+Teks Mentah: 1023 8 US
+Confidence Deteksi YOLO: 0.380
+Confidence OCR: 0.873
+Confidence Keseluruhan: 0.676
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4270 (waktu: 221.62s)
+[--] Status: REJECTED
+Plat Nomor: 1023 3 US
+Teks Mentah: 1023 3 US
+Confidence Deteksi YOLO: 0.378
+Confidence OCR: 0.958
+Confidence Keseluruhan: 0.726
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (13, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4280 (waktu: 222.13s)
+[--] Status: REJECTED
+Plat Nomor: 1023 3 US
+Teks Mentah: 1023 3 US
+Confidence Deteksi YOLO: 0.380
+Confidence OCR: 0.960
+Confidence Keseluruhan: 0.728
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (13, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4290 (waktu: 222.65s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.382
+Confidence OCR: 0.980
+Confidence Keseluruhan: 0.741
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4300 (waktu: 223.17s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.383
+Confidence OCR: 0.980
+Confidence Keseluruhan: 0.741
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4310 (waktu: 223.69s)
+[--] Status: REJECTED
+Plat Nomor: 1023 8 US
+Teks Mentah: 1023 8 US
+Confidence Deteksi YOLO: 0.387
+Confidence OCR: 0.872
+Confidence Keseluruhan: 0.678
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4320 (waktu: 224.21s)
+[--] Status: REJECTED
+Plat Nomor: 1023 8 US
+Teks Mentah: 1023 8 US
+Confidence Deteksi YOLO: 0.387
+Confidence OCR: 0.869
+Confidence Keseluruhan: 0.676
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4330 (waktu: 224.73s)
+[--] Status: REJECTED
+Plat Nomor: 1023 8 US
+Teks Mentah: 1023 8 US
+Confidence Deteksi YOLO: 0.388
+Confidence OCR: 0.860
+Confidence Keseluruhan: 0.671
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4340 (waktu: 225.25s)
+[--] Status: REJECTED
+Plat Nomor: 1023 8US
+Teks Mentah: 1023 8US
+Confidence Deteksi YOLO: 0.385
+Confidence OCR: 0.883
+Confidence Keseluruhan: 0.683
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4350 (waktu: 225.77s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.387
+Confidence OCR: 0.848
+Confidence Keseluruhan: 0.663
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (13, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4360 (waktu: 226.29s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.389
+Confidence OCR: 0.752
+Confidence Keseluruhan: 0.606
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4370 (waktu: 226.81s)
+[--] Status: REJECTED
+Plat Nomor: 1023 BUS
+Teks Mentah: 1023 BUS
+Confidence Deteksi YOLO: 0.386
+Confidence OCR: 0.888
+Confidence Keseluruhan: 0.687
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (13, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4380 (waktu: 227.32s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 BUS 0
+Confidence Deteksi YOLO: 0.384
+Confidence OCR: 0.816
+Confidence Keseluruhan: 0.643
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (13, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4390 (waktu: 227.84s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.390
+Confidence OCR: 0.992
+Confidence Keseluruhan: 0.751
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4400 (waktu: 228.36s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.386
+Confidence OCR: 0.838
+Confidence Keseluruhan: 0.657
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4410 (waktu: 228.88s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.386
+Confidence OCR: 0.838
+Confidence Keseluruhan: 0.657
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4420 (waktu: 229.40s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.386
+Confidence OCR: 0.838
+Confidence Keseluruhan: 0.657
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4430 (waktu: 229.92s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.395
+Confidence OCR: 0.755
+Confidence Keseluruhan: 0.611
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4440 (waktu: 230.44s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.396
+Confidence OCR: 0.754
+Confidence Keseluruhan: 0.611
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4450 (waktu: 230.96s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.397
+Confidence OCR: 0.748
+Confidence Keseluruhan: 0.607
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4460 (waktu: 231.48s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.397
+Confidence OCR: 0.762
+Confidence Keseluruhan: 0.616
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4470 (waktu: 232.00s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.370
+Confidence OCR: 0.812
+Confidence Keseluruhan: 0.635
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 633, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4480 (waktu: 232.51s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.375
+Confidence OCR: 0.992
+Confidence Keseluruhan: 0.745
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4490 (waktu: 233.03s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.376
+Confidence OCR: 0.992
+Confidence Keseluruhan: 0.745
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4500 (waktu: 233.55s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US 02.28
+Confidence Deteksi YOLO: 0.376
+Confidence OCR: 0.887
+Confidence Keseluruhan: 0.683
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 633, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4510 (waktu: 234.07s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.381
+Confidence OCR: 0.797
+Confidence Keseluruhan: 0.631
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 636, 282, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4520 (waktu: 234.59s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.385
+Confidence OCR: 0.732
+Confidence Keseluruhan: 0.593
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 636, 282, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4530 (waktu: 235.11s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.386
+Confidence OCR: 0.803
+Confidence Keseluruhan: 0.636
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 636, 282, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4540 (waktu: 235.63s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.386
+Confidence OCR: 0.725
+Confidence Keseluruhan: 0.589
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 635, 282, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4550 (waktu: 236.15s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.388
+Confidence OCR: 0.937
+Confidence Keseluruhan: 0.717
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 635, 282, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4560 (waktu: 236.67s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.396
+Confidence OCR: 0.731
+Confidence Keseluruhan: 0.597
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4570 (waktu: 237.19s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 BUS 02
+Confidence Deteksi YOLO: 0.393
+Confidence OCR: 0.763
+Confidence Keseluruhan: 0.615
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4580 (waktu: 237.70s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023US 02
+Confidence Deteksi YOLO: 0.393
+Confidence OCR: 0.766
+Confidence Keseluruhan: 0.617
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4590 (waktu: 238.22s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.394
+Confidence OCR: 0.746
+Confidence Keseluruhan: 0.605
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4600 (waktu: 238.74s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.388
+Confidence OCR: 0.944
+Confidence Keseluruhan: 0.721
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (13, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4610 (waktu: 239.26s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.388
+Confidence OCR: 0.943
+Confidence Keseluruhan: 0.721
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (13, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4620 (waktu: 239.78s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.389
+Confidence OCR: 0.941
+Confidence Keseluruhan: 0.720
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (13, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4630 (waktu: 240.30s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.387
+Confidence OCR: 0.948
+Confidence Keseluruhan: 0.724
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4640 (waktu: 240.82s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.387
+Confidence OCR: 0.976
+Confidence Keseluruhan: 0.740
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4650 (waktu: 241.34s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.384
+Confidence OCR: 0.948
+Confidence Keseluruhan: 0.723
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4660 (waktu: 241.86s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.386
+Confidence OCR: 0.950
+Confidence Keseluruhan: 0.724
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4670 (waktu: 242.38s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.388
+Confidence OCR: 0.948
+Confidence Keseluruhan: 0.724
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4680 (waktu: 242.89s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.392
+Confidence OCR: 0.931
+Confidence Keseluruhan: 0.715
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4690 (waktu: 243.41s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0228
+Teks Mentah: 1023 US 0228
+Confidence Deteksi YOLO: 0.388
+Confidence OCR: 0.723
+Confidence Keseluruhan: 0.589
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4700 (waktu: 243.93s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.387
+Confidence OCR: 0.931
+Confidence Keseluruhan: 0.713
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4710 (waktu: 244.45s)
+[--] Status: REJECTED
+Plat Nomor: 1023 3US
+Teks Mentah: 1023 3US 02.20
+Confidence Deteksi YOLO: 0.385
+Confidence OCR: 0.843
+Confidence Keseluruhan: 0.660
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4720 (waktu: 244.97s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 3 US 0
+Confidence Deteksi YOLO: 0.373
+Confidence OCR: 0.796
+Confidence Keseluruhan: 0.627
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (13, 635, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4730 (waktu: 245.49s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.372
+Confidence OCR: 0.737
+Confidence Keseluruhan: 0.591
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4740 (waktu: 246.01s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.375
+Confidence OCR: 0.742
+Confidence Keseluruhan: 0.595
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4750 (waktu: 246.53s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.376
+Confidence OCR: 0.948
+Confidence Keseluruhan: 0.719
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 284, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4760 (waktu: 247.05s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 BUS 02
+Confidence Deteksi YOLO: 0.370
+Confidence OCR: 0.804
+Confidence Keseluruhan: 0.630
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4770 (waktu: 247.57s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.372
+Confidence OCR: 0.732
+Confidence Keseluruhan: 0.588
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4780 (waktu: 248.08s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.373
+Confidence OCR: 0.724
+Confidence Keseluruhan: 0.584
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4790 (waktu: 248.60s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.372
+Confidence OCR: 0.844
+Confidence Keseluruhan: 0.655
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4800 (waktu: 249.12s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.380
+Confidence OCR: 0.968
+Confidence Keseluruhan: 0.732
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4810 (waktu: 249.64s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.379
+Confidence OCR: 0.731
+Confidence Keseluruhan: 0.590
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4820 (waktu: 250.16s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023US 0
+Confidence Deteksi YOLO: 0.381
+Confidence OCR: 0.755
+Confidence Keseluruhan: 0.605
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4830 (waktu: 250.68s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.382
+Confidence OCR: 0.754
+Confidence Keseluruhan: 0.605
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4840 (waktu: 251.20s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.370
+Confidence OCR: 0.878
+Confidence Keseluruhan: 0.674
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4850 (waktu: 251.72s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.377
+Confidence OCR: 0.918
+Confidence Keseluruhan: 0.702
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4860 (waktu: 252.24s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.380
+Confidence OCR: 0.876
+Confidence Keseluruhan: 0.677
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4870 (waktu: 252.76s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.379
+Confidence OCR: 0.859
+Confidence Keseluruhan: 0.667
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 634, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4880 (waktu: 253.27s)
+[--] Status: REJECTED
+Plat Nomor: 1023US
+Teks Mentah: 1023US
+Confidence Deteksi YOLO: 0.386
+Confidence OCR: 0.995
+Confidence Keseluruhan: 0.751
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 282, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4890 (waktu: 253.79s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 0
+Teks Mentah: 1023 US 0
+Confidence Deteksi YOLO: 0.384
+Confidence OCR: 0.756
+Confidence Keseluruhan: 0.607
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 282, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4900 (waktu: 254.31s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.387
+Confidence OCR: 0.905
+Confidence Keseluruhan: 0.698
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 635, 282, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4910 (waktu: 254.83s)
+[--] Status: REJECTED
+Plat Nomor: 1023US
+Teks Mentah: 1023US
+Confidence Deteksi YOLO: 0.387
+Confidence OCR: 0.995
+Confidence Keseluruhan: 0.752
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 635, 282, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4920 (waktu: 255.35s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.372
+Confidence OCR: 0.974
+Confidence Keseluruhan: 0.733
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (14, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4930 (waktu: 255.87s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.377
+Confidence OCR: 0.974
+Confidence Keseluruhan: 0.735
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (13, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4940 (waktu: 256.39s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.378
+Confidence OCR: 0.975
+Confidence Keseluruhan: 0.736
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (12, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4950 (waktu: 256.91s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.376
+Confidence OCR: 0.771
+Confidence Keseluruhan: 0.613
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (13, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4960 (waktu: 257.43s)
+[OK] Status: ACCEPTED
+Plat Nomor: US 02
+Teks Mentah: 1023 US 02
+Confidence Deteksi YOLO: 0.378
+Confidence OCR: 0.832
+Confidence Keseluruhan: 0.650
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (12, 635, 283, 720)
+Error: -
+============================================================
+
+============================================================
+Frame: 4970 (waktu: 257.95s)
+[--] Status: REJECTED
+Plat Nomor: 1023 US
+Teks Mentah: 1023 US
+Confidence Deteksi YOLO: 0.378
+Confidence OCR: 0.943
+Confidence Keseluruhan: 0.717
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (11, 634, 283, 720)
+Error: -
+============================================================
+
+RINGKASAN
+============================================================
+Total Frame Diproses:  498
+Terdeteksi:            180
+Tidak Valid:           318
+Perlu Retry:           0
+============================================================

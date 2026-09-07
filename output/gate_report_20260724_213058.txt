@@ -1,0 +1,17 @@
+LAPORAN GATE DETECTION DUAL LANE
+Tanggal: 2026-07-24 21:30:58
+Video: /home/x/Desktop/1.mp4
+Total Frame: 1643
+Palang Kiri: 0 kali
+Palang Kanan: 1 kali
+FPS Rata-rata: 91.3
+
+============================================================
+LOG PALANG TERBUKA - JALUR KANAN
+============================================================
+
+  #1
+  Waktu: 21:30:44 (frame 1111)
+  OCR: 20
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek

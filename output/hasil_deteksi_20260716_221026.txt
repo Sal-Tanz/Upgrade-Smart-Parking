@@ -1,0 +1,124 @@
+LAPORAN HASIL DETEKSI PLAT NOMOR
+Tanggal: 2026-07-16 22:10:26
+Jumlah Gambar: 8
+Model YOLO: ml/models/yolov8_plate.pt
+
+============================================================
+File: data_test1.jpg
+[--] Status: REJECTED
+Plat Nomor: 1292 TF
+Teks Mentah: 1292 TF 09.26
+Confidence Deteksi YOLO: 0.481
+Confidence OCR: 0.959
+Confidence Keseluruhan: 0.768
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (277, 444, 524, 587)
+Error: -
+============================================================
+
+============================================================
+File: data_test2.jpg
+[--] Status: REJECTED
+Plat Nomor: 1292 TF
+Teks Mentah: 1292 09.26 TF
+Confidence Deteksi YOLO: 0.380
+Confidence OCR: 0.918
+Confidence Keseluruhan: 0.703
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (2264, 1879, 2752, 2238)
+Error: -
+============================================================
+
+============================================================
+File: data_test3.jpg
+[??] Status: RETRY
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.324
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.129
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (697, 349, 825, 463)
+Error: -
+============================================================
+
+============================================================
+File: data_test4.jpg
+[OK] Status: ACCEPTED
+Plat Nomor: TF 1292 I
+Teks Mentah: TF 1292 I 09.26
+Confidence Deteksi YOLO: 0.340
+Confidence OCR: 0.946
+Confidence Keseluruhan: 0.704
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (0, 1257, 513, 1514)
+Error: -
+============================================================
+
+============================================================
+File: data_test5.jpg
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+============================================================
+File: data_test6.jpg
+[OK] Status: ACCEPTED
+Plat Nomor: D 1073 YTN
+Teks Mentah: D 1073YTN 08.27
+Confidence Deteksi YOLO: 0.476
+Confidence OCR: 0.896
+Confidence Keseluruhan: 0.728
+Valid Format: Ya
+Engine OCR: paddleocr
+Bounding Box: (1169, 726, 1503, 878)
+Error: -
+============================================================
+
+============================================================
+File: data_test7.jpg
+[--] Status: REJECTED
+Plat Nomor: 1023US
+Teks Mentah: 1023US 02-28
+Confidence Deteksi YOLO: 0.406
+Confidence OCR: 0.941
+Confidence Keseluruhan: 0.727
+Valid Format: Tidak
+Engine OCR: paddleocr
+Bounding Box: (1125, 774, 1365, 926)
+Error: -
+============================================================
+
+============================================================
+File: data_test8.jpg
+[--] Status: REJECTED
+Plat Nomor: (tidak terdeteksi)
+Teks Mentah: (kosong)
+Confidence Deteksi YOLO: 0.000
+Confidence OCR: 0.000
+Confidence Keseluruhan: 0.000
+Valid Format: Tidak
+Engine OCR: 
+Bounding Box: None
+Error: Tidak ada plat nomor terdeteksi
+============================================================
+
+RINGKASAN
+============================================================
+Total Gambar:     8
+Terdeteksi:       2
+Tidak Valid:      5
+Perlu Retry:      1
+============================================================

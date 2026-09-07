@@ -1,0 +1,2164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+<<<<<<< HEAD
+      <id>4199692</id>
+      <size>180</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-07-06 05:02:53.986963+00:00</created>
+      <updated>2026-07-06 06:09:48.851315+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>179</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>4197734</id>
+          <start>0</start>
+          <stop>179</stop>
+          <url>https://app.cvat.ai/api/jobs/4199692/dataset/export/api/jobs/4199692</url>
+=======
+      <id>4270221</id>
+      <size>327</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-07-22 08:00:08.660995+00:00</created>
+      <updated>2026-07-22 19:52:26.993527+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>326</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>4268192</id>
+          <start>0</start>
+          <stop>326</stop>
+          <url>https://app.cvat.ai/api/jobs/4270221/dataset/export/api/jobs/4270221</url>
+>>>>>>> c463035 (Update program dengan split parkiran)
+        </segment>
+      </segments>
+      <owner>
+        <username>refianaogam</username>
+        <email>kuliahogam@gmail.com</email>
+      </owner>
+      <assignee>
+        <username>refianaogam</username>
+        <email>kuliahogam@gmail.com</email>
+      </assignee>
+      <labels>
+        <label>
+          <name>plat nomor</name>
+<<<<<<< HEAD
+          <color>#f2e6b5</color>
+=======
+          <color>#fafa37</color>
+>>>>>>> c463035 (Update program dengan split parkiran)
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+<<<<<<< HEAD
+    <dumped>2026-07-06 07:55:09.743978+00:00</dumped>
+  </meta>
+  <image id="0" name="-polda-metro-jaya-melakukan-pemantauan-arus-lalu-lintas-yang-masuk-pintu-tol_jpg.rf.c683e0a875f96974c956da444d91b970.jpg" width="970" height="544">
+    <box label="plat nomor" source="manual" occluded="0" xtl="149.95" ytl="445.44" xbr="387.70" ybr="538.05" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="image_01.jpg" width="682" height="473">
+    <box label="plat nomor" source="manual" occluded="0" xtl="237.55" ytl="338.31" xbr="382.12" ybr="397.88" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="image_02.jpg" width="768" height="960">
+    <box label="plat nomor" source="manual" occluded="0" xtl="157.60" ytl="687.28" xbr="306.20" ybr="784.25" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="image_03.jpg" width="720" height="378">
+    <box label="plat nomor" source="manual" occluded="0" xtl="423.44" ytl="219.16" xbr="553.66" ybr="283.66" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="image_04.jpg" width="640" height="425">
+    <box label="plat nomor" source="manual" occluded="0" xtl="179.64" ytl="282.22" xbr="340.20" ybr="363.62" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="image_05.jpeg" width="1200" height="800">
+    <box label="plat nomor" source="manual" occluded="0" xtl="984.41" ytl="585.30" xbr="1155.47" ybr="668.20" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="image_06.jpg" width="620" height="413">
+    <box label="plat nomor" source="manual" occluded="0" xtl="138.94" ytl="277.53" xbr="273.84" ybr="352.29" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="image_07.jpg" width="900" height="1200">
+    <box label="plat nomor" source="manual" occluded="0" xtl="362.34" ytl="608.70" xbr="566.98" ybr="720.47" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="image_08.jpg" width="1000" height="750">
+    <box label="plat nomor" source="manual" occluded="0" xtl="385.15" ytl="316.47" xbr="568.15" ybr="399.12" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="image_09.jpg" width="720" height="480">
+    <box label="plat nomor" source="manual" occluded="0" xtl="237.38" ytl="223.34" xbr="494.92" ybr="331.64" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="image_10.jpg" width="960" height="722">
+    <box label="plat nomor" source="manual" occluded="0" xtl="612.84" ytl="342.62" xbr="753.96" ybr="414.60" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="image_100.jpg" width="346" height="310">
+    <box label="plat nomor" source="manual" occluded="0" xtl="84.84" ytl="234.94" xbr="202.37" ybr="280.49" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="image_101.jpg" width="640" height="581">
+    <box label="plat nomor" source="manual" occluded="0" xtl="501.63" ytl="301.18" xbr="568.70" ybr="339.29" z_order="0">
+    </box>
+    <box label="plat nomor" source="manual" occluded="0" xtl="223.44" ytl="369.77" xbr="311.09" ybr="400.26" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="image_102.jpg" width="653" height="366">
+    <box label="plat nomor" source="manual" occluded="0" xtl="301.53" ytl="137.51" xbr="469.31" ybr="215.33" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="image_103.jpg" width="525" height="600">
+    <box label="plat nomor" source="manual" occluded="0" xtl="181.23" ytl="418.46" xbr="316.61" ybr="478.28" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="image_104.jpg" width="970" height="544">
+    <box label="plat nomor" source="manual" occluded="0" xtl="380.32" ytl="237.18" xbr="600.03" ybr="351.95" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="image_105.jpg" width="605" height="600">
+    <box label="plat nomor" source="manual" occluded="0" xtl="422.71" ytl="331.09" xbr="498.27" ybr="376.74" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="image_106.jpg" width="596" height="600">
+    <box label="plat nomor" source="manual" occluded="0" xtl="62.06" ytl="350.77" xbr="136.05" ybr="414.52" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="image_107.jpg" width="609" height="600">
+    <box label="plat nomor" source="manual" occluded="0" xtl="205.94" ytl="299.61" xbr="370.45" ybr="372.81" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="image_108.jpg" width="750" height="500">
+    <box label="plat nomor" source="manual" occluded="0" xtl="174.43" ytl="262.85" xbr="260.36" ybr="321.23" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="image_109.jpg" width="700" height="465">
+    <box label="plat nomor" source="manual" occluded="0" xtl="324.85" ytl="287.05" xbr="421.85" ybr="323.95" z_order="0">
+    </box>
+    <box label="plat nomor" source="manual" occluded="0" xtl="1.67" ytl="277.03" xbr="48.59" ybr="319.21" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="image_11.jpg" width="860" height="645">
+    <box label="plat nomor" source="manual" occluded="0" xtl="93.77" ytl="434.69" xbr="256.11" ybr="541.46" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="image_110.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="588.77" ytl="455.47" xbr="730.82" ybr="548.53" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="image_111.jpg" width="432" height="960">
+    <box label="plat nomor" source="manual" occluded="0" xtl="232.61" ytl="441.92" xbr="328.40" ybr="486.54" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="image_112.jpg" width="860" height="645">
+    <box label="plat nomor" source="manual" occluded="0" xtl="504.02" ytl="433.23" xbr="705.86" ybr="534.15" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="image_113.jpg" width="850" height="638">
+    <box label="plat nomor" source="manual" occluded="0" xtl="376.02" ytl="380.43" xbr="606.05" ybr="475.91" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="image_114.jpg" width="850" height="638">
+    <box label="plat nomor" source="manual" occluded="0" xtl="117.06" ytl="305.20" xbr="225.56" ybr="397.79" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="image_115.jpg" width="640" height="480">
+    <box label="plat nomor" source="manual" occluded="0" xtl="417.54" ytl="264.45" xbr="535.63" ybr="335.74" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="image_116.jpg" width="650" height="420">
+    <box label="plat nomor" source="manual" occluded="0" xtl="85.10" ytl="253.81" xbr="211.29" ybr="344.76" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="image_117.jpg" width="640" height="479">
+    <box label="plat nomor" source="manual" occluded="0" xtl="451.04" ytl="325.04" xbr="564.00" ybr="393.47" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="image_118.jpg" width="640" height="480">
+    <box label="plat nomor" source="manual" occluded="0" xtl="96.45" ytl="296.01" xbr="218.90" ybr="367.85" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="image_119.jpg" width="921" height="691">
+    <box label="plat nomor" source="manual" occluded="0" xtl="239.37" ytl="392.85" xbr="392.14" ybr="477.46" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="image_12.jpg" width="860" height="645">
+    <box label="plat nomor" source="manual" occluded="0" xtl="638.58" ytl="434.69" xbr="775.33" ybr="527.57" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="image_120.jpg" width="960" height="541">
+    <box label="plat nomor" source="manual" occluded="0" xtl="598.71" ytl="316.39" xbr="736.16" ybr="407.55" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="image_121.jpg" width="773" height="960">
+    <box label="plat nomor" source="manual" occluded="0" xtl="23.74" ytl="453.89" xbr="214.22" ybr="568.18" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="image_122.jpg" width="960" height="814">
+    <box label="plat nomor" source="manual" occluded="0" xtl="552.23" ytl="310.06" xbr="784.80" ybr="439.27" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="image_123.jpg" width="960" height="861">
+    <box label="plat nomor" source="manual" occluded="0" xtl="566.19" ytl="550.08" xbr="823.90" ybr="683.82" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="image_124.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="703.88" ytl="315.06" xbr="818.98" ybr="399.14" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="image_125.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="214.08" ytl="343.63" xbr="356.12" ybr="434.24" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="image_126.jpg" width="800" height="503">
+    <box label="plat nomor" source="manual" occluded="0" xtl="76.43" ytl="345.30" xbr="193.30" ybr="420.10" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="image_127.jpg" width="960" height="454">
+    <box label="plat nomor" source="manual" occluded="0" xtl="194.10" ytl="329.36" xbr="303.49" ybr="406.50" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="image_128.jpg" width="720" height="960">
+    <box label="plat nomor" source="manual" occluded="0" xtl="316.75" ytl="538.79" xbr="509.40" ybr="629.13" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="image_129.jpg" width="500" height="500">
+    <box label="plat nomor" source="manual" occluded="0" xtl="102.18" ytl="328.20" xbr="221.79" ybr="409.83" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="image_13.jpg" width="860" height="645">
+    <box label="plat nomor" source="manual" occluded="0" xtl="637.12" ytl="451.51" xbr="764.36" ybr="528.30" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="image_130.jpg" width="490" height="310">
+    <box label="plat nomor" source="manual" occluded="0" xtl="206.42" ytl="210.47" xbr="289.82" ybr="251.63" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="image_131.jpg" width="959" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="389.51" ytl="482.41" xbr="576.45" ybr="569.75" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="image_132.jpg" width="921" height="691">
+    <box label="plat nomor" source="manual" occluded="0" xtl="339.65" ytl="545.62" xbr="572.33" ybr="629.45" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="image_133.jpg" width="475" height="286">
+    <box label="plat nomor" source="manual" occluded="0" xtl="36.88" ytl="171.08" xbr="117.72" ybr="220.70" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="image_134.jpg" width="720" height="960">
+    <box label="plat nomor" source="manual" occluded="0" xtl="524.64" ytl="670.49" xbr="671.58" ybr="781.51" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="image_135.jpg" width="786" height="543">
+    <box label="plat nomor" source="manual" occluded="0" xtl="82.87" ytl="380.16" xbr="214.00" ybr="479.28" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="image_136.jpg" width="959" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="49.92" ytl="468.53" xbr="217.26" ybr="627.71" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="image_137.jpg" width="960" height="594">
+    <box label="plat nomor" source="manual" occluded="0" xtl="569.96" ytl="258.40" xbr="682.86" ybr="330.63" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="image_138.jpg" width="960" height="534">
+    <box label="plat nomor" source="manual" occluded="0" xtl="670.94" ytl="313.94" xbr="802.07" ybr="395.28" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="image_139.jpg" width="800" height="600">
+    <box label="plat nomor" source="manual" occluded="0" xtl="172.99" ytl="348.98" xbr="260.75" ybr="412.93" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="image_14.jpg" width="640" height="480">
+    <box label="plat nomor" source="manual" occluded="0" xtl="522.03" ytl="316.69" xbr="599.85" ybr="359.69" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="image_140.jpg" width="720" height="960">
+    <box label="plat nomor" source="manual" occluded="0" xtl="562.74" ytl="557.29" xbr="677.02" ybr="659.61" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="image_141.jpg" width="540" height="960">
+    <box label="plat nomor" source="manual" occluded="0" xtl="176.67" ytl="394.03" xbr="359.52" ybr="478.93" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="image_142.jpg" width="640" height="360">
+    <box label="plat nomor" source="manual" occluded="0" xtl="409.40" ytl="157.56" xbr="556.66" ybr="230.02" z_order="0">
+    </box>
+    <box label="plat nomor" source="manual" occluded="0" xtl="24.65" ytl="148.68" xbr="111.14" ybr="194.49" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="image_143.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="224.69" ytl="312.61" xbr="349.59" ybr="375.47" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="image_144.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="356.94" ytl="385.26" xbr="630.41" ybr="513.43" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="image_145.jpg" width="960" height="722">
+    <box label="plat nomor" source="manual" occluded="0" xtl="286.19" ytl="353.64" xbr="354.95" ybr="414.21" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="image_146.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="266.33" ytl="390.98" xbr="383.88" ybr="453.02" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="image_147.jpg" width="959" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="396.86" ytl="443.22" xbr="572.37" ybr="502.82" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="image_148.jpg" width="960" height="540">
+    <box label="plat nomor" source="manual" occluded="0" xtl="656.91" ytl="286.80" xbr="750.18" ybr="361.13" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="image_149.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="400.20" ytl="334.65" xbr="574.08" ybr="414.65" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="image_15.jpg" width="640" height="479">
+    <box label="plat nomor" source="manual" occluded="0" xtl="480.36" ytl="276.16" xbr="547.16" ybr="329.39" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="image_150.jpg" width="720" height="960">
+    <box label="plat nomor" source="manual" occluded="0" xtl="247.09" ytl="522.46" xbr="478.93" ybr="630.22" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="image_151.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="325.10" ytl="423.63" xbr="628.77" ybr="557.51" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="image_152.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="652.45" ytl="413.02" xbr="774.90" ybr="478.33" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="image_153.jpg" width="720" height="960">
+    <box label="plat nomor" source="manual" occluded="0" xtl="543.14" ytl="624.78" xbr="674.84" ybr="724.91" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="image_154.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="356.94" ytl="386.08" xbr="624.69" ybr="496.29" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="image_155.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="17.35" ytl="435.06" xbr="124.29" ybr="553.43" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="image_156.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="379.80" ytl="436.69" xbr="555.31" ybr="524.86" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="image_157.jpg" width="600" height="800">
+    <box label="plat nomor" source="manual" occluded="0" xtl="81.61" ytl="535.13" xbr="195.90" ybr="592.27" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="image_158.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="716.94" ytl="331.39" xbr="826.33" ybr="420.37" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="image_159.jpg" width="600" height="800">
+    <box label="plat nomor" source="manual" occluded="0" xtl="224.92" ytl="491.59" xbr="363.70" ybr="554.17" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="image_16.jpg" width="640" height="480">
+    <box label="plat nomor" source="manual" occluded="0" xtl="458.90" ytl="318.87" xbr="574.82" ybr="399.42" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="image_160.jpg" width="720" height="960">
+    <box label="plat nomor" source="manual" occluded="0" xtl="285.18" ytl="645.46" xbr="466.95" ybr="733.62" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="image_161.jpg" width="720" height="960">
+    <box label="plat nomor" source="manual" occluded="0" xtl="266.68" ytl="768.45" xbr="453.89" ybr="842.46" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="image_162.jpg" width="719" height="866">
+    <box label="plat nomor" source="manual" occluded="0" xtl="161.88" ytl="564.54" xbr="273.81" ybr="640.14" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="image_163.jpg" width="850" height="638">
+    <box label="plat nomor" source="manual" occluded="0" xtl="611.11" ytl="375.37" xbr="714.55" ybr="460.72" z_order="0">
+    </box>
+  </image>
+  <image id="81" name="image_164.jpg" width="620" height="465">
+    <box label="plat nomor" source="manual" occluded="0" xtl="207.86" ytl="349.26" xbr="381.31" ybr="423.07" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="image_165.jpg" width="500" height="500">
+    <box label="plat nomor" source="manual" occluded="0" xtl="264.31" ytl="289.65" xbr="372.58" ybr="352.57" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="image_166.jpg" width="242" height="208">
+    <box label="plat nomor" source="manual" occluded="0" xtl="30.74" ytl="130.16" xbr="90.64" ybr="164.59" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="image_167.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="393.67" ytl="537.10" xbr="566.73" ybr="617.10" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="image_168.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="206.73" ytl="459.55" xbr="448.37" ybr="578.73" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="image_169.jpg" width="960" height="676">
+    <box label="plat nomor" source="manual" occluded="0" xtl="247.94" ytl="472.89" xbr="364.44" ybr="554.13" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="image_17.jpg" width="900" height="543">
+    <box label="plat nomor" source="manual" occluded="0" xtl="771.66" ytl="309.31" xbr="873.56" ybr="394.77" z_order="0">
+    </box>
+  </image>
+  <image id="88" name="image_170.jpg" width="960" height="736">
+    <box label="plat nomor" source="manual" occluded="0" xtl="401.73" ytl="582.39" xbr="559.44" ybr="665.84" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="image_171.jpg" width="720" height="959">
+    <box label="plat nomor" source="manual" occluded="0" xtl="283.02" ytl="632.26" xbr="476.56" ybr="723.60" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="image_172.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="61.43" ytl="408.94" xbr="215.71" ybr="536.29" z_order="0">
+    </box>
+  </image>
+  <image id="91" name="image_173.jpg" width="543" height="960">
+    <box label="plat nomor" source="manual" occluded="0" xtl="176.56" ytl="537.70" xbr="389.89" ybr="634.57" z_order="0">
+    </box>
+  </image>
+  <image id="92" name="image_174.jpg" width="960" height="543">
+    <box label="plat nomor" source="manual" occluded="0" xtl="180.77" ytl="311.76" xbr="309.80" ybr="393.81" z_order="0">
+    </box>
+  </image>
+  <image id="93" name="image_175.jpg" width="960" height="543">
+    <box label="plat nomor" source="manual" occluded="0" xtl="599.41" ytl="311.76" xbr="684.96" ybr="385.39" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="image_176.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="645.10" ytl="398.33" xbr="787.96" ybr="490.57" z_order="0">
+    </box>
+  </image>
+  <image id="95" name="image_177.jpg" width="720" height="960">
+    <box label="plat nomor" source="manual" occluded="0" xtl="142.60" ytl="557.29" xbr="252.53" ybr="628.04" z_order="0">
+    </box>
+  </image>
+  <image id="96" name="image_178.jpg" width="860" height="645">
+    <box label="plat nomor" source="manual" occluded="0" xtl="137.64" ytl="406.17" xbr="231.98" ybr="489.54" z_order="0">
+    </box>
+  </image>
+  <image id="97" name="image_179.jpg" width="860" height="645">
+    <box label="plat nomor" source="manual" occluded="0" xtl="659.06" ytl="388.62" xbr="768.75" ybr="444.93" z_order="0">
+    </box>
+  </image>
+  <image id="98" name="image_18.jpg" width="4160" height="3120">
+    <box label="plat nomor" source="manual" occluded="0" xtl="3046.57" ytl="1821.56" xbr="3453.37" ybr="2125.78" z_order="0">
+    </box>
+  </image>
+  <image id="99" name="image_19.jpg" width="600" height="400">
+    <box label="plat nomor" source="manual" occluded="0" xtl="246.60" ytl="246.24" xbr="330.05" ybr="293.40" z_order="0">
+    </box>
+  </image>
+  <image id="100" name="image_20.jpg" width="720" height="480">
+    <box label="plat nomor" source="manual" occluded="0" xtl="264.88" ytl="343.91" xbr="446.11" ybr="420.64" z_order="0">
+    </box>
+  </image>
+  <image id="101" name="image_21.jpg" width="720" height="960">
+    <box label="plat nomor" source="manual" occluded="0" xtl="230.76" ytl="727.09" xbr="477.84" ybr="844.64" z_order="0">
+    </box>
+  </image>
+  <image id="102" name="image_22.jpg" width="961" height="640">
+    <box label="plat nomor" source="manual" occluded="0" xtl="408.50" ytl="432.45" xbr="555.08" ybr="489.77" z_order="0">
+    </box>
+  </image>
+  <image id="103" name="image_23.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="729.18" ytl="489.75" xbr="866.33" ybr="559.14" z_order="0">
+    </box>
+  </image>
+  <image id="104" name="image_24.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="357.75" ytl="368.94" xbr="599.39" ybr="459.55" z_order="0">
+    </box>
+  </image>
+  <image id="105" name="image_25.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="757.75" ytl="302.00" xbr="852.45" ybr="386.90" z_order="0">
+    </box>
+  </image>
+  <image id="106" name="image_26.jpg" width="720" height="960">
+    <box label="plat nomor" source="manual" occluded="0" xtl="206.82" ytl="672.67" xbr="457.16" ybr="778.25" z_order="0">
+    </box>
+  </image>
+  <image id="107" name="image_27.jpg" width="672" height="456">
+    <box label="plat nomor" source="manual" occluded="0" xtl="264.27" ytl="253.83" xbr="366.12" ybr="307.08" z_order="0">
+    </box>
+  </image>
+  <image id="108" name="image_28.jpg" width="640" height="480">
+    <box label="plat nomor" source="manual" occluded="0" xtl="334.27" ytl="306.90" xbr="430.05" ybr="362.95" z_order="0">
+    </box>
+    <box label="plat nomor" source="manual" occluded="0" xtl="52.91" ytl="190.98" xbr="107.33" ybr="219.82" z_order="0">
+    </box>
+  </image>
+  <image id="109" name="image_29.jpg" width="554" height="554">
+    <box label="plat nomor" source="manual" occluded="0" xtl="149.64" ytl="418.28" xbr="339.96" ybr="519.41" z_order="0">
+    </box>
+  </image>
+  <image id="110" name="image_30.jpg" width="639" height="480">
+    <box label="plat nomor" source="manual" occluded="0" xtl="571.33" ytl="286.76" xbr="631.20" ybr="343.36" z_order="0">
+    </box>
+  </image>
+  <image id="111" name="image_31.jpg" width="1200" height="800">
+    <box label="plat nomor" source="manual" occluded="0" xtl="144.92" ytl="597.71" xbr="230.18" ybr="641.25" z_order="0">
+    </box>
+    <box label="plat nomor" source="manual" occluded="0" xtl="935.85" ytl="585.01" xbr="1028.37" ybr="626.74" z_order="0">
+    </box>
+  </image>
+  <image id="112" name="image_32.jpg" width="630" height="487">
+    <box label="plat nomor" source="manual" occluded="0" xtl="203.03" ytl="310.03" xbr="328.37" ybr="363.04" z_order="0">
+    </box>
+  </image>
+  <image id="113" name="image_33.jpg" width="850" height="638">
+    <box label="plat nomor" source="manual" occluded="0" xtl="496.82" ytl="434.68" xbr="655.96" ybr="531.61" z_order="0">
+    </box>
+  </image>
+  <image id="114" name="image_34.jpg" width="640" height="480">
+    <box label="plat nomor" source="manual" occluded="0" xtl="26.79" ytl="287.85" xbr="106.79" ybr="365.67" z_order="0">
+    </box>
+  </image>
+  <image id="115" name="image_35.jpg" width="900" height="1200">
+    <box label="plat nomor" source="manual" occluded="0" xtl="74.90" ytl="618.98" xbr="210.95" ybr="706.05" z_order="0">
+    </box>
+  </image>
+  <image id="116" name="image_36.jpg" width="585" height="1040">
+    <box label="plat nomor" source="manual" occluded="0" xtl="261.56" ytl="555.29" xbr="406.60" ybr="617.78" z_order="0">
+    </box>
+  </image>
+  <image id="117" name="image_37.jpg" width="1040" height="585">
+    <box label="plat nomor" source="manual" occluded="0" xtl="437.36" ytl="371.88" xbr="640.96" ybr="444.81" z_order="0">
+    </box>
+  </image>
+  <image id="118" name="image_38.jpg" width="1040" height="585">
+    <box label="plat nomor" source="manual" occluded="0" xtl="569.32" ytl="340.24" xbr="638.91" ybr="374.38" z_order="0">
+    </box>
+    <box label="plat nomor" source="manual" occluded="0" xtl="135.32" ytl="282.46" xbr="227.24" ybr="328.42" z_order="0">
+    </box>
+    <box label="plat nomor" source="manual" occluded="0" xtl="802.40" ytl="305.44" xbr="875.94" ybr="344.83" z_order="0">
+    </box>
+  </image>
+  <image id="119" name="image_39.jpg" width="585" height="1040">
+    <box label="plat nomor" source="manual" occluded="0" xtl="213.57" ytl="534.49" xbr="368.48" ybr="591.56" z_order="0">
+    </box>
+  </image>
+  <image id="120" name="image_40.jpg" width="1040" height="585">
+    <box label="plat nomor" source="manual" occluded="0" xtl="478.05" ytl="325.14" xbr="653.36" ybr="386.20" z_order="0">
+    </box>
+  </image>
+  <image id="121" name="image_41.jpg" width="1040" height="585">
+    <box label="plat nomor" source="manual" occluded="0" xtl="230.52" ytl="378.32" xbr="352.65" ybr="420.34" z_order="0">
+    </box>
+    <box label="plat nomor" source="manual" occluded="0" xtl="753.16" ytl="353.37" xbr="862.81" ybr="394.73" z_order="0">
+    </box>
+  </image>
+  <image id="122" name="image_42.jpg" width="720" height="480">
+    <box label="plat nomor" source="manual" occluded="0" xtl="300.30" ytl="387.32" xbr="490.79" ybr="455.05" z_order="0">
+    </box>
+  </image>
+  <image id="123" name="image_43.jpg" width="1040" height="585">
+    <box label="plat nomor" source="manual" occluded="0" xtl="255.47" ytl="364.53" xbr="353.30" ybr="414.43" z_order="0">
+    </box>
+    <box label="plat nomor" source="manual" occluded="0" xtl="695.38" ytl="386.86" xbr="805.03" ybr="433.47" z_order="0">
+    </box>
+  </image>
+  <image id="124" name="image_44.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="383.39" ytl="541.43" xbr="610.57" ybr="623.27" z_order="0">
+    </box>
+  </image>
+  <image id="125" name="image_45.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="667.01" ytl="368.57" xbr="824.35" ybr="476.52" z_order="0">
+    </box>
+  </image>
+  <image id="126" name="image_46.jpg" width="960" height="540">
+    <box label="plat nomor" source="manual" occluded="0" xtl="690.34" ytl="363.43" xbr="804.89" ybr="450.70" z_order="0">
+    </box>
+  </image>
+  <image id="127" name="image_47.jpg" width="960" height="540">
+    <box label="plat nomor" source="manual" occluded="0" xtl="339.43" ytl="382.22" xbr="450.34" ybr="432.52" z_order="0">
+    </box>
+  </image>
+  <image id="128" name="image_48.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="380.57" ytl="361.52" xbr="541.43" ybr="418.67" z_order="0">
+    </box>
+  </image>
+  <image id="129" name="image_49.jpg" width="921" height="691">
+    <box label="plat nomor" source="manual" occluded="0" xtl="323.43" ytl="443.49" xbr="604.44" ybr="544.38" z_order="0">
+    </box>
+  </image>
+  <image id="130" name="image_50.jpg" width="490" height="310">
+    <box label="plat nomor" source="manual" occluded="0" xtl="185.63" ytl="203.02" xbr="307.20" ybr="246.94" z_order="0">
+    </box>
+  </image>
+  <image id="131" name="image_51.jpg" width="640" height="640">
+    <box label="plat nomor" source="manual" occluded="0" xtl="217.20" ytl="471.89" xbr="375.87" ybr="525.19" z_order="0">
+    </box>
+  </image>
+  <image id="132" name="image_52.jpg" width="720" height="960">
+    <box label="plat nomor" source="manual" occluded="0" xtl="76.03" ytl="475.46" xbr="217.14" ybr="561.07" z_order="0">
+    </box>
+  </image>
+  <image id="133" name="image_53.jpg" width="850" height="575">
+    <box label="plat nomor" source="manual" occluded="0" xtl="249.27" ytl="358.86" xbr="342.80" ybr="426.47" z_order="0">
+    </box>
+  </image>
+  <image id="134" name="image_54.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="588.70" ytl="350.23" xbr="738.27" ybr="421.49" z_order="0">
+    </box>
+  </image>
+  <image id="135" name="image_55.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="621.15" ytl="330.47" xbr="733.33" ybr="395.38" z_order="0">
+    </box>
+  </image>
+  <image id="136" name="image_56.jpg" width="1280" height="800">
+    <box label="plat nomor" source="manual" occluded="0" xtl="357.25" ytl="494.71" xbr="502.71" ybr="558.54" z_order="0">
+    </box>
+  </image>
+  <image id="137" name="image_57.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="383.39" ytl="348.11" xbr="590.11" ybr="425.72" z_order="0">
+    </box>
+  </image>
+  <image id="138" name="image_58.jpg" width="640" height="960">
+    <box label="plat nomor" source="manual" occluded="0" xtl="149.79" ytl="557.30" xbr="266.43" ybr="599.63" z_order="0">
+    </box>
+  </image>
+  <image id="139" name="image_59.jpg" width="640" height="960">
+    <box label="plat nomor" source="manual" occluded="0" xtl="116.86" ytl="566.71" xbr="190.24" ybr="603.40" z_order="0">
+    </box>
+  </image>
+  <image id="140" name="image_60.jpg" width="750" height="422">
+    <box label="plat nomor" source="manual" occluded="0" xtl="314.90" ytl="242.32" xbr="441.80" ybr="301.98" z_order="0">
+    </box>
+  </image>
+  <image id="141" name="image_61.jpg" width="750" height="500">
+    <box label="plat nomor" source="manual" occluded="0" xtl="318.70" ytl="283.92" xbr="449.52" ybr="347.61" z_order="0">
+    </box>
+  </image>
+  <image id="142" name="image_62.jpg" width="850" height="566">
+    <box label="plat nomor" source="manual" occluded="0" xtl="356.82" ytl="254.27" xbr="536.52" ybr="341.35" z_order="0">
+    </box>
+  </image>
+  <image id="143" name="image_63.jpg" width="2048" height="1536">
+    <box label="plat nomor" source="manual" occluded="0" xtl="164.69" ytl="881.13" xbr="330.25" ybr="1048.21" z_order="0">
+    </box>
+  </image>
+  <image id="144" name="image_64.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="663.49" ytl="518.85" xbr="828.58" ybr="659.96" z_order="0">
+    </box>
+  </image>
+  <image id="145" name="image_65.jpg" width="734" height="960">
+    <box label="plat nomor" source="manual" occluded="0" xtl="558.06" ytl="675.83" xbr="683.17" ybr="782.13" z_order="0">
+    </box>
+  </image>
+  <image id="146" name="image_66.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="332.59" ytl="482.87" xbr="416.55" ybr="535.08" z_order="0">
+    </box>
+  </image>
+  <image id="147" name="image_67.jpg" width="960" height="540">
+    <box label="plat nomor" source="manual" occluded="0" xtl="128.52" ytl="327.07" xbr="212.76" ybr="421.01" z_order="0">
+    </box>
+  </image>
+  <image id="148" name="image_68.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="301.55" ytl="450.41" xbr="412.32" ybr="513.21" z_order="0">
+    </box>
+  </image>
+  <image id="149" name="image_69.jpg" width="720" height="960">
+    <box label="plat nomor" source="manual" occluded="0" xtl="215.26" ytl="689.00" xbr="529.46" ybr="812.24" z_order="0">
+    </box>
+  </image>
+  <image id="150" name="image_70.jpg" width="805" height="960">
+    <box label="plat nomor" source="manual" occluded="0" xtl="269.44" ytl="611.86" xbr="516.85" ybr="695.59" z_order="0">
+    </box>
+  </image>
+  <image id="151" name="image_71.jpg" width="960" height="960">
+    <box label="plat nomor" source="manual" occluded="0" xtl="129.18" ytl="653.26" xbr="304.16" ybr="732.28" z_order="0">
+    </box>
+  </image>
+  <image id="152" name="image_72.jpg" width="720" height="960">
+    <box label="plat nomor" source="manual" occluded="0" xtl="257.59" ytl="764.26" xbr="513.47" ybr="847.98" z_order="0">
+    </box>
+  </image>
+  <image id="153" name="image_73.jpg" width="850" height="638">
+    <box label="plat nomor" source="manual" occluded="0" xtl="553.23" ytl="414.75" xbr="717.03" ybr="517.91" z_order="0">
+    </box>
+  </image>
+  <image id="154" name="image_74.jpg" width="720" height="960">
+  </image>
+  <image id="155" name="image_75.jpg" width="850" height="638">
+    <box label="plat nomor" source="manual" occluded="0" xtl="28.70" ytl="396.00" xbr="189.37" ybr="509.15" z_order="0">
+    </box>
+  </image>
+  <image id="156" name="image_76.jpg" width="620" height="465">
+    <box label="plat nomor" source="manual" occluded="0" xtl="215.74" ytl="314.84" xbr="392.08" ybr="391.39" z_order="0">
+    </box>
+  </image>
+  <image id="157" name="image_77.jpg" width="860" height="645">
+    <box label="plat nomor" source="manual" occluded="0" xtl="72.34" ytl="407.64" xbr="207.60" ybr="504.34" z_order="0">
+    </box>
+  </image>
+  <image id="158" name="image_78.jpg" width="620" height="465">
+    <box label="plat nomor" source="manual" occluded="0" xtl="482.75" ytl="256.97" xbr="573.88" ybr="356.31" z_order="0">
+    </box>
+  </image>
+  <image id="159" name="image_79.jpg" width="850" height="638">
+    <box label="plat nomor" source="manual" occluded="0" xtl="97.47" ytl="410.38" xbr="233.14" ybr="494.78" z_order="0">
+    </box>
+  </image>
+  <image id="160" name="image_80.jpg" width="850" height="638">
+    <box label="plat nomor" source="manual" occluded="0" xtl="62.46" ytl="342.86" xbr="188.75" ybr="446.64" z_order="0">
+    </box>
+  </image>
+  <image id="161" name="image_81.jpg" width="734" height="488">
+    <box label="plat nomor" source="manual" occluded="0" xtl="519.60" ytl="294.76" xbr="627.68" ybr="358.83" z_order="0">
+    </box>
+  </image>
+  <image id="162" name="image_82.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="259.92" ytl="506.86" xbr="361.52" ybr="559.07" z_order="0">
+    </box>
+  </image>
+  <image id="163" name="image_83.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="758.03" ytl="328.36" xbr="839.87" ybr="401.03" z_order="0">
+    </box>
+  </image>
+  <image id="164" name="image_84.jpg" width="720" height="960">
+    <box label="plat nomor" source="manual" occluded="0" xtl="406.22" ytl="524.38" xbr="568.03" ybr="606.22" z_order="0">
+    </box>
+  </image>
+  <image id="165" name="image_85.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="685.36" ytl="489.22" xbr="830.70" ybr="573.18" z_order="0">
+    </box>
+  </image>
+  <image id="166" name="image_86.jpg" width="540" height="960">
+    <box label="plat nomor" source="manual" occluded="0" xtl="425.32" ytl="630.68" xbr="532.56" ybr="716.28" z_order="0">
+    </box>
+  </image>
+  <image id="167" name="image_87.jpg" width="960" height="723">
+    <box label="plat nomor" source="manual" occluded="0" xtl="379.47" ytl="381.81" xbr="586.34" ybr="468.95" z_order="0">
+    </box>
+  </image>
+  <image id="168" name="image_88.jpg" width="642" height="960">
+    <box label="plat nomor" source="manual" occluded="0" xtl="445.26" ytl="492.39" xbr="550.62" ybr="560.12" z_order="0">
+    </box>
+  </image>
+  <image id="169" name="image_89.jpg" width="959" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="322.24" ytl="474.16" xbr="620.20" ybr="586.82" z_order="0">
+    </box>
+  </image>
+  <image id="170" name="image_90.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="230.08" ytl="502.73" xbr="339.47" ybr="577.02" z_order="0">
+    </box>
+  </image>
+  <image id="171" name="image_91.jpg" width="640" height="403">
+    <box label="plat nomor" source="manual" occluded="0" xtl="352.18" ytl="240.03" xbr="505.05" ybr="319.50" z_order="0">
+    </box>
+  </image>
+  <image id="172" name="image_92.jpg" width="800" height="526">
+    <box label="plat nomor" source="manual" occluded="0" xtl="270.53" ytl="291.52" xbr="359.39" ybr="335.06" z_order="0">
+    </box>
+  </image>
+  <image id="173" name="image_93.jpg" width="850" height="638">
+    <box label="plat nomor" source="manual" occluded="0" xtl="691.11" ytl="330.45" xbr="789.49" ybr="397.72" z_order="0">
+    </box>
+  </image>
+  <image id="174" name="image_94.jpg" width="556" height="425">
+    <box label="plat nomor" source="manual" occluded="0" xtl="55.81" ytl="219.88" xbr="122.31" ybr="270.96" z_order="0">
+    </box>
+  </image>
+  <image id="175" name="image_95.jpg" width="1080" height="809">
+    <box label="plat nomor" source="manual" occluded="0" xtl="427.97" ytl="568.12" xbr="615.08" ybr="636.00" z_order="0">
+    </box>
+  </image>
+  <image id="176" name="image_96.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="679.88" ytl="439.88" xbr="797.43" ybr="516.61" z_order="0">
+    </box>
+  </image>
+  <image id="177" name="image_97.jpg" width="1000" height="1000">
+    <box label="plat nomor" source="manual" occluded="0" xtl="106.48" ytl="521.34" xbr="265.21" ybr="634.72" z_order="0">
+    </box>
+  </image>
+  <image id="178" name="image_98.jpg" width="960" height="720">
+    <box label="plat nomor" source="manual" occluded="0" xtl="143.55" ytl="478.24" xbr="270.90" ybr="574.57" z_order="0">
+    </box>
+  </image>
+  <image id="179" name="image_99.jpg" width="720" height="480">
+    <box label="plat nomor" source="manual" occluded="0" xtl="162.41" ytl="220.86" xbr="333.29" ybr="301.40" z_order="0">
+    </box>
+  </image>
+=======
+    <dumped>2026-07-22 19:52:53.337372+00:00</dumped>
+  </meta>
+  <image id="0" name="image_01.jpg" width="682" height="473">
+    <polygon label="plat nomor" source="file" occluded="0" points="251.20,342.60;365.22,340.19;368.20,379.10;252.60,380.20" z_order="0">
+    </polygon>
+  </image>
+  <image id="1" name="image_02.jpg" width="768" height="960">
+    <polygon label="plat nomor" source="file" occluded="0" points="182.46,699.03;284.25,711.71;284.25,760.35;184.10,740.73" z_order="0">
+    </polygon>
+  </image>
+  <image id="2" name="image_03.jpg" width="720" height="378">
+    <polygon label="plat nomor" source="file" occluded="0" points="423.58,230.74;537.16,217.56;543.44,261.49;431.74,280.94" z_order="0">
+    </polygon>
+  </image>
+  <image id="3" name="image_04.jpg" width="640" height="425">
+    <polygon label="plat nomor" source="file" occluded="0" points="195.28,300.55;325.31,284.08;330.99,333.48;197.55,359.04" z_order="0">
+    </polygon>
+  </image>
+  <image id="4" name="image_05.jpeg" width="1200" height="800">
+    <polygon label="plat nomor" source="file" occluded="0" points="1005.42,598.30;1130.47,596.16;1126.20,645.33;1004.35,645.33" z_order="0">
+    </polygon>
+  </image>
+  <image id="5" name="image_06.jpg" width="620" height="413">
+    <polygon label="plat nomor" source="file" occluded="0" points="146.29,283.19;267.69,294.78;263.27,340.58;141.88,328.99" z_order="0">
+    </polygon>
+  </image>
+  <image id="6" name="image_07.jpg" width="900" height="1200">
+    <polygon label="plat nomor" source="file" occluded="0" points="381.59,626.57;541.92,628.17;538.71,685.89;376.78,682.68" z_order="0">
+    </polygon>
+  </image>
+  <image id="7" name="image_08.jpg" width="1000" height="750">
+    <polygon label="plat nomor" source="file" occluded="0" points="396.12,329.49;555.45,325.48;556.45,378.59;395.12,386.60" z_order="0">
+    </polygon>
+  </image>
+  <image id="8" name="image_09.jpg" width="720" height="480">
+    <polygon label="plat nomor" source="file" occluded="0" points="248.62,233.29;475.00,232.65;476.28,311.53;252.47,313.45" z_order="0">
+    </polygon>
+  </image>
+  <image id="9" name="image_10.jpg" width="960" height="722">
+    <polygon label="plat nomor" source="file" occluded="0" points="624.06,351.85;742.71,344.13;740.78,392.36;620.21,411.65" z_order="0">
+    </polygon>
+  </image>
+  <image id="10" name="image_100.jpg" width="346" height="310">
+    <polygon label="plat nomor" source="file" occluded="0" points="101.90,247.15;190.54,242.18;191.36,267.86;102.73,275.32" z_order="0">
+    </polygon>
+  </image>
+  <image id="11" name="image_101.jpg" width="640" height="581">
+    <polygon label="plat nomor" source="file" occluded="0" points="238.01,367.41;297.78,367.41;300.11,397.68;236.46,393.80" z_order="0">
+    </polygon>
+    <polygon label="plat nomor" source="file" occluded="0" points="503.48,312.29;549.28,311.52;548.51,326.27;503.48,328.60" z_order="0">
+    </polygon>
+  </image>
+  <image id="12" name="image_102.jpg" width="653" height="366">
+    <polygon label="plat nomor" source="file" occluded="0" points="312.72,153.13;457.85,137.77;463.54,187.28;317.84,209.48" z_order="0">
+    </polygon>
+  </image>
+  <image id="13" name="image_103.jpg" width="525" height="600">
+    <polygon label="plat nomor" source="file" occluded="0" points="187.84,425.44;304.88,429.45;307.28,463.92;189.40,465.50" z_order="0">
+    </polygon>
+  </image>
+  <image id="14" name="image_104.jpg" width="970" height="544">
+    <polygon label="plat nomor" source="file" occluded="0" points="400.75,256.36;586.75,263.97;585.90,331.60;399.06,324.84" z_order="0">
+    </polygon>
+  </image>
+  <image id="15" name="image_105.jpg" width="605" height="600">
+    <polygon label="plat nomor" source="file" occluded="0" points="434.83,346.54;486.63,336.48;487.79,360.07;435.61,372.44" z_order="0">
+    </polygon>
+  </image>
+  <image id="16" name="image_106.jpg" width="596" height="600">
+    <polygon label="plat nomor" source="file" occluded="0" points="78.32,364.24;125.48,375.84;125.87,405.99;78.32,391.30" z_order="0">
+    </polygon>
+  </image>
+  <image id="17" name="image_107.jpg" width="609" height="600">
+    <polygon label="plat nomor" source="file" occluded="0" points="222.63,305.87;359.10,304.71;361.81,349.16;221.47,351.48" z_order="0">
+    </polygon>
+  </image>
+  <image id="18" name="image_108.jpg" width="750" height="500">
+    <polygon label="plat nomor" source="file" occluded="0" points="181.29,271.98;248.63,278.10;250.24,309.35;179.04,300.98" z_order="0">
+    </polygon>
+  </image>
+  <image id="19" name="image_109.jpg" width="700" height="465">
+    <box label="plat nomor" source="file" occluded="0" xtl="1.67" ytl="277.03" xbr="48.59" ybr="319.21" z_order="0">
+    </box>
+    <polygon label="plat nomor" source="file" occluded="0" points="331.34,291.44;410.14,291.14;411.34,314.51;331.00,315.40" z_order="0">
+    </polygon>
+  </image>
+  <image id="20" name="image_11.jpg" width="860" height="645">
+    <polygon label="plat nomor" source="file" occluded="0" points="107.90,441.92;234.71,471.53;238.57,532.04;113.05,501.14" z_order="0">
+    </polygon>
+  </image>
+  <image id="21" name="image_110.jpg" width="960" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="606.97,485.75;703.26,460.60;713.32,506.59;614.16,543.23" z_order="0">
+    </polygon>
+  </image>
+  <image id="22" name="image_111.jpg" width="432" height="960">
+    <polygon label="plat nomor" source="file" occluded="0" points="239.39,447.60;313.13,440.13;317.77,470.03;243.00,476.48" z_order="0">
+    </polygon>
+  </image>
+  <image id="23" name="image_112.jpg" width="860" height="645">
+    <polygon label="plat nomor" source="file" occluded="0" points="529.95,459.80;694.53,424.48;688.29,497.62;521.64,537.52" z_order="0">
+    </polygon>
+  </image>
+  <image id="24" name="image_113.jpg" width="850" height="638">
+    <polygon label="plat nomor" source="file" occluded="0" points="402.22,395.07;576.67,398.37;576.12,457.25;400.02,450.65" z_order="0">
+    </polygon>
+  </image>
+  <image id="25" name="image_114.jpg" width="850" height="638">
+    <polygon label="plat nomor" source="file" occluded="0" points="136.65,318.92;209.98,339.65;211.01,378.03;138.88,354.73" z_order="0">
+    </polygon>
+  </image>
+  <image id="26" name="image_115.jpg" width="640" height="480">
+    <polygon label="plat nomor" source="file" occluded="0" points="442.56,295.62;517.28,272.67;516.24,304.42;439.97,328.40" z_order="0">
+    </polygon>
+  </image>
+  <image id="27" name="image_116.jpg" width="650" height="420">
+    <polygon label="plat nomor" source="file" occluded="0" points="89.66,262.19;199.49,280.22;201.13,332.40;94.58,303.99" z_order="0">
+    </polygon>
+  </image>
+  <image id="28" name="image_117.jpg" width="640" height="479">
+    <polygon label="plat nomor" source="file" occluded="0" points="466.00,344.70;556.50,328.00;557.52,374.91;467.50,395.30" z_order="0">
+    </polygon>
+  </image>
+  <image id="29" name="image_118.jpg" width="640" height="480">
+    <polygon label="plat nomor" source="file" occluded="0" points="109.15,298.24;203.51,317.22;203.20,363.20;109.42,343.41" z_order="0">
+    </polygon>
+  </image>
+  <image id="30" name="image_119.jpg" width="921" height="691">
+    <polygon label="plat nomor" source="file" occluded="0" points="262.98,403.39;374.57,418.78;374.57,465.34;264.13,446.10" z_order="0">
+    </polygon>
+  </image>
+  <image id="31" name="image_12.jpg" width="860" height="645">
+    <polygon label="plat nomor" source="file" occluded="0" points="655.42,466.80;759.11,440.11;758.18,494.43;654.49,525.17" z_order="0">
+    </polygon>
+  </image>
+  <image id="32" name="image_120.jpg" width="960" height="541">
+    <polygon label="plat nomor" source="file" occluded="0" points="625.00,358.17;714.52,319.28;717.84,361.18;627.41,404.28" z_order="0">
+    </polygon>
+  </image>
+  <image id="33" name="image_121.jpg" width="773" height="960">
+    <polygon label="plat nomor" source="file" occluded="0" points="30.91,473.73;189.45,475.73;192.24,536.83;34.11,529.64" z_order="0">
+    </polygon>
+  </image>
+  <image id="34" name="image_122.jpg" width="960" height="814">
+    <polygon label="plat nomor" source="file" occluded="0" points="585.29,350.09;753.99,331.28;766.13,405.92;594.40,435.04" z_order="0">
+    </polygon>
+  </image>
+  <image id="35" name="image_123.jpg" width="960" height="861">
+    <polygon label="plat nomor" source="file" occluded="0" points="592.56,585.18;798.37,550.18;800.60,629.50;590.34,673.94" z_order="0">
+    </polygon>
+  </image>
+  <image id="36" name="image_124.jpg" width="960" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="732.92,349.87;799.70,319.33;804.10,360.74;736.28,395.43" z_order="0">
+    </polygon>
+  </image>
+  <image id="37" name="image_125.jpg" width="960" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="228.63,346.13;347.39,368.40;344.14,425.93;224.45,397.63" z_order="0">
+    </polygon>
+  </image>
+  <image id="38" name="image_126.jpg" width="800" height="503">
+    <polygon label="plat nomor" source="file" occluded="0" points="91.04,350.90;186.54,366.37;183.18,414.79;89.03,396.63" z_order="0">
+    </polygon>
+  </image>
+  <image id="39" name="image_127.jpg" width="960" height="454">
+    <polygon label="plat nomor" source="file" occluded="0" points="211.72,327.12;292.42,359.40;294.04,399.35;213.74,365.46" z_order="0">
+    </polygon>
+  </image>
+  <image id="40" name="image_128.jpg" width="720" height="960">
+    <polygon label="plat nomor" source="file" occluded="0" points="337.16,556.14;497.91,550.84;496.50,601.01;336.46,605.25" z_order="0">
+    </polygon>
+  </image>
+  <image id="41" name="image_129.jpg" width="500" height="500">
+    <polygon label="plat nomor" source="file" occluded="0" points="122.10,336.88;215.40,362.09;213.92,396.50;122.47,367.61" z_order="0">
+    </polygon>
+  </image>
+  <image id="42" name="image_13.jpg" width="860" height="645">
+    <polygon label="plat nomor" source="file" occluded="0" points="645.32,469.03;746.72,452.41;746.72,500.61;645.32,518.90" z_order="0">
+    </polygon>
+  </image>
+  <image id="43" name="image_130.jpg" width="490" height="310">
+    <polygon label="plat nomor" source="file" occluded="0" points="213.30,216.80;280.65,221.95;279.82,246.25;211.86,239.46" z_order="0">
+    </polygon>
+  </image>
+  <image id="44" name="image_131.jpg" width="959" height="720">
+    <box label="plat nomor" source="file" occluded="0" xtl="402.50" ytl="493.54" xbr="558.80" ybr="549.80" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="image_132.jpg" width="921" height="691">
+    <box label="plat nomor" source="file" occluded="0" xtl="371.71" ytl="553.19" xbr="563.40" ybr="604.10" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="image_133.jpg" width="475" height="286">
+    <polygon label="plat nomor" source="file" occluded="0" points="45.43,180.62;106.64,183.56;106.37,212.69;44.09,204.67" z_order="0">
+    </polygon>
+  </image>
+  <image id="47" name="image_134.jpg" width="720" height="960">
+    <polygon label="plat nomor" source="file" occluded="0" points="538.08,711.51;654.41,670.64;653.52,725.26;536.89,777.16" z_order="0">
+    </polygon>
+  </image>
+  <image id="48" name="image_135.jpg" width="786" height="543">
+    <polygon label="plat nomor" source="file" occluded="0" points="112.27,398.25;196.59,423.79;196.94,466.82;115.07,437.44" z_order="0">
+    </polygon>
+  </image>
+  <image id="49" name="image_136.jpg" width="959" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="66.68,485.63;194.71,534.34;196.57,603.46;69.92,544.08" z_order="0">
+    </polygon>
+  </image>
+  <image id="50" name="image_137.jpg" width="960" height="594">
+    <polygon label="plat nomor" source="file" occluded="0" points="573.87,269.50;670.30,273.14;676.36,316.31;576.29,314.29" z_order="0">
+    </polygon>
+  </image>
+  <image id="51" name="image_138.jpg" width="960" height="534">
+    <polygon label="plat nomor" source="file" occluded="0" points="682.41,333.10;794.98,316.15;800.23,370.62;685.64,397.66" z_order="0">
+    </polygon>
+  </image>
+  <image id="52" name="image_139.jpg" width="800" height="600">
+    <polygon label="plat nomor" source="file" occluded="0" points="179.10,351.37;249.85,374.95;249.08,410.13;177.94,380.36" z_order="0">
+    </polygon>
+  </image>
+  <image id="53" name="image_14.jpg" width="640" height="480">
+    <polygon label="plat nomor" source="file" occluded="0" points="536.07,337.67;581.84,314.79;582.77,344.17;534.84,369.53" z_order="0">
+    </polygon>
+  </image>
+  <image id="54" name="image_140.jpg" width="720" height="960">
+    <polygon label="plat nomor" source="file" occluded="0" points="579.12,608.97;669.80,565.97;665.12,611.42;573.10,655.32" z_order="0">
+    </polygon>
+  </image>
+  <image id="55" name="image_141.jpg" width="540" height="960">
+    <polygon label="plat nomor" source="file" occluded="0" points="190.19,407.44;338.28,406.83;340.72,456.30;189.58,455.08" z_order="0">
+    </polygon>
+  </image>
+  <image id="56" name="image_142.jpg" width="640" height="360">
+    <polygon label="plat nomor" source="file" occluded="0" points="35.33,153.04;100.75,156.79;100.75,186.79;31.58,183.46" z_order="0">
+    </polygon>
+    <polygon label="plat nomor" source="file" occluded="0" points="433.25,171.37;542.00,178.87;542.42,213.04;429.50,207.21" z_order="0">
+    </polygon>
+  </image>
+  <image id="57" name="image_143.jpg" width="960" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="253.65,323.67;327.90,316.51;324.03,357.12;244.56,360.40" z_order="0">
+    </polygon>
+  </image>
+  <image id="58" name="image_144.jpg" width="960" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="382.88,397.76;617.34,406.08;613.18,490.88;377.89,478.41" z_order="0">
+    </polygon>
+  </image>
+  <image id="59" name="image_145.jpg" width="960" height="722">
+    <polygon label="plat nomor" source="file" occluded="0" points="301.13,359.38;354.65,368.49;346.70,408.63;292.60,391.18" z_order="0">
+    </polygon>
+  </image>
+  <image id="60" name="image_146.jpg" width="960" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="281.83,395.53;370.03,405.96;368.03,449.66;280.22,433.62" z_order="0">
+    </polygon>
+  </image>
+  <image id="61" name="image_147.jpg" width="959" height="720">
+    <box label="plat nomor" source="file" occluded="0" xtl="396.86" ytl="443.22" xbr="561.60" ybr="499.60" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="image_148.jpg" width="960" height="540">
+    <polygon label="plat nomor" source="file" occluded="0" points="670.70,314.38;738.39,287.31;742.13,326.06;673.50,361.54" z_order="0">
+    </polygon>
+  </image>
+  <image id="63" name="image_149.jpg" width="960" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="400.80,342.83;565.04,336.39;566.12,400.26;401.87,405.09" z_order="0">
+    </polygon>
+  </image>
+  <image id="64" name="image_15.jpg" width="640" height="479">
+    <polygon label="plat nomor" source="file" occluded="0" points="484.44,295.76;536.58,276.12;533.72,307.54;481.94,332.54" z_order="0">
+    </polygon>
+  </image>
+  <image id="65" name="image_150.jpg" width="720" height="960">
+    <box label="plat nomor" source="file" occluded="0" xtl="259.26" ytl="524.61" xbr="478.90" ybr="613.80" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="image_151.jpg" width="960" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="334.78,432.46;616.03,447.49;609.06,537.13;332.63,521.03" z_order="0">
+    </polygon>
+  </image>
+  <image id="67" name="image_152.jpg" width="960" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="656.11,427.41;765.72,413.33;761.23,458.26;654.91,485.21" z_order="0">
+    </polygon>
+  </image>
+  <image id="68" name="image_153.jpg" width="720" height="960">
+    <polygon label="plat nomor" source="file" occluded="0" points="542.50,664.93;671.08,630.59;666.29,684.10;538.50,728.03" z_order="0">
+    </polygon>
+  </image>
+  <image id="69" name="image_154.jpg" width="960" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="358.71,404.95;618.67,391.17;614.78,471.14;360.50,484.61" z_order="0">
+    </polygon>
+  </image>
+  <image id="70" name="image_155.jpg" width="960" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="23.54,441.87;113.88,487.43;116.21,547.48;23.54,485.35" z_order="0">
+    </polygon>
+  </image>
+  <image id="71" name="image_156.jpg" width="960" height="720">
+    <box label="plat nomor" source="file" occluded="0" xtl="381.00" ytl="441.50" xbr="549.30" ybr="507.21" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="image_157.jpg" width="600" height="800">
+    <polygon label="plat nomor" source="file" occluded="0" points="98.33,540.52;182.98,547.18;181.47,580.26;96.40,573.60" z_order="0">
+    </polygon>
+  </image>
+  <image id="73" name="image_158.jpg" width="960" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="726.68,369.15;807.66,339.17;817.06,377.87;735.85,411.21" z_order="0">
+    </polygon>
+  </image>
+  <image id="74" name="image_159.jpg" width="600" height="800">
+    <polygon label="plat nomor" source="file" occluded="0" points="230.42,502.07;348.92,494.02;349.78,534.28;231.86,541.47" z_order="0">
+    </polygon>
+  </image>
+  <image id="75" name="image_16.jpg" width="640" height="480">
+    <polygon label="plat nomor" source="file" occluded="0" points="473.21,347.13;565.16,323.34;565.16,364.50;470.54,395.24" z_order="0">
+    </polygon>
+  </image>
+  <image id="76" name="image_160.jpg" width="720" height="960">
+    <polygon label="plat nomor" source="file" occluded="0" points="305.03,658.98;451.51,655.24;450.97,708.70;303.42,709.77" z_order="0">
+    </polygon>
+  </image>
+  <image id="77" name="image_161.jpg" width="720" height="960">
+    <polygon label="plat nomor" source="file" occluded="0" points="288.58,778.06;442.75,777.55;444.04,826.01;287.81,830.65" z_order="0">
+    </polygon>
+  </image>
+  <image id="78" name="image_162.jpg" width="719" height="866">
+    <polygon label="plat nomor" source="file" occluded="0" points="177.14,581.01;247.37,583.80;248.07,607.99;176.44,604.50" z_order="0">
+    </polygon>
+  </image>
+  <image id="79" name="image_163.jpg" width="850" height="638">
+    <polygon label="plat nomor" source="file" occluded="0" points="621.96,405.43;704.76,382.26;706.36,424.24;624.94,454.97" z_order="0">
+    </polygon>
+  </image>
+  <image id="80" name="image_164.jpg" width="620" height="465">
+    <polygon label="plat nomor" source="file" occluded="0" points="222.92,361.75;369.13,355.46;370.92,400.10;223.82,411.19" z_order="0">
+    </polygon>
+  </image>
+  <image id="81" name="image_165.jpg" width="500" height="500">
+    <polygon label="plat nomor" source="file" occluded="0" points="277.59,305.41;364.70,299.87;364.94,327.54;276.38,335.97" z_order="0">
+    </polygon>
+  </image>
+  <image id="82" name="image_166.jpg" width="242" height="208">
+    <polygon label="plat nomor" source="file" occluded="0" points="35.37,132.25;83.13,140.32;83.13,159.54;34.59,152.26" z_order="0">
+    </polygon>
+  </image>
+  <image id="83" name="image_167.jpg" width="960" height="720">
+    <box label="plat nomor" source="file" occluded="0" xtl="406.02" ytl="536.03" xbr="557.10" ybr="595.60" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="image_168.jpg" width="960" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="233.01,476.05;428.92,496.45;419.26,570.52;226.57,546.36" z_order="0">
+    </polygon>
+  </image>
+  <image id="85" name="image_169.jpg" width="960" height="676">
+    <polygon label="plat nomor" source="file" occluded="0" points="273.36,480.37;349.97,495.62;347.61,535.38;273.18,517.77" z_order="0">
+    </polygon>
+  </image>
+  <image id="86" name="image_17.jpg" width="900" height="543">
+    <polygon label="plat nomor" source="file" occluded="0" points="792.01,349.11;859.17,319.07;859.17,363.52;792.49,400.89" z_order="0">
+    </polygon>
+  </image>
+  <image id="87" name="image_170.jpg" width="960" height="736">
+    <polygon label="plat nomor" source="file" occluded="0" points="405.41,591.06;551.75,590.14;551.44,645.55;402.34,644.63" z_order="0">
+    </polygon>
+  </image>
+  <image id="88" name="image_171.jpg" width="720" height="959">
+    <box label="plat nomor" source="file" occluded="0" xtl="285.41" ytl="645.02" xbr="458.19" ybr="708.40" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="image_172.jpg" width="960" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="88.53,424.06;189.16,474.07;181.37,529.48;79.24,470.78" z_order="0">
+    </polygon>
+  </image>
+  <image id="90" name="image_173.jpg" width="543" height="960">
+    <box label="plat nomor" source="file" occluded="0" xtl="200.92" ytl="549.28" xbr="342.40" ybr="602.60" z_order="0">
+    </box>
+  </image>
+  <image id="91" name="image_174.jpg" width="960" height="543">
+    <polygon label="plat nomor" source="file" occluded="0" points="205.69,319.79;284.10,339.59;273.94,383.87;196.83,358.34" z_order="0">
+    </polygon>
+  </image>
+  <image id="92" name="image_175.jpg" width="960" height="543">
+    <polygon label="plat nomor" source="file" occluded="0" points="608.42,332.81;670.42,317.18;680.06,353.13;614.67,375.27" z_order="0">
+    </polygon>
+  </image>
+  <image id="93" name="image_176.jpg" width="960" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="656.08,443.22;753.41,400.10;759.10,440.23;663.86,497.13" z_order="0">
+    </polygon>
+  </image>
+  <image id="94" name="image_177.jpg" width="720" height="960">
+    <polygon label="plat nomor" source="file" occluded="0" points="150.55,567.46;238.98,573.90;236.92,618.76;148.23,608.96" z_order="0">
+    </polygon>
+  </image>
+  <image id="95" name="image_178.jpg" width="860" height="645">
+    <polygon label="plat nomor" source="file" occluded="0" points="150.37,412.34;221.21,440.05;222.60,481.28;149.33,446.11" z_order="0">
+    </polygon>
+  </image>
+  <image id="96" name="image_179.jpg" width="860" height="645">
+    <polygon label="plat nomor" source="file" occluded="0" points="667.87,399.57;757.24,385.54;757.07,430.58;666.65,447.38" z_order="0">
+    </polygon>
+  </image>
+  <image id="97" name="image_18.jpg" width="4160" height="3120">
+    <polygon label="plat nomor" source="file" occluded="0" points="3098.25,1946.67;3409.10,1836.07;3400.72,1990.24;3079.81,2119.27" z_order="0">
+    </polygon>
+  </image>
+  <image id="98" name="image_180.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="1244.55,439.38;1401.25,428.12;1402.60,482.61;1240.50,501.97" z_order="0">
+    </polygon>
+  </image>
+  <image id="99" name="image_181.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="1384.51,1005.43;1700.76,967.91;1689.82,1059.61;1525.89,1080.00;1377.43,1080.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="100" name="image_182.jpg" width="970" height="544">
+    <polygon label="plat nomor" source="file" occluded="0" points="191.29,453.03;340.01,471.46;332.64,530.42;184.70,511.70" z_order="0">
+    </polygon>
+  </image>
+  <image id="101" name="image_183.jpg" width="2153" height="1612">
+    <polygon label="plat nomor" source="file" occluded="0" points="1208.75,750.09;1473.22,734.06;1476.72,829.23;1206.75,848.76" z_order="0">
+    </polygon>
+  </image>
+  <image id="102" name="image_184.jpg" width="1665" height="1248">
+    <polygon label="plat nomor" source="file" occluded="0" points="1158.63,812.61;1337.40,798.65;1345.15,878.54;1168.33,896.76" z_order="0">
+    </polygon>
+  </image>
+  <image id="103" name="image_185.jpg" width="4000" height="3000">
+    <polygon label="plat nomor" source="file" occluded="0" points="1676.09,1283.18;2451.65,1247.76;2463.77,1514.36;1681.68,1552.58" z_order="0">
+    </polygon>
+  </image>
+  <image id="104" name="image_186.jpg" width="4000" height="3000">
+    <polygon label="plat nomor" source="file" occluded="0" points="1474.74,1347.50;2147.77,1273.86;2178.53,1498.51;1489.66,1595.46" z_order="0">
+    </polygon>
+  </image>
+  <image id="105" name="image_187.jpg" width="4000" height="3000">
+    <polygon label="plat nomor" source="file" occluded="0" points="1996.76,1395.98;2456.32,1330.72;2471.23,1486.40;2007.94,1568.43" z_order="0">
+    </polygon>
+  </image>
+  <image id="106" name="image_188.jpg" width="4000" height="3000">
+    <polygon label="plat nomor" source="file" occluded="0" points="1702.19,1412.75;2359.37,1379.20;2365.90,1565.63;1707.79,1609.44" z_order="0">
+    </polygon>
+  </image>
+  <image id="107" name="image_189.jpg" width="4000" height="3000">
+    <polygon label="plat nomor" source="file" occluded="0" points="1559.57,1402.50;2145.90,1377.33;2153.36,1547.92;1577.28,1608.51" z_order="0">
+    </polygon>
+  </image>
+  <image id="108" name="image_19.jpg" width="600" height="400">
+    <polygon label="plat nomor" source="file" occluded="0" points="249.93,260.73;322.48,251.75;323.31,273.88;249.43,286.69" z_order="0">
+    </polygon>
+  </image>
+  <image id="109" name="image_190.jpg" width="4000" height="3000">
+    <polygon label="plat nomor" source="file" occluded="0" points="1720.65,1213.00;2519.32,1209.26;2509.33,1448.86;1725.65,1471.32" z_order="0">
+    </polygon>
+  </image>
+  <image id="110" name="image_191.jpg" width="4000" height="3000">
+    <polygon label="plat nomor" source="file" occluded="0" points="1462.34,1131.89;1975.23,1222.99;1956.51,1431.39;1449.86,1314.08" z_order="0">
+    </polygon>
+  </image>
+  <image id="111" name="image_192.jpg" width="4000" height="3000">
+    <polygon label="plat nomor" source="file" occluded="0" points="1613.33,1355.27;2367.07,1410.17;2355.84,1659.76;1594.62,1607.34" z_order="0">
+    </polygon>
+  </image>
+  <image id="112" name="image_193.jpg" width="4000" height="3000">
+    <polygon label="plat nomor" source="file" occluded="0" points="1369.99,1496.28;1972.73,1537.46;1977.72,1689.71;1387.46,1649.77" z_order="0">
+    </polygon>
+  </image>
+  <image id="113" name="image_194.jpg" width="4000" height="3000">
+    <polygon label="plat nomor" source="file" occluded="0" points="1307.60,1191.79;1881.63,1294.12;1886.63,1462.59;1323.82,1352.77" z_order="0">
+    </polygon>
+  </image>
+  <image id="114" name="image_195.jpg" width="4000" height="3000">
+    <polygon label="plat nomor" source="file" occluded="0" points="1619.57,1568.66;2256.01,1529.97;2246.02,1697.19;1613.33,1748.36" z_order="0">
+    </polygon>
+  </image>
+  <image id="115" name="image_196.jpg" width="4000" height="3000">
+    <polygon label="plat nomor" source="file" occluded="0" points="1693.20,2082.80;2481.88,2067.82;2480.63,2291.20;1708.18,2313.66" z_order="0">
+    </polygon>
+  </image>
+  <image id="116" name="image_197.jpg" width="4000" height="3000">
+    <polygon label="plat nomor" source="file" occluded="0" points="1231.47,1242.95;1759.34,1327.81;1775.56,1482.55;1263.92,1382.72" z_order="0">
+    </polygon>
+  </image>
+  <image id="117" name="image_198.jpg" width="4000" height="3000">
+    <polygon label="plat nomor" source="file" occluded="0" points="1644.53,2044.11;2414.49,2046.61;2418.24,2267.49;1652.02,2253.76" z_order="0">
+    </polygon>
+  </image>
+  <image id="118" name="image_199.jpg" width="4000" height="3000">
+    <polygon label="plat nomor" source="file" occluded="0" points="1680.72,1898.11;2322.15,1896.86;2323.40,2051.60;1695.70,2049.10" z_order="0">
+    </polygon>
+  </image>
+  <image id="119" name="image_20.jpg" width="720" height="480">
+    <box label="plat nomor" source="file" occluded="0" xtl="270.42" ytl="347.24" xbr="442.80" ybr="406.20" z_order="0">
+    </box>
+  </image>
+  <image id="120" name="image_200.jpg" width="4000" height="3000">
+    <polygon label="plat nomor" source="file" occluded="0" points="1876.99,1989.58;2476.29,1923.76;2472.83,2096.96;1876.99,2155.86" z_order="0">
+    </polygon>
+  </image>
+  <image id="121" name="image_201.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="1242.47,440.65;1399.40,428.79;1403.59,481.10;1243.17,503.42" z_order="0">
+    </polygon>
+  </image>
+  <image id="122" name="image_202.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="1381.27,1004.21;1697.92,970.03;1693.74,1057.92;1583.08,1080.00;1375.44,1080.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="123" name="image_203.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="286.97,748.24;555.01,740.68;559.37,826.15;294.24,829.64" z_order="0">
+    </polygon>
+  </image>
+  <image id="124" name="image_204.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="145.22,884.24;437.68,888.31;450.76,979.88;157.72,974.94" z_order="0">
+    </polygon>
+  </image>
+  <image id="125" name="image_205.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="87.22,956.58;401.72,975.08;415.18,1065.56;105.39,1052.11" z_order="0">
+    </polygon>
+  </image>
+  <image id="126" name="image_206.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="921.50,261.83;1037.88,244.67;1038.55,290.08;922.84,305.56" z_order="0">
+    </polygon>
+  </image>
+  <image id="127" name="image_207.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="690.75,477.44;897.62,460.95;897.28,519.82;696.14,540.33" z_order="0">
+    </polygon>
+  </image>
+  <image id="128" name="image_208.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="582.78,553.12;810.16,532.60;817.90,598.53;587.49,625.10" z_order="0">
+    </polygon>
+  </image>
+  <image id="129" name="image_209.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="420.66,645.62;669.23,636.53;673.94,708.18;425.70,723.65" z_order="0">
+    </polygon>
+  </image>
+  <image id="130" name="image_21.jpg" width="720" height="960">
+    <box label="plat nomor" source="file" occluded="0" xtl="257.83" ytl="742.82" xbr="458.80" ybr="811.90" z_order="0">
+    </box>
+  </image>
+  <image id="131" name="image_210.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="318.74,713.22;584.80,705.49;593.88,789.58;328.16,796.64" z_order="0">
+    </polygon>
+  </image>
+  <image id="132" name="image_211.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="189.79,820.96;480.50,828.35;489.46,915.92;199.52,911.64" z_order="0">
+    </polygon>
+  </image>
+  <image id="133" name="image_212.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="264.12,753.24;545.50,751.68;550.56,838.47;282.41,839.25" z_order="0">
+    </polygon>
+  </image>
+  <image id="134" name="image_213.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="159.04,861.43;455.99,866.88;464.55,963.01;168.77,951.72" z_order="0">
+    </polygon>
+  </image>
+  <image id="135" name="image_214.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="115.84,911.25;425.24,915.92;439.25,1017.49;129.46,1010.49" z_order="0">
+    </polygon>
+  </image>
+  <image id="136" name="image_215.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="471.25,121.80;595.03,99.27;603.77,138.96;478.65,162.50" z_order="0">
+    </polygon>
+  </image>
+  <image id="137" name="image_216.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="532.80,134.25;666.34,111.04;674.41,157.79;540.54,180.66" z_order="0">
+    </polygon>
+  </image>
+  <image id="138" name="image_217.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="573.50,171.25;734.28,150.06;740.33,202.53;579.55,225.40" z_order="0">
+    </polygon>
+  </image>
+  <image id="139" name="image_218.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="547.94,221.36;738.99,203.54;746.05,262.74;558.36,277.54" z_order="0">
+    </polygon>
+  </image>
+  <image id="140" name="image_219.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="433.91,306.80;663.98,292.00;666.00,358.94;437.95,376.76" z_order="0">
+    </polygon>
+  </image>
+  <image id="141" name="image_22.jpg" width="961" height="640">
+    <box label="plat nomor" source="file" occluded="0" xtl="415.98" ytl="433.16" xbr="549.40" ybr="482.30" z_order="0">
+    </box>
+  </image>
+  <image id="142" name="image_220.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="338.54,374.60;602.88,355.77;609.16,449.93;348.30,463.87" z_order="0">
+    </polygon>
+  </image>
+  <image id="143" name="image_221.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="201.83,528.04;528.25,514.09;531.04,621.50;206.02,638.24" z_order="0">
+    </polygon>
+  </image>
+  <image id="144" name="image_222.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="273.67,447.83;558.94,438.07;563.82,531.53;277.16,549.66" z_order="0">
+    </polygon>
+  </image>
+  <image id="145" name="image_223.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="166.26,585.93;505.93,562.22;513.60,675.91;173.24,694.04" z_order="0">
+    </polygon>
+  </image>
+  <image id="146" name="image_224.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="165.56,583.14;503.14,563.61;512.21,679.40;171.84,696.83" z_order="0">
+    </polygon>
+  </image>
+  <image id="147" name="image_225.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="277.16,505.72;587.54,479.22;597.30,579.66;280.65,604.07" z_order="0">
+    </polygon>
+  </image>
+  <image id="148" name="image_226.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="360.16,423.42;633.57,392.03;648.22,479.22;366.44,514.79" z_order="0">
+    </polygon>
+  </image>
+  <image id="149" name="image_227.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="401.31,336.24;638.45,302.06;648.92,378.78;412.47,415.75" z_order="0">
+    </polygon>
+  </image>
+  <image id="150" name="image_228.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="407.59,253.93;604.97,229.52;609.16,292.30;411.08,311.13" z_order="0">
+    </polygon>
+  </image>
+  <image id="151" name="image_229.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="161.38,379.48;386.66,354.37;390.85,438.77;162.08,454.11" z_order="0">
+    </polygon>
+  </image>
+  <image id="152" name="image_23.jpg" width="960" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="739.83,507.92;850.49,491.08;853.69,537.95;743.84,560.40" z_order="0">
+    </polygon>
+  </image>
+  <image id="153" name="image_230.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="87.79,437.86;327.73,415.54;334.70,504.82;89.20,520.90" z_order="0">
+    </polygon>
+  </image>
+  <image id="154" name="image_231.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="6.89,505.51;274.72,481.10;269.14,585.03;7.59,596.88" z_order="0">
+    </polygon>
+  </image>
+  <image id="155" name="image_232.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="0.00,582.88;193.81,568.29;202.18,684.77;0.00,690.60" z_order="0">
+    </polygon>
+    <polygon label="plat nomor" source="file" occluded="0" points="1426.81,251.37;1560.89,242.59;1560.54,284.71;1427.17,295.94" z_order="0">
+    </polygon>
+  </image>
+  <image id="156" name="image_233.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="1361.81,271.30;1513.09,266.04;1513.44,316.23;1361.81,321.14" z_order="0">
+    </polygon>
+    <polygon label="plat nomor" source="file" occluded="0" points="0.00,580.84;191.72,575.26;195.90,688.95;0.00,696.23" z_order="0">
+    </polygon>
+  </image>
+  <image id="157" name="image_234.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="1265.46,311.00;1436.28,304.94;1437.19,355.29;1264.58,365.91" z_order="0">
+    </polygon>
+    <polygon label="plat nomor" source="file" occluded="0" points="0.00,582.12;200.79,573.87;202.88,692.44;0.00,692.44" z_order="0">
+    </polygon>
+  </image>
+  <image id="158" name="image_235.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="0.00,583.41;191.02,571.77;194.51,679.88;-0.00,693.30" z_order="0">
+    </polygon>
+    <polygon label="plat nomor" source="file" occluded="0" points="1285.86,298.53;1451.50,294.68;1453.54,347.02;1286.31,352.23" z_order="0">
+    </polygon>
+  </image>
+  <image id="159" name="image_236.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="1249.60,336.82;1429.52,333.20;1429.97,388.04;1247.56,393.70" z_order="0">
+    </polygon>
+  </image>
+  <image id="160" name="image_237.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="1293.70,413.36;1496.37,410.21;1497.68,474.71;1291.34,481.79" z_order="0">
+    </polygon>
+  </image>
+  <image id="161" name="image_238.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="1258.57,371.93;1451.01,369.57;1452.85,425.68;1257.79,431.97" z_order="0">
+    </polygon>
+  </image>
+  <image id="162" name="image_239.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="1332.51,463.17;1545.40,459.24;1545.13,523.47;1332.51,531.60" z_order="0">
+    </polygon>
+  </image>
+  <image id="163" name="image_24.jpg" width="960" height="720">
+    <box label="plat nomor" source="file" occluded="0" xtl="380.60" ytl="384.58" xbr="590.60" ybr="448.70" z_order="0">
+    </box>
+  </image>
+  <image id="164" name="image_240.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="1454.70,568.30;1694.60,559.80;1690.30,634.00;1451.00,651.70" z_order="0">
+    </polygon>
+    <polygon label="plat nomor" source="file" occluded="0" points="0.00,584.92;197.73,572.03;204.96,681.95;0.00,692.26" z_order="0">
+    </polygon>
+  </image>
+  <image id="165" name="image_241.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="1384.30,515.80;1609.20,509.10;1604.90,573.60;1382.90,585.40" z_order="0">
+    </polygon>
+    <polygon label="plat nomor" source="file" occluded="0" points="-0.00,579.17;206.41,569.14;212.19,687.73;0.00,689.15" z_order="0">
+    </polygon>
+  </image>
+  <image id="166" name="image_242.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="1568.23,666.96;1826.84,649.48;1823.22,735.08;1563.41,762.20" z_order="0">
+    </polygon>
+    <polygon label="plat nomor" source="file" occluded="0" points="0.00,580.05;202.25,574.73;206.47,682.03;0.00,694.44" z_order="0">
+    </polygon>
+  </image>
+  <image id="167" name="image_243.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="1509.18,608.25;1762.37,596.40;1750.51,682.88;1502.21,698.92" z_order="0">
+    </polygon>
+    <polygon label="plat nomor" source="file" occluded="0" points="-0.00,578.90;192.35,566.40;195.14,682.88;0.00,686.80" z_order="0">
+    </polygon>
+  </image>
+  <image id="168" name="image_244.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="1630.54,723.34;1891.40,699.62;1879.54,788.90;1621.48,813.31" z_order="0">
+    </polygon>
+    <polygon label="plat nomor" source="file" occluded="0" points="0.00,581.38;192.25,574.61;195.37,680.89;2.08,679.33;0.00,581.57" z_order="0">
+    </polygon>
+  </image>
+  <image id="169" name="image_245.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="694.41,440.00;856.44,411.16;861.68,460.45;695.99,492.43" z_order="0">
+    </polygon>
+  </image>
+  <image id="170" name="image_246.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="532.12,568.73;735.84,542.77;744.23,601.24;535.53,633.75" z_order="0">
+    </polygon>
+  </image>
+  <image id="171" name="image_247.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="0.00,983.55;247.64,985.98;272.01,1066.75;0.00,1067.96" z_order="0">
+    </polygon>
+  </image>
+  <image id="172" name="image_248.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="92.51,854.76;344.70,844.21;363.38,923.03;107.90,930.70" z_order="0">
+    </polygon>
+  </image>
+  <image id="173" name="image_249.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="35.66,905.97;296.78,902.32;316.68,982.28;54.75,990.00" z_order="0">
+    </polygon>
+    <polygon label="plat nomor" source="file" occluded="0" points="1630.77,885.12;1915.72,851.16;1906.28,941.74;1622.59,977.59" z_order="0">
+    </polygon>
+  </image>
+  <image id="174" name="image_25.jpg" width="960" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="777.73,336.19;837.67,313.95;841.28,354.68;782.20,385.73" z_order="0">
+    </polygon>
+  </image>
+  <image id="175" name="image_250.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="1625.74,885.12;1915.72,853.67;1904.40,939.22;1625.11,979.48" z_order="0">
+    </polygon>
+    <polygon label="plat nomor" source="file" occluded="0" points="126.88,782.04;364.87,771.13;381.61,850.46;141.43,858.46" z_order="0">
+    </polygon>
+  </image>
+  <image id="176" name="image_251.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="209.12,679.42;424.55,667.78;435.46,737.65;220.76,750.75" z_order="0">
+    </polygon>
+    <polygon label="plat nomor" source="file" occluded="0" points="1632.16,884.88;1915.96,851.99;1904.22,937.50;1621.35,979.79" z_order="0">
+    </polygon>
+  </image>
+  <image id="177" name="image_252.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="289.96,573.17;485.29,557.34;492.60,619.88;300.11,632.46" z_order="0">
+    </polygon>
+    <polygon label="plat nomor" source="file" occluded="0" points="1632.20,886.12;1914.85,852.81;1903.48,938.50;1625.30,973.83" z_order="0">
+    </polygon>
+  </image>
+  <image id="178" name="image_253.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="1622.00,870.05;1902.08,841.27;1892.26,924.80;1613.22,962.01" z_order="0">
+    </polygon>
+    <polygon label="plat nomor" source="file" occluded="0" points="260.10,322.19;351.56,317.68;355.09,358.22;263.43,358.81" z_order="0">
+    </polygon>
+  </image>
+  <image id="179" name="image_254.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="1374.66,719.79;1636.84,703.65;1631.58,778.76;1371.50,797.71" z_order="0">
+    </polygon>
+  </image>
+  <image id="180" name="image_255.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="file" occluded="0" points="801.67,457.77;990.07,470.11;993.01,527.49;805.98,518.28" z_order="0">
+    </polygon>
+  </image>
+  <image id="181" name="image_256.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1628.04,742.66;1882.53,720.75;1878.31,805.86;1624.67,830.29" z_order="0">
+    </polygon>
+  </image>
+  <image id="182" name="image_257.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1567.49,663.76;1800.88,645.26;1798.16,718.70;1558.78,739.37" z_order="0">
+    </polygon>
+  </image>
+  <image id="183" name="image_258.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1600.13,702.38;1843.85,683.88;1837.87,763.86;1591.97,787.30" z_order="0">
+    </polygon>
+  </image>
+  <image id="184" name="image_259.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1529.38,615.19;1759.31,604.85;1756.01,676.79;1528.44,691.36" z_order="0">
+    </polygon>
+  </image>
+  <image id="185" name="image_26.jpg" width="720" height="960">
+    <box label="plat nomor" source="file" occluded="0" xtl="222.93" ytl="689.67" xbr="437.81" ybr="752.31" z_order="0">
+    </box>
+  </image>
+  <image id="186" name="image_260.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1443.70,552.56;1665.83,541.63;1660.73,613.01;1441.52,620.29" z_order="0">
+    </polygon>
+  </image>
+  <image id="187" name="image_261.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1472.83,575.13;1697.88,561.30;1693.51,637.04;1473.56,646.51" z_order="0">
+    </polygon>
+  </image>
+  <image id="188" name="image_262.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1397.82,513.23;1607.57,505.95;1604.66,566.40;1394.91,578.78" z_order="0">
+    </polygon>
+  </image>
+  <image id="189" name="image_263.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1295.02,422.32;1481.54,418.67;1478.70,477.59;1291.77,480.84" z_order="0">
+    </polygon>
+  </image>
+  <image id="190" name="image_264.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1339.07,463.06;1539.20,457.42;1535.97,517.94;1335.03,527.62" z_order="0">
+    </polygon>
+  </image>
+  <image id="191" name="image_265.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1250.05,383.90;1425.17,381.48;1425.17,432.32;1248.44,436.35" z_order="0">
+    </polygon>
+  </image>
+  <image id="192" name="image_266.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1221.00,352.42;1389.66,351.62;1388.05,401.65;1221.00,405.69" z_order="0">
+    </polygon>
+  </image>
+  <image id="193" name="image_267.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1198.41,336.28;1363.03,335.48;1362.20,382.30;1196.79,384.70" z_order="0">
+    </polygon>
+  </image>
+  <image id="194" name="image_268.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1169.22,305.79;1324.75,306.04;1324.00,350.26;1170.46,352.77" z_order="0">
+    </polygon>
+  </image>
+  <image id="195" name="image_269.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="950.03,216.77;1066.61,219.28;1067.11,256.72;951.54,254.96" z_order="0">
+    </polygon>
+  </image>
+  <image id="196" name="image_27.jpg" width="672" height="456">
+    <box label="plat nomor" source="file" occluded="0" xtl="264.27" ytl="253.83" xbr="361.00" ybr="292.80" z_order="0">
+    </box>
+  </image>
+  <image id="197" name="image_270.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="903.20,193.30;1002.90,194.50;1005.20,231.08;906.34,229.52" z_order="0">
+    </polygon>
+  </image>
+  <image id="198" name="image_271.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="893.11,181.26;985.74,183.21;988.46,218.24;897.00,215.12" z_order="0">
+    </polygon>
+  </image>
+  <image id="199" name="image_272.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="895.84,280.50;1002.86,263.38;1001.30,303.47;893.89,319.42" z_order="0">
+    </polygon>
+  </image>
+  <image id="200" name="image_273.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="834.31,390.64;990.76,374.69;988.42,424.89;830.03,445.13" z_order="0">
+    </polygon>
+  </image>
+  <image id="201" name="image_274.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="251.10,875.90;538.50,875.25;542.69,950.57;257.42,960.34" z_order="0">
+    </polygon>
+  </image>
+  <image id="202" name="image_275.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="250.45,880.13;534.32,882.92;548.27,958.94;258.82,960.34" z_order="0">
+    </polygon>
+  </image>
+  <image id="203" name="image_276.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="251.84,880.13;535.02,880.83;548.27,957.55;262.30,954.76" z_order="0">
+    </polygon>
+  </image>
+  <image id="204" name="image_277.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="253.24,882.22;532.93,886.41;542.69,951.97;260.20,960.30" z_order="0">
+    </polygon>
+  </image>
+  <image id="205" name="image_278.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="244.94,878.54;542.62,879.15;553.38,953.83;263.83,958.22" z_order="0">
+    </polygon>
+  </image>
+  <image id="206" name="image_279.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1194.46,192.36;1304.20,189.24;1306.54,227.77;1194.07,230.11" z_order="0">
+    </polygon>
+  </image>
+  <image id="207" name="image_28.jpg" width="640" height="480">
+    <polygon label="plat nomor" source="file" occluded="0" points="343.41,320.81;418.68,326.00;420.28,352.16;341.61,348.56" z_order="0">
+    </polygon>
+    <box label="plat nomor" source="file" occluded="0" xtl="52.91" ytl="190.98" xbr="107.33" ybr="219.82" z_order="0">
+    </box>
+  </image>
+  <image id="208" name="image_280.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1239.75,254.44;1372.60,249.21;1371.15,288.46;1239.17,296.31" z_order="0">
+    </polygon>
+  </image>
+  <image id="209" name="image_281.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1241.65,348.74;1406.80,345.72;1407.47,395.83;1241.65,400.88" z_order="0">
+    </polygon>
+  </image>
+  <image id="210" name="image_282.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1321.52,467.85;1518.04,458.55;1519.50,518.44;1321.81,526.87" z_order="0">
+    </polygon>
+  </image>
+  <image id="211" name="image_283.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1466.01,626.58;1696.25,610.59;1691.31,675.42;1462.81,696.35" z_order="0">
+    </polygon>
+  </image>
+  <image id="212" name="image_284.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1555.88,762.67;1816.89,738.45;1810.50,815.48;1549.15,845.41" z_order="0">
+    </polygon>
+  </image>
+  <image id="213" name="image_285.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1562.27,772.09;1822.94,743.83;1813.86,822.20;1552.85,854.50" z_order="0">
+    </polygon>
+  </image>
+  <image id="214" name="image_286.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1558.57,768.72;1820.93,744.51;1813.19,821.87;1554.53,852.48" z_order="0">
+    </polygon>
+  </image>
+  <image id="215" name="image_287.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="857.39,358.65;990.81,331.26;992.32,379.00;857.64,408.90" z_order="0">
+    </polygon>
+  </image>
+  <image id="216" name="image_288.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="601.61,582.27;826.24,553.62;830.76,616.44;606.14,646.59" z_order="0">
+    </polygon>
+  </image>
+  <image id="217" name="image_289.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="777.10,460.23;956.69,434.39;957.34,487.37;779.05,519.73" z_order="0">
+    </polygon>
+  </image>
+  <image id="218" name="image_29.jpg" width="554" height="554">
+    <polygon label="plat nomor" source="file" occluded="0" points="158.97,425.15;328.96,450.14;323.71,502.27;152.80,475.43" z_order="0">
+    </polygon>
+  </image>
+  <image id="219" name="image_290.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="243.38,767.25;512.12,756.00;524.62,838.50;260.87,852.25" z_order="0">
+    </polygon>
+  </image>
+  <image id="220" name="image_291.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="0.88,938.50;270.87,937.25;292.12,1032.25;0.87,1033.50" z_order="0">
+    </polygon>
+  </image>
+  <image id="221" name="image_292.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="857.90,341.48;989.01,318.52;990.75,363.87;860.81,390.90" z_order="0">
+    </polygon>
+  </image>
+  <image id="222" name="image_293.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="828.25,278.40;928.54,260.66;931.74,299.33;830.86,325.78" z_order="0">
+    </polygon>
+  </image>
+  <image id="223" name="image_294.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="783.60,452.17;960.28,425.32;963.40,481.36;787.10,512.88" z_order="0">
+    </polygon>
+  </image>
+  <image id="224" name="image_295.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="534.91,621.85;768.03,597.34;774.26,661.55;536.47,696.58" z_order="0">
+    </polygon>
+  </image>
+  <image id="225" name="image_296.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1387.02,292.96;1510.86,282.50;1510.86,330.17;1387.31,340.93" z_order="0">
+    </polygon>
+  </image>
+  <image id="226" name="image_297.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1370.45,315.64;1505.05,304.01;1506.21,352.56;1369.58,366.51" z_order="0">
+    </polygon>
+  </image>
+  <image id="227" name="image_298.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1348.47,341.55;1495.11,332.86;1495.53,379.41;1346.51,395.11" z_order="0">
+    </polygon>
+  </image>
+  <image id="228" name="image_299.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1286.31,406.68;1461.12,397.34;1460.47,450.54;1284.79,467.26" z_order="0">
+    </polygon>
+  </image>
+  <image id="229" name="image_30.jpg" width="639" height="480">
+    <polygon label="plat nomor" source="file" occluded="0" points="573.25,308.02;619.34,286.25;617.84,315.78;574.44,340.98" z_order="0">
+    </polygon>
+  </image>
+  <image id="230" name="image_300.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1284.46,456.53;1478.52,443.59;1478.06,504.58;1282.62,525.37" z_order="0">
+    </polygon>
+  </image>
+  <image id="231" name="image_301.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1411.06,520.75;1611.13,505.50;1609.74,569.27;1407.37,590.06" z_order="0">
+    </polygon>
+  </image>
+  <image id="232" name="image_302.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1592.19,642.73;1807.04,616.39;1803.80,689.40;1589.88,721.74" z_order="0">
+    </polygon>
+  </image>
+  <image id="233" name="image_303.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1553.38,808.14;1828.29,778.57;1817.66,864.05;1543.67,897.32" z_order="0">
+    </polygon>
+  </image>
+  <image id="234" name="image_304.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1439.71,902.86;1760.37,876.53;1747.43,967.09;1434.17,996.20" z_order="0">
+    </polygon>
+  </image>
+  <image id="235" name="image_305.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1190.02,451.31;1395.17,446.69;1391.01,503.98;1187.25,512.30" z_order="0">
+    </polygon>
+  </image>
+  <image id="236" name="image_306.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1178.33,432.52;1373.68,428.73;1370.92,485.67;1175.57,491.89" z_order="0">
+    </polygon>
+  </image>
+  <image id="237" name="image_307.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1174.52,337.17;1340.81,333.82;1339.78,381.77;1172.97,389.25" z_order="0">
+    </polygon>
+  </image>
+  <image id="238" name="image_308.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1125.18,231.67;1259.33,230.84;1259.00,274.45;1126.34,276.78" z_order="0">
+    </polygon>
+  </image>
+  <image id="239" name="image_309.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1227.71,261.96;1368.02,259.97;1369.35,301.74;1226.54,305.57" z_order="0">
+    </polygon>
+  </image>
+  <image id="240" name="image_31.jpg" width="1200" height="800">
+    <polygon label="plat nomor" source="file" occluded="0" points="939.27,592.93;1021.05,593.67;1022.29,618.28;937.53,621.02" z_order="0">
+    </polygon>
+    <polygon label="plat nomor" source="file" occluded="0" points="151.25,611.33;219.05,609.24;220.56,632.97;150.32,634.70" z_order="0">
+    </polygon>
+  </image>
+  <image id="241" name="image_310.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1283.05,294.00;1428.19,291.84;1428.02,334.78;1282.72,341.28" z_order="0">
+    </polygon>
+  </image>
+  <image id="242" name="image_311.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1299.53,306.16;1446.00,302.16;1448.33,350.43;1298.53,353.26" z_order="0">
+    </polygon>
+  </image>
+  <image id="243" name="image_312.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1299.70,329.46;1456.82,325.96;1456.15,371.40;1299.69,377.39" z_order="0">
+    </polygon>
+  </image>
+  <image id="244" name="image_313.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1338.99,378.64;1508.27,376.15;1506.93,427.41;1337.33,431.07" z_order="0">
+    </polygon>
+  </image>
+  <image id="245" name="image_314.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1415.27,474.35;1611.46,468.94;1610.69,527.98;1415.01,536.74" z_order="0">
+    </polygon>
+  </image>
+  <image id="246" name="image_315.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1479.20,544.99;1688.03,537.00;1686.23,597.33;1476.88,610.48" z_order="0">
+    </polygon>
+  </image>
+  <image id="247" name="image_316.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1546.75,628.01;1776.46,615.12;1771.82,685.24;1542.37,703.29" z_order="0">
+    </polygon>
+  </image>
+  <image id="248" name="image_317.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1615.33,713.60;1858.96,695.56;1852.77,768.78;1608.88,790.95" z_order="0">
+    </polygon>
+  </image>
+  <image id="249" name="image_318.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1641.37,749.44;1892.22,729.07;1886.29,806.42;1633.89,834.26" z_order="0">
+    </polygon>
+  </image>
+  <image id="250" name="image_319.jpg" width="1854" height="1048">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1172.71,380.08;1330.79,377.83;1329.80,423.89;1170.97,428.62" z_order="0">
+    </polygon>
+  </image>
+  <image id="251" name="image_32.jpg" width="630" height="487">
+    <box label="plat nomor" source="file" occluded="0" xtl="207.89" ytl="315.30" xbr="323.53" ybr="354.10" z_order="0">
+    </box>
+  </image>
+  <image id="252" name="image_320.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1473.91,574.12;1697.14,564.94;1691.95,631.23;1472.71,646.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="253" name="image_321.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1299.19,426.84;1489.26,424.83;1486.80,478.53;1296.51,484.77" z_order="0">
+    </polygon>
+  </image>
+  <image id="254" name="image_322.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1240.59,371.80;1414.16,371.58;1412.60,420.38;1238.58,425.50" z_order="0">
+    </polygon>
+  </image>
+  <image id="255" name="image_323.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1176.41,316.76;1335.95,316.54;1335.29,361.77;1175.30,364.89" z_order="0">
+    </polygon>
+  </image>
+  <image id="256" name="image_324.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="1085.95,261.06;1225.88,262.84;1225.88,303.62;1084.83,305.40" z_order="0">
+    </polygon>
+  </image>
+  <image id="257" name="image_325.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="904.88,196.49;1004.85,197.55;1006.46,230.70;903.82,234.44" z_order="0">
+    </polygon>
+  </image>
+  <image id="258" name="image_326.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="893.66,181.52;985.61,182.59;990.42,216.27;897.40,214.13" z_order="0">
+    </polygon>
+  </image>
+  <image id="259" name="image_327.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="909.75,147.14;976.26,151.26;976.00,183.23;908.72,176.27" z_order="0">
+    </polygon>
+  </image>
+  <image id="260" name="image_328.jpg" width="1920" height="1080">
+    <polygon label="plat nomor" source="manual" occluded="0" points="908.97,147.65;974.72,151.26;976.52,183.23;908.97,177.04" z_order="0">
+    </polygon>
+  </image>
+  <image id="261" name="image_33.jpg" width="850" height="638">
+    <polygon label="plat nomor" source="file" occluded="0" points="492.28,465.61;663.94,436.14;647.73,495.82;483.44,540.02" z_order="0">
+    </polygon>
+  </image>
+  <image id="262" name="image_34.jpg" width="640" height="480">
+    <polygon label="plat nomor" source="file" occluded="0" points="31.42,287.16;103.48,323.19;104.03,361.43;31.42,319.31" z_order="0">
+    </polygon>
+  </image>
+  <image id="263" name="image_35.jpg" width="900" height="1200">
+    <polygon label="plat nomor" source="file" occluded="0" points="96.96,622.89;199.87,637.81;201.74,684.42;100.32,667.26" z_order="0">
+    </polygon>
+  </image>
+  <image id="264" name="image_36.jpg" width="585" height="1040">
+    <polygon label="plat nomor" source="file" occluded="0" points="276.66,568.30;390.36,561.62;390.99,595.01;276.66,606.27" z_order="0">
+    </polygon>
+  </image>
+  <image id="265" name="image_37.jpg" width="1040" height="585">
+    <box label="plat nomor" source="file" occluded="0" xtl="456.14" ytl="374.81" xbr="624.40" ybr="438.50" z_order="0">
+    </box>
+  </image>
+  <image id="266" name="image_38.jpg" width="1040" height="585">
+    <box label="plat nomor" source="file" occluded="0" xtl="802.40" ytl="305.44" xbr="875.94" ybr="344.83" z_order="0">
+    </box>
+    <box label="plat nomor" source="file" occluded="0" xtl="135.32" ytl="282.46" xbr="227.24" ybr="328.42" z_order="0">
+    </box>
+    <box label="plat nomor" source="file" occluded="0" xtl="568.10" ytl="344.39" xbr="636.20" ybr="368.30" z_order="0">
+    </box>
+  </image>
+  <image id="267" name="image_39.jpg" width="585" height="1040">
+    <box label="plat nomor" source="file" occluded="0" xtl="222.17" ytl="536.36" xbr="352.00" ybr="588.20" z_order="0">
+    </box>
+  </image>
+  <image id="268" name="image_40.jpg" width="1040" height="585">
+    <box label="plat nomor" source="file" occluded="0" xtl="488.29" ytl="331.48" xbr="639.20" ybr="381.80" z_order="0">
+    </box>
+  </image>
+  <image id="269" name="image_41.jpg" width="1040" height="585">
+    <polygon label="plat nomor" source="file" occluded="0" points="759.12,361.72;850.34,359.28;850.58,387.57;758.14,392.20" z_order="0">
+    </polygon>
+    <box label="plat nomor" source="file" occluded="0" xtl="238.08" ytl="379.54" xbr="348.00" ybr="414.70" z_order="0">
+    </box>
+  </image>
+  <image id="270" name="image_42.jpg" width="720" height="480">
+    <polygon label="plat nomor" source="file" occluded="0" points="311.87,400.52;476.16,397.07;475.64,442.11;310.66,446.08" z_order="0">
+    </polygon>
+  </image>
+  <image id="271" name="image_43.jpg" width="1040" height="585">
+    <polygon label="plat nomor" source="file" occluded="0" points="268.24,373.74;351.05,375.15;349.40,402.44;267.89,400.09" z_order="0">
+    </polygon>
+    <polygon label="plat nomor" source="file" occluded="0" points="702.17,391.95;785.98,395.05;783.43,422.74;699.99,418.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="272" name="image_44.jpg" width="960" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="392.01,559.41;606.08,559.15;602.46,606.52;394.86,609.11" z_order="0">
+    </polygon>
+  </image>
+  <image id="273" name="image_45.jpg" width="960" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="685.02,406.91;812.13,380.00;815.37,436.13;688.73,475.10" z_order="0">
+    </polygon>
+  </image>
+  <image id="274" name="image_46.jpg" width="960" height="540">
+    <polygon label="plat nomor" source="file" occluded="0" points="700.69,397.54;799.14,370.50;793.90,413.68;699.07,443.53" z_order="0">
+    </polygon>
+  </image>
+  <image id="275" name="image_47.jpg" width="960" height="540">
+    <polygon label="plat nomor" source="file" occluded="0" points="345.22,387.27;447.23,389.03;445.97,422.57;344.22,419.43" z_order="0">
+    </polygon>
+  </image>
+  <image id="276" name="image_48.jpg" width="960" height="720">
+    <box label="plat nomor" source="file" occluded="0" xtl="392.70" ytl="360.48" xbr="539.70" ybr="412.40" z_order="0">
+    </box>
+  </image>
+  <image id="277" name="image_49.jpg" width="921" height="691">
+    <polygon label="plat nomor" source="file" occluded="0" points="340.98,454.92;588.74,448.93;590.41,526.42;343.97,530.08" z_order="0">
+    </polygon>
+  </image>
+  <image id="278" name="image_50.jpg" width="490" height="310">
+    <box label="plat nomor" source="file" occluded="0" xtl="195.32" ytl="207.02" xbr="299.50" ybr="240.50" z_order="0">
+    </box>
+  </image>
+  <image id="279" name="image_51.jpg" width="640" height="640">
+    <polygon label="plat nomor" source="file" occluded="0" points="225.16,478.20;371.47,474.81;372.39,515.16;228.55,519.48" z_order="0">
+    </polygon>
+  </image>
+  <image id="280" name="image_52.jpg" width="720" height="960">
+    <polygon label="plat nomor" source="file" occluded="0" points="82.93,484.02;205.80,506.55;210.23,548.53;89.48,526.58" z_order="0">
+    </polygon>
+  </image>
+  <image id="281" name="image_53.jpg" width="850" height="575">
+    <polygon label="plat nomor" source="file" occluded="0" points="255.87,363.20;338.56,381.39;337.11,415.50;256.08,394.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="282" name="image_54.jpg" width="960" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="594.90,362.76;725.10,361.21;721.48,403.92;592.83,406.51" z_order="0">
+    </polygon>
+  </image>
+  <image id="283" name="image_55.jpg" width="960" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="645.12,344.90;716.30,337.14;721.74,370.27;644.60,381.66" z_order="0">
+    </polygon>
+  </image>
+  <image id="284" name="image_56.jpg" width="1280" height="800">
+    <polygon label="plat nomor" source="file" occluded="0" points="363.22,501.53;492.69,501.53;491.65,544.84;362.70,546.16" z_order="0">
+    </polygon>
+  </image>
+  <image id="285" name="image_57.jpg" width="960" height="720">
+    <box label="plat nomor" source="file" occluded="0" xtl="389.97" ytl="355.04" xbr="574.50" ybr="420.20" z_order="0">
+    </box>
+  </image>
+  <image id="286" name="image_58.jpg" width="640" height="960">
+    <polygon label="plat nomor" source="file" occluded="0" points="161.66,562.78;256.79,564.13;256.79,593.40;161.47,592.44" z_order="0">
+    </polygon>
+  </image>
+  <image id="287" name="image_59.jpg" width="640" height="960">
+    <polygon label="plat nomor" source="file" occluded="0" points="126.61,575.30;183.04,575.88;181.30,596.29;122.76,596.29" z_order="0">
+    </polygon>
+  </image>
+  <image id="288" name="image_60.jpg" width="750" height="422">
+    <box label="plat nomor" source="file" occluded="0" xtl="318.24" ytl="252.17" xbr="437.80" ybr="292.10" z_order="0">
+    </box>
+  </image>
+  <image id="289" name="image_61.jpg" width="750" height="500">
+    <box label="plat nomor" source="file" occluded="0" xtl="324.45" ytl="291.83" xbr="443.00" ybr="335.00" z_order="0">
+    </box>
+  </image>
+  <image id="290" name="image_62.jpg" width="850" height="566">
+    <polygon label="plat nomor" source="file" occluded="0" points="360.73,275.17;522.28,259.49;528.48,315.29;362.91,328.42" z_order="0">
+    </polygon>
+  </image>
+  <image id="291" name="image_63.jpg" width="2048" height="1536">
+    <polygon label="plat nomor" source="file" occluded="0" points="177.41,891.79;307.18,923.88;311.10,1019.80;180.98,979.49" z_order="0">
+    </polygon>
+  </image>
+  <image id="292" name="image_64.jpg" width="960" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="672.73,573.60;810.50,528.37;816.49,587.07;679.02,649.07" z_order="0">
+    </polygon>
+  </image>
+  <image id="293" name="image_65.jpg" width="734" height="960">
+    <polygon label="plat nomor" source="file" occluded="0" points="572.89,728.46;667.53,692.53;668.73,734.06;575.68,783.17" z_order="0">
+    </polygon>
+  </image>
+  <image id="294" name="image_66.jpg" width="960" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="339.25,488.99;412.08,497.41;412.29,526.10;338.06,516.72" z_order="0">
+    </polygon>
+  </image>
+  <image id="295" name="image_67.jpg" width="960" height="540">
+    <polygon label="plat nomor" source="file" occluded="0" points="150.04,335.27;205.66,366.34;193.50,413.40;136.54,374.22" z_order="0">
+    </polygon>
+  </image>
+  <image id="296" name="image_68.jpg" width="960" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="319.90,456.52;400.40,471.53;395.22,502.59;311.87,488.10" z_order="0">
+    </polygon>
+  </image>
+  <image id="297" name="image_69.jpg" width="720" height="960">
+    <polygon label="plat nomor" source="file" occluded="0" points="241.43,712.92;507.87,707.74;507.53,781.26;243.85,791.61" z_order="0">
+    </polygon>
+  </image>
+  <image id="298" name="image_70.jpg" width="805" height="960">
+    <box label="plat nomor" source="file" occluded="0" xtl="290.49" ytl="619.80" xbr="484.80" ybr="684.20" z_order="0">
+    </box>
+  </image>
+  <image id="299" name="image_71.jpg" width="960" height="960">
+    <polygon label="plat nomor" source="file" occluded="0" points="142.62,659.77;293.79,660.46;295.17,717.41;144.69,715.68" z_order="0">
+    </polygon>
+  </image>
+  <image id="300" name="image_72.jpg" width="720" height="960">
+    <box label="plat nomor" source="file" occluded="0" xtl="271.74" ytl="769.09" xbr="499.70" ybr="838.30" z_order="0">
+    </box>
+  </image>
+  <image id="301" name="image_73.jpg" width="850" height="638">
+    <polygon label="plat nomor" source="file" occluded="0" points="564.80,455.91;692.56,415.31;698.52,461.19;570.30,509.13" z_order="0">
+    </polygon>
+  </image>
+  <image id="302" name="image_75.jpg" width="850" height="638">
+    <polygon label="plat nomor" source="file" occluded="0" points="43.42,392.13;170.26,438.67;173.45,502.98;49.82,447.91" z_order="0">
+    </polygon>
+  </image>
+  <image id="303" name="image_76.jpg" width="620" height="465">
+    <box label="plat nomor" source="file" occluded="0" xtl="218.59" ytl="324.68" xbr="379.90" ybr="378.70" z_order="0">
+    </box>
+  </image>
+  <image id="304" name="image_77.jpg" width="860" height="645">
+    <polygon label="plat nomor" source="file" occluded="0" points="89.87,406.67;196.91,442.23;195.83,496.82;85.92,455.52" z_order="0">
+    </polygon>
+  </image>
+  <image id="305" name="image_78.jpg" width="620" height="465">
+    <polygon label="plat nomor" source="file" occluded="0" points="500.06,303.81;570.24,264.97;572.05,307.70;500.58,353.53" z_order="0">
+    </polygon>
+  </image>
+  <image id="306" name="image_79.jpg" width="850" height="638">
+    <polygon label="plat nomor" source="file" occluded="0" points="108.44,413.45;221.06,437.96;213.96,483.08;102.40,457.15" z_order="0">
+    </polygon>
+  </image>
+  <image id="307" name="image_80.jpg" width="850" height="638">
+    <polygon label="plat nomor" source="file" occluded="0" points="75.04,353.76;170.61,382.18;180.56,433.70;79.66,397.46" z_order="0">
+    </polygon>
+  </image>
+  <image id="308" name="image_81.jpg" width="734" height="488">
+    <polygon label="plat nomor" source="file" occluded="0" points="536.57,318.41;617.83,298.57;618.64,331.18;534.67,358.63" z_order="0">
+    </polygon>
+  </image>
+  <image id="309" name="image_82.jpg" width="960" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="265.76,515.33;349.49,521.18;351.49,554.44;266.10,546.42" z_order="0">
+    </polygon>
+  </image>
+  <image id="310" name="image_83.jpg" width="960" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="763.86,345.59;828.07,339.78;827.40,377.81;764.08,390.56" z_order="0">
+    </polygon>
+  </image>
+  <image id="311" name="image_84.jpg" width="720" height="960">
+    <polygon label="plat nomor" source="file" occluded="0" points="425.34,537.61;557.24,529.14;554.73,582.87;421.85,602.90" z_order="0">
+    </polygon>
+  </image>
+  <image id="312" name="image_85.jpg" width="960" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="693.05,511.75;821.02,493.18;818.78,539.49;690.39,569.47" z_order="0">
+    </polygon>
+  </image>
+  <image id="313" name="image_86.jpg" width="540" height="960">
+    <polygon label="plat nomor" source="file" occluded="0" points="454.74,648.33;530.20,662.35;505.15,694.86;426.40,686.51" z_order="0">
+    </polygon>
+  </image>
+  <image id="314" name="image_87.jpg" width="960" height="723">
+    <polygon label="plat nomor" source="file" occluded="0" points="390.09,387.69;563.93,387.99;563.93,441.22;387.39,441.52" z_order="0">
+    </polygon>
+  </image>
+  <image id="315" name="image_88.jpg" width="642" height="960">
+    <polygon label="plat nomor" source="file" occluded="0" points="462.42,508.52;536.12,505.12;536.52,533.22;460.32,540.22" z_order="0">
+    </polygon>
+  </image>
+  <image id="316" name="image_89.jpg" width="959" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="337.85,488.84;613.22,498.88;606.54,574.32;338.22,567.25" z_order="0">
+    </polygon>
+  </image>
+  <image id="317" name="image_90.jpg" width="960" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="239.81,508.51;329.78,523.74;330.67,565.86;238.91,546.86" z_order="0">
+    </polygon>
+  </image>
+  <image id="318" name="image_91.jpg" width="640" height="403">
+    <polygon label="plat nomor" source="file" occluded="0" points="353.88,261.63;494.08,244.32;493.80,291.34;353.62,316.15" z_order="0">
+    </polygon>
+  </image>
+  <image id="319" name="image_92.jpg" width="800" height="526">
+    <polygon label="plat nomor" source="file" occluded="0" points="277.50,295.79;347.79,298.06;347.34,325.33;275.68,321.69" z_order="0">
+    </polygon>
+  </image>
+  <image id="320" name="image_93.jpg" width="850" height="638">
+    <polygon label="plat nomor" source="file" occluded="0" points="701.18,352.19;775.75,331.70;772.62,369.84;695.77,397.45" z_order="0">
+    </polygon>
+  </image>
+  <image id="321" name="image_94.jpg" width="556" height="425">
+    <polygon label="plat nomor" source="file" occluded="0" points="64.38,227.01;114.43,235.16;116.15,261.89;65.34,251.27" z_order="0">
+    </polygon>
+  </image>
+  <image id="322" name="image_95.jpg" width="1080" height="809">
+    <box label="plat nomor" source="file" occluded="0" xtl="432.44" ytl="570.92" xbr="601.70" ybr="625.40" z_order="0">
+    </box>
+  </image>
+  <image id="323" name="image_96.jpg" width="960" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="685.79,467.91;790.71,444.48;789.26,492.59;683.51,524.94" z_order="0">
+    </polygon>
+  </image>
+  <image id="324" name="image_97.jpg" width="1000" height="1000">
+    <polygon label="plat nomor" source="file" occluded="0" points="115.81,533.58;247.94,571.77;254.65,635.26;118.39,588.80" z_order="0">
+    </polygon>
+  </image>
+  <image id="325" name="image_98.jpg" width="960" height="720">
+    <polygon label="plat nomor" source="file" occluded="0" points="155.05,487.84;256.87,506.79;261.70,561.79;155.42,536.15" z_order="0">
+    </polygon>
+  </image>
+  <image id="326" name="image_99.jpg" width="720" height="480">
+    <polygon label="plat nomor" source="file" occluded="0" points="186.22,230.30;323.24,241.20;310.91,291.08;174.18,269.86" z_order="0">
+    </polygon>
+  </image>
+>>>>>>> c463035 (Update program dengan split parkiran)
+</annotations>

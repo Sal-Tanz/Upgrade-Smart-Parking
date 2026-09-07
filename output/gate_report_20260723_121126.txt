@@ -1,0 +1,19 @@
+LAPORAN GATE DETECTION
+Tanggal: 2026-07-23 12:11:26
+Video: /home/x/Desktop/2.mp4
+Total Frame: 2123
+Total Deteksi: 1272
+Total OCR: 1263
+Palang Terbuka: 1 kali
+FPS Rata-rata: 74.7
+
+============================================================
+LOG PALANG TERBUKA
+============================================================
+
+#1
+  Waktu: 12:10:36 (frame 861)
+  OCR: 1023 US
+  Database: T 1023 US
+  Pemilik: Wakil Dekan
+  Status: PALANG TERBUKA

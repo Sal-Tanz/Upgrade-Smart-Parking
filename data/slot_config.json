@@ -1,0 +1,142 @@
+{
+  "slots": [
+    {
+      "slot_id": "M-01",
+      "cluster": "Merah",
+      "polygon": [[100, 100], [300, 100], [300, 250], [100, 250]],
+      "center": [200, 175],
+      "width": 200,
+      "height": 150,
+      "status": "unknown"
+    },
+    {
+      "slot_id": "M-02",
+      "cluster": "Merah",
+      "polygon": [[310, 100], [510, 100], [510, 250], [310, 250]],
+      "center": [410, 175],
+      "width": 200,
+      "height": 150,
+      "status": "unknown"
+    },
+    {
+      "slot_id": "M-03",
+      "cluster": "Merah",
+      "polygon": [[520, 100], [720, 100], [720, 250], [520, 250]],
+      "center": [620, 175],
+      "width": 200,
+      "height": 150,
+      "status": "unknown"
+    },
+    {
+      "slot_id": "M-04",
+      "cluster": "Merah",
+      "polygon": [[730, 100], [930, 100], [930, 250], [730, 250]],
+      "center": [830, 175],
+      "width": 200,
+      "height": 150,
+      "status": "unknown"
+    },
+    {
+      "slot_id": "M-05",
+      "cluster": "Merah",
+      "polygon": [[940, 100], [1140, 100], [1140, 250], [940, 250]],
+      "center": [1040, 175],
+      "width": 200,
+      "height": 150,
+      "status": "unknown"
+    },
+    {
+      "slot_id": "O-01",
+      "cluster": "Orange",
+      "polygon": [[100, 400], [300, 400], [300, 550], [100, 550]],
+      "center": [200, 475],
+      "width": 200,
+      "height": 150,
+      "status": "unknown"
+    },
+    {
+      "slot_id": "O-02",
+      "cluster": "Orange",
+      "polygon": [[310, 400], [510, 400], [510, 550], [310, 550]],
+      "center": [410, 475],
+      "width": 200,
+      "height": 150,
+      "status": "unknown"
+    },
+    {
+      "slot_id": "O-03",
+      "cluster": "Orange",
+      "polygon": [[520, 400], [720, 400], [720, 550], [520, 550]],
+      "center": [620, 475],
+      "width": 200,
+      "height": 150,
+      "status": "unknown"
+    },
+    {
+      "slot_id": "O-04",
+      "cluster": "Orange",
+      "polygon": [[730, 400], [930, 400], [930, 550], [730, 550]],
+      "center": [830, 475],
+      "width": 200,
+      "height": 150,
+      "status": "unknown"
+    },
+    {
+      "slot_id": "O-05",
+      "cluster": "Orange",
+      "polygon": [[940, 400], [1140, 400], [1140, 550], [940, 550]],
+      "center": [1040, 475],
+      "width": 200,
+      "height": 150,
+      "status": "unknown"
+    },
+    {
+      "slot_id": "O-06",
+      "cluster": "Orange",
+      "polygon": [[100, 560], [300, 560], [300, 710], [100, 710]],
+      "center": [200, 635],
+      "width": 200,
+      "height": 150,
+      "status": "unknown"
+    },
+    {
+      "slot_id": "O-07",
+      "cluster": "Orange",
+      "polygon": [[310, 560], [510, 560], [510, 710], [310, 710]],
+      "center": [410, 635],
+      "width": 200,
+      "height": 150,
+      "status": "unknown"
+    },
+    {
+      "slot_id": "O-08",
+      "cluster": "Orange",
+      "polygon": [[520, 560], [720, 560], [720, 710], [520, 710]],
+      "center": [620, 635],
+      "width": 200,
+      "height": 150,
+      "status": "unknown"
+    },
+    {
+      "slot_id": "O-09",
+      "cluster": "Orange",
+      "polygon": [[730, 560], [930, 560], [930, 710], [730, 710]],
+      "center": [830, 635],
+      "width": 200,
+      "height": 150,
+      "status": "unknown"
+    },
+    {
+      "slot_id": "O-10",
+      "cluster": "Orange",
+      "polygon": [[940, 560], [1140, 560], [1140, 710], [940, 710]],
+      "center": [1040, 635],
+      "width": 200,
+      "height": 150,
+      "status": "unknown"
+    }
+  ],
+  "total_slots": 15,
+  "merah_count": 5,
+  "orange_count": 10
+}

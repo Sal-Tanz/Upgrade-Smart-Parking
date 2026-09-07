@@ -1,0 +1,152 @@
+LAPORAN GATE DETECTION
+Tanggal: 2026-07-23 11:33:07
+Video: /home/x/Desktop/4.mp4
+Total Frame: 6661
+Total Deteksi: 3480
+Total OCR: 3190
+Palang Terbuka: 20 kali
+FPS Rata-rata: 73.0
+
+============================================================
+LOG PALANG TERBUKA
+============================================================
+
+#1
+  Waktu: 11:31:29 (frame 3621)
+  OCR: TE
+  Database: T 1023 US
+  Pemilik: Wakil Dekan
+  Status: PALANG TERBUKA
+
+#2
+  Waktu: 11:31:29 (frame 3622)
+  OCR: TE
+  Database: T 1023 US
+  Pemilik: Wakil Dekan
+  Status: PALANG TERBUKA
+
+#3
+  Waktu: 11:31:29 (frame 3623)
+  OCR: TE
+  Database: T 1023 US
+  Pemilik: Wakil Dekan
+  Status: PALANG TERBUKA
+
+#4
+  Waktu: 11:31:29 (frame 3624)
+  OCR: TE
+  Database: T 1023 US
+  Pemilik: Wakil Dekan
+  Status: PALANG TERBUKA
+
+#5
+  Waktu: 11:31:29 (frame 3625)
+  OCR: TE
+  Database: T 1023 US
+  Pemilik: Wakil Dekan
+  Status: PALANG TERBUKA
+
+#6
+  Waktu: 11:31:29 (frame 3626)
+  OCR: TE
+  Database: T 1023 US
+  Pemilik: Wakil Dekan
+  Status: PALANG TERBUKA
+
+#7
+  Waktu: 11:31:29 (frame 3627)
+  OCR: TE
+  Database: T 1023 US
+  Pemilik: Wakil Dekan
+  Status: PALANG TERBUKA
+
+#8
+  Waktu: 11:31:29 (frame 3628)
+  OCR: TE
+  Database: T 1023 US
+  Pemilik: Wakil Dekan
+  Status: PALANG TERBUKA
+
+#9
+  Waktu: 11:31:29 (frame 3629)
+  OCR: TE
+  Database: T 1023 US
+  Pemilik: Wakil Dekan
+  Status: PALANG TERBUKA
+
+#10
+  Waktu: 11:31:29 (frame 3630)
+  OCR: TE
+  Database: T 1023 US
+  Pemilik: Wakil Dekan
+  Status: PALANG TERBUKA
+
+#11
+  Waktu: 11:31:40 (frame 3941)
+  OCR: X 1
+  Database: T 1023 US
+  Pemilik: Wakil Dekan
+  Status: PALANG TERBUKA
+
+#12
+  Waktu: 11:31:40 (frame 3942)
+  OCR: X 1
+  Database: T 1023 US
+  Pemilik: Wakil Dekan
+  Status: PALANG TERBUKA
+
+#13
+  Waktu: 11:31:40 (frame 3943)
+  OCR: X 1
+  Database: T 1023 US
+  Pemilik: Wakil Dekan
+  Status: PALANG TERBUKA
+
+#14
+  Waktu: 11:31:40 (frame 3944)
+  OCR: X 1
+  Database: T 1023 US
+  Pemilik: Wakil Dekan
+  Status: PALANG TERBUKA
+
+#15
+  Waktu: 11:31:40 (frame 3945)
+  OCR: X 1
+  Database: T 1023 US
+  Pemilik: Wakil Dekan
+  Status: PALANG TERBUKA
+
+#16
+  Waktu: 11:31:40 (frame 3946)
+  OCR: X 1
+  Database: T 1023 US
+  Pemilik: Wakil Dekan
+  Status: PALANG TERBUKA
+
+#17
+  Waktu: 11:31:40 (frame 3947)
+  OCR: X 1
+  Database: T 1023 US
+  Pemilik: Wakil Dekan
+  Status: PALANG TERBUKA
+
+#18
+  Waktu: 11:31:40 (frame 3948)
+  OCR: X 1
+  Database: T 1023 US
+  Pemilik: Wakil Dekan
+  Status: PALANG TERBUKA
+
+#19
+  Waktu: 11:31:40 (frame 3949)
+  OCR: X 1
+  Database: T 1023 US
+  Pemilik: Wakil Dekan
+  Status: PALANG TERBUKA
+
+#20
+  Waktu: 11:31:40 (frame 3950)
+  OCR: X 1
+  Database: T 1023 US
+  Pemilik: Wakil Dekan
+  Status: PALANG TERBUKA

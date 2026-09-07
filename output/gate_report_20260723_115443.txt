@@ -1,0 +1,40 @@
+LAPORAN GATE DETECTION
+Tanggal: 2026-07-23 11:54:43
+Video: /home/x/Desktop/2.mp4
+Total Frame: 4575
+Total Deteksi: 3724
+Total OCR: 3715
+Palang Terbuka: 4 kali
+FPS Rata-rata: 72.3
+
+============================================================
+LOG PALANG TERBUKA
+============================================================
+
+#1
+  Waktu: 11:52:18 (frame 861)
+  OCR: 1023 US
+  Database: T 1023 US
+  Pemilik: Wakil Dekan
+  Status: PALANG TERBUKA
+
+#2
+  Waktu: 11:52:39 (frame 1391)
+  OCR: D 1205
+  Database: D 1205 AJA
+  Pemilik: Dosen Arsitek
+  Status: PALANG TERBUKA
+
+#3
+  Waktu: 11:52:41 (frame 1431)
+  OCR: 1023 US
+  Database: T 1023 US
+  Pemilik: Wakil Dekan
+  Status: PALANG TERBUKA
+
+#4
+  Waktu: 11:54:41 (frame 4511)
+  OCR: 1023 US
+  Database: T 1023 US
+  Pemilik: Wakil Dekan
+  Status: PALANG TERBUKA

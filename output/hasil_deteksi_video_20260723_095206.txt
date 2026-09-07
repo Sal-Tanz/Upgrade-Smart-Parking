@@ -1,0 +1,3388 @@
+LAPORAN HASIL DETEKSI PLAT NOMOR DARI VIDEO
+Tanggal: 2026-07-23 09:52:06
+File Video: /home/x/Desktop/8.mp4
+Total Frame: 11995
+Frame Diproses: 281
+Model YOLO: ml/models/best.pt
+
+============================================================
+Frame: 1 (waktu: 0.89s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.869
+Confidence OCR: 0.723
+Confidence Keseluruhan: 0.781
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 2 (waktu: 0.18s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.869
+Confidence OCR: 0.723
+Confidence Keseluruhan: 0.781
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 3 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.870
+Confidence OCR: 0.723
+Confidence Keseluruhan: 0.782
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 4 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.869
+Confidence OCR: 0.724
+Confidence Keseluruhan: 0.782
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 5 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.869
+Confidence OCR: 0.724
+Confidence Keseluruhan: 0.782
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 6 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.869
+Confidence OCR: 0.724
+Confidence Keseluruhan: 0.782
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 7 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.869
+Confidence OCR: 0.724
+Confidence Keseluruhan: 0.782
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 8 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.869
+Confidence OCR: 0.724
+Confidence Keseluruhan: 0.782
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 9 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.870
+Confidence OCR: 0.724
+Confidence Keseluruhan: 0.783
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 10 (waktu: 0.16s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.870
+Confidence OCR: 0.724
+Confidence Keseluruhan: 0.783
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 11 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.870
+Confidence OCR: 0.724
+Confidence Keseluruhan: 0.783
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 12 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.870
+Confidence OCR: 0.714
+Confidence Keseluruhan: 0.776
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 13 (waktu: 0.16s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.870
+Confidence OCR: 0.713
+Confidence Keseluruhan: 0.776
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 14 (waktu: 0.16s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.870
+Confidence OCR: 0.713
+Confidence Keseluruhan: 0.776
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 15 (waktu: 0.22s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.870
+Confidence OCR: 0.714
+Confidence Keseluruhan: 0.776
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 16 (waktu: 0.21s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.871
+Confidence OCR: 0.714
+Confidence Keseluruhan: 0.777
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 17 (waktu: 0.18s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.871
+Confidence OCR: 0.714
+Confidence Keseluruhan: 0.776
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 18 (waktu: 0.17s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.871
+Confidence OCR: 0.713
+Confidence Keseluruhan: 0.776
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 19 (waktu: 0.19s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.871
+Confidence OCR: 0.713
+Confidence Keseluruhan: 0.776
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 20 (waktu: 0.17s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.871
+Confidence OCR: 0.714
+Confidence Keseluruhan: 0.777
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 21 (waktu: 0.16s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.871
+Confidence OCR: 0.714
+Confidence Keseluruhan: 0.777
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 22 (waktu: 0.16s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.871
+Confidence OCR: 0.714
+Confidence Keseluruhan: 0.777
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 23 (waktu: 0.17s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.871
+Confidence OCR: 0.736
+Confidence Keseluruhan: 0.790
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 24 (waktu: 0.18s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.871
+Confidence OCR: 0.736
+Confidence Keseluruhan: 0.790
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 25 (waktu: 0.18s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G41
+Confidence Deteksi YOLO: 0.871
+Confidence OCR: 0.719
+Confidence Keseluruhan: 0.780
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 26 (waktu: 0.20s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G4
+Confidence Deteksi YOLO: 0.871
+Confidence OCR: 0.750
+Confidence Keseluruhan: 0.798
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 27 (waktu: 0.16s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G41
+Confidence Deteksi YOLO: 0.871
+Confidence OCR: 0.777
+Confidence Keseluruhan: 0.814
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 28 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.870
+Confidence OCR: 0.738
+Confidence Keseluruhan: 0.791
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 29 (waktu: 0.17s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.870
+Confidence OCR: 0.739
+Confidence Keseluruhan: 0.791
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 30 (waktu: 0.18s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.870
+Confidence OCR: 0.739
+Confidence Keseluruhan: 0.791
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 31 (waktu: 0.19s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.870
+Confidence OCR: 0.739
+Confidence Keseluruhan: 0.791
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 32 (waktu: 0.18s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.870
+Confidence OCR: 0.739
+Confidence Keseluruhan: 0.791
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 33 (waktu: 0.18s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.871
+Confidence OCR: 0.739
+Confidence Keseluruhan: 0.791
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 34 (waktu: 0.17s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.871
+Confidence OCR: 0.739
+Confidence Keseluruhan: 0.791
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 35 (waktu: 0.18s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.870
+Confidence OCR: 0.739
+Confidence Keseluruhan: 0.791
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 36 (waktu: 0.17s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.870
+Confidence OCR: 0.739
+Confidence Keseluruhan: 0.791
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 37 (waktu: 0.17s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.870
+Confidence OCR: 0.738
+Confidence Keseluruhan: 0.791
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 38 (waktu: 0.17s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.870
+Confidence OCR: 0.738
+Confidence Keseluruhan: 0.791
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 39 (waktu: 0.16s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.870
+Confidence OCR: 0.738
+Confidence Keseluruhan: 0.791
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 40 (waktu: 0.16s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.870
+Confidence OCR: 0.738
+Confidence Keseluruhan: 0.791
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 41 (waktu: 0.16s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G421
+Confidence Deteksi YOLO: 0.870
+Confidence OCR: 0.738
+Confidence Keseluruhan: 0.791
+Valid Format: Ya
+Bounding Box: (1032, 491, 1215, 565)
+============================================================
+
+============================================================
+Frame: 42 (waktu: 0.19s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.791
+Confidence Keseluruhan: 0.823
+Valid Format: Ya
+Bounding Box: (1030, 490, 1217, 566)
+============================================================
+
+============================================================
+Frame: 43 (waktu: 0.16s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.791
+Confidence Keseluruhan: 0.823
+Valid Format: Ya
+Bounding Box: (1030, 490, 1217, 566)
+============================================================
+
+============================================================
+Frame: 44 (waktu: 0.16s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.807
+Confidence Keseluruhan: 0.833
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 566)
+============================================================
+
+============================================================
+Frame: 45 (waktu: 0.16s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.810
+Confidence Keseluruhan: 0.835
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 566)
+============================================================
+
+============================================================
+Frame: 46 (waktu: 0.17s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.765
+Confidence Keseluruhan: 0.808
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 47 (waktu: 0.18s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.765
+Confidence Keseluruhan: 0.808
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 48 (waktu: 0.18s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA C431
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.807
+Confidence Keseluruhan: 0.833
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 49 (waktu: 0.16s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.803
+Confidence Keseluruhan: 0.831
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 566)
+============================================================
+
+============================================================
+Frame: 50 (waktu: 0.19s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA C431
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.807
+Confidence Keseluruhan: 0.833
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 51 (waktu: 0.18s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA C431
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.807
+Confidence Keseluruhan: 0.833
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 52 (waktu: 0.16s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.807
+Confidence Keseluruhan: 0.833
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 53 (waktu: 0.16s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.797
+Confidence Keseluruhan: 0.827
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 566)
+============================================================
+
+============================================================
+Frame: 54 (waktu: 0.19s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.797
+Confidence Keseluruhan: 0.827
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 566)
+============================================================
+
+============================================================
+Frame: 55 (waktu: 0.17s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.797
+Confidence Keseluruhan: 0.827
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 566)
+============================================================
+
+============================================================
+Frame: 56 (waktu: 0.17s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.797
+Confidence Keseluruhan: 0.827
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 566)
+============================================================
+
+============================================================
+Frame: 57 (waktu: 0.20s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.797
+Confidence Keseluruhan: 0.827
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 566)
+============================================================
+
+============================================================
+Frame: 58 (waktu: 0.18s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.750
+Confidence Keseluruhan: 0.799
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 59 (waktu: 0.19s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.807
+Confidence Keseluruhan: 0.834
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 60 (waktu: 0.17s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.801
+Confidence Keseluruhan: 0.829
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 566)
+============================================================
+
+============================================================
+Frame: 61 (waktu: 0.17s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.801
+Confidence Keseluruhan: 0.829
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 566)
+============================================================
+
+============================================================
+Frame: 62 (waktu: 0.22s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.793
+Confidence Keseluruhan: 0.825
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 566)
+============================================================
+
+============================================================
+Frame: 63 (waktu: 0.18s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.789
+Confidence Keseluruhan: 0.823
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 64 (waktu: 0.16s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.789
+Confidence Keseluruhan: 0.822
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 65 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.789
+Confidence Keseluruhan: 0.823
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 66 (waktu: 0.16s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.789
+Confidence Keseluruhan: 0.823
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 67 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.789
+Confidence Keseluruhan: 0.823
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 68 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.789
+Confidence Keseluruhan: 0.823
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 69 (waktu: 0.16s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.789
+Confidence Keseluruhan: 0.823
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 70 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.789
+Confidence Keseluruhan: 0.822
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 71 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.789
+Confidence Keseluruhan: 0.823
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 72 (waktu: 0.16s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.789
+Confidence Keseluruhan: 0.823
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 73 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.789
+Confidence Keseluruhan: 0.823
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 74 (waktu: 0.17s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.789
+Confidence Keseluruhan: 0.823
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 75 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.789
+Confidence Keseluruhan: 0.823
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 76 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.789
+Confidence Keseluruhan: 0.823
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 77 (waktu: 0.18s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.835
+Confidence Keseluruhan: 0.850
+Valid Format: Ya
+Bounding Box: (1030, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 78 (waktu: 0.24s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.789
+Confidence Keseluruhan: 0.823
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 79 (waktu: 0.20s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.835
+Confidence Keseluruhan: 0.850
+Valid Format: Ya
+Bounding Box: (1030, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 80 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.765
+Confidence Keseluruhan: 0.808
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 81 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.836
+Confidence Keseluruhan: 0.851
+Valid Format: Ya
+Bounding Box: (1030, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 82 (waktu: 0.16s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.836
+Confidence Keseluruhan: 0.851
+Valid Format: Ya
+Bounding Box: (1030, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 83 (waktu: 0.16s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.902
+Confidence Keseluruhan: 0.891
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 84 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.902
+Confidence Keseluruhan: 0.891
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 85 (waktu: 0.18s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.902
+Confidence Keseluruhan: 0.891
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 86 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA
+Confidence Deteksi YOLO: 0.875
+Confidence OCR: 0.904
+Confidence Keseluruhan: 0.893
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 87 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA
+Confidence Deteksi YOLO: 0.874
+Confidence OCR: 0.904
+Confidence Keseluruhan: 0.892
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 88 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA
+Confidence Deteksi YOLO: 0.874
+Confidence OCR: 0.904
+Confidence Keseluruhan: 0.892
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 89 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA
+Confidence Deteksi YOLO: 0.874
+Confidence OCR: 0.904
+Confidence Keseluruhan: 0.892
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 90 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA
+Confidence Deteksi YOLO: 0.874
+Confidence OCR: 0.904
+Confidence Keseluruhan: 0.892
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 91 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA
+Confidence Deteksi YOLO: 0.874
+Confidence OCR: 0.904
+Confidence Keseluruhan: 0.892
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 92 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA
+Confidence Deteksi YOLO: 0.874
+Confidence OCR: 0.904
+Confidence Keseluruhan: 0.892
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 93 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.904
+Confidence Keseluruhan: 0.891
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 94 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.904
+Confidence Keseluruhan: 0.891
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 95 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.904
+Confidence Keseluruhan: 0.891
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 96 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.904
+Confidence Keseluruhan: 0.891
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 97 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.904
+Confidence Keseluruhan: 0.891
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 98 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.904
+Confidence Keseluruhan: 0.891
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 99 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205AJA
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.991
+Confidence Keseluruhan: 0.944
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 100 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205AJA
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.991
+Confidence Keseluruhan: 0.944
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 101 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205AJA
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.991
+Confidence Keseluruhan: 0.944
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 102 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.904
+Confidence Keseluruhan: 0.892
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 103 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.904
+Confidence Keseluruhan: 0.892
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 104 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.904
+Confidence Keseluruhan: 0.892
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 105 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.904
+Confidence Keseluruhan: 0.892
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 106 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.904
+Confidence Keseluruhan: 0.892
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 107 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.904
+Confidence Keseluruhan: 0.891
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 108 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.904
+Confidence Keseluruhan: 0.892
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 109 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.904
+Confidence Keseluruhan: 0.892
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 110 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.905
+Confidence Keseluruhan: 0.892
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 111 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205AJA
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.992
+Confidence Keseluruhan: 0.944
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 112 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205AJA
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.992
+Confidence Keseluruhan: 0.944
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 113 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205AJA
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.992
+Confidence Keseluruhan: 0.944
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 114 (waktu: 0.16s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205AJA
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.992
+Confidence Keseluruhan: 0.944
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 115 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205AJA
+Confidence Deteksi YOLO: 0.871
+Confidence OCR: 0.992
+Confidence Keseluruhan: 0.944
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 116 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205AJA
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.992
+Confidence Keseluruhan: 0.944
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 117 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205AJA
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.992
+Confidence Keseluruhan: 0.944
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 118 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205AJA
+Confidence Deteksi YOLO: 0.871
+Confidence OCR: 0.992
+Confidence Keseluruhan: 0.944
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 119 (waktu: 0.21s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205AJA
+Confidence Deteksi YOLO: 0.871
+Confidence OCR: 0.992
+Confidence Keseluruhan: 0.944
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 120 (waktu: 0.19s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205AJA
+Confidence Deteksi YOLO: 0.871
+Confidence OCR: 0.992
+Confidence Keseluruhan: 0.944
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 121 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205AJA
+Confidence Deteksi YOLO: 0.871
+Confidence OCR: 0.992
+Confidence Keseluruhan: 0.944
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 122 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205AJA
+Confidence Deteksi YOLO: 0.871
+Confidence OCR: 0.992
+Confidence Keseluruhan: 0.944
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 123 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205AJA
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.992
+Confidence Keseluruhan: 0.944
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 124 (waktu: 0.17s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.880
+Confidence OCR: 0.909
+Confidence Keseluruhan: 0.898
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 125 (waktu: 0.17s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.880
+Confidence OCR: 0.909
+Confidence Keseluruhan: 0.898
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 126 (waktu: 0.18s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA 0431
+Confidence Deteksi YOLO: 0.881
+Confidence OCR: 0.912
+Confidence Keseluruhan: 0.900
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 127 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA 0431
+Confidence Deteksi YOLO: 0.880
+Confidence OCR: 0.913
+Confidence Keseluruhan: 0.900
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 128 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA 0431
+Confidence Deteksi YOLO: 0.880
+Confidence OCR: 0.913
+Confidence Keseluruhan: 0.900
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 129 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA 0431
+Confidence Deteksi YOLO: 0.880
+Confidence OCR: 0.913
+Confidence Keseluruhan: 0.900
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 130 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA 0431
+Confidence Deteksi YOLO: 0.880
+Confidence OCR: 0.913
+Confidence Keseluruhan: 0.900
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 131 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.880
+Confidence OCR: 0.931
+Confidence Keseluruhan: 0.911
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 132 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.880
+Confidence OCR: 0.930
+Confidence Keseluruhan: 0.910
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 133 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.881
+Confidence OCR: 0.930
+Confidence Keseluruhan: 0.911
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 134 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.880
+Confidence OCR: 0.933
+Confidence Keseluruhan: 0.912
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 135 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.880
+Confidence OCR: 0.933
+Confidence Keseluruhan: 0.912
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 136 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.880
+Confidence OCR: 0.933
+Confidence Keseluruhan: 0.912
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 137 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.880
+Confidence OCR: 0.933
+Confidence Keseluruhan: 0.912
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 138 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.880
+Confidence OCR: 0.933
+Confidence Keseluruhan: 0.912
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 139 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.880
+Confidence OCR: 0.933
+Confidence Keseluruhan: 0.912
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 140 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.880
+Confidence OCR: 0.933
+Confidence Keseluruhan: 0.912
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 141 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.880
+Confidence OCR: 0.933
+Confidence Keseluruhan: 0.912
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 142 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.880
+Confidence OCR: 0.933
+Confidence Keseluruhan: 0.912
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 143 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.880
+Confidence OCR: 0.933
+Confidence Keseluruhan: 0.912
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 144 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.880
+Confidence OCR: 0.933
+Confidence Keseluruhan: 0.911
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 145 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.880
+Confidence OCR: 0.939
+Confidence Keseluruhan: 0.915
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 146 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.880
+Confidence OCR: 0.939
+Confidence Keseluruhan: 0.915
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 147 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.880
+Confidence OCR: 0.854
+Confidence Keseluruhan: 0.864
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 148 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.880
+Confidence OCR: 0.854
+Confidence Keseluruhan: 0.864
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 149 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.880
+Confidence OCR: 0.815
+Confidence Keseluruhan: 0.841
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 150 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.881
+Confidence OCR: 0.855
+Confidence Keseluruhan: 0.865
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 151 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.881
+Confidence OCR: 0.855
+Confidence Keseluruhan: 0.865
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 152 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.881
+Confidence OCR: 0.855
+Confidence Keseluruhan: 0.865
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 153 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.881
+Confidence OCR: 0.855
+Confidence Keseluruhan: 0.865
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 154 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.880
+Confidence OCR: 0.855
+Confidence Keseluruhan: 0.865
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 155 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.881
+Confidence OCR: 0.857
+Confidence Keseluruhan: 0.867
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 156 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.880
+Confidence OCR: 0.857
+Confidence Keseluruhan: 0.866
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 157 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.880
+Confidence OCR: 0.857
+Confidence Keseluruhan: 0.866
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 158 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.880
+Confidence OCR: 0.845
+Confidence Keseluruhan: 0.859
+Valid Format: Ya
+Bounding Box: (1031, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 159 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.881
+Confidence OCR: 0.857
+Confidence Keseluruhan: 0.867
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 160 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.881
+Confidence OCR: 0.857
+Confidence Keseluruhan: 0.867
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 161 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.881
+Confidence OCR: 0.857
+Confidence Keseluruhan: 0.867
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 162 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.880
+Confidence OCR: 0.858
+Confidence Keseluruhan: 0.867
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 163 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.879
+Confidence OCR: 0.858
+Confidence Keseluruhan: 0.866
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 164 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA G431
+Confidence Deteksi YOLO: 0.880
+Confidence OCR: 0.901
+Confidence Keseluruhan: 0.893
+Valid Format: Ya
+Bounding Box: (1032, 490, 1217, 565)
+============================================================
+
+============================================================
+Frame: 165 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA 6431
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.829
+Confidence Keseluruhan: 0.848
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 166 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA 6431
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.829
+Confidence Keseluruhan: 0.848
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 167 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA 6431
+Confidence Deteksi YOLO: 0.876
+Confidence OCR: 0.829
+Confidence Keseluruhan: 0.848
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 168 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 6431
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.844
+Confidence Keseluruhan: 0.857
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 169 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.861
+Confidence Keseluruhan: 0.867
+Valid Format: Ya
+Bounding Box: (1031, 489, 1218, 565)
+============================================================
+
+============================================================
+Frame: 170 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.861
+Confidence Keseluruhan: 0.867
+Valid Format: Ya
+Bounding Box: (1031, 489, 1218, 565)
+============================================================
+
+============================================================
+Frame: 171 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA 6431
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.837
+Confidence Keseluruhan: 0.853
+Valid Format: Ya
+Bounding Box: (1031, 489, 1218, 565)
+============================================================
+
+============================================================
+Frame: 172 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.853
+Confidence Keseluruhan: 0.863
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 173 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA 6431
+Confidence Deteksi YOLO: 0.878
+Confidence OCR: 0.825
+Confidence Keseluruhan: 0.846
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 174 (waktu: 0.21s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G4-31
+Confidence Deteksi YOLO: 0.878
+Confidence OCR: 0.805
+Confidence Keseluruhan: 0.834
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 175 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G4-31
+Confidence Deteksi YOLO: 0.878
+Confidence OCR: 0.805
+Confidence Keseluruhan: 0.834
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 176 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.878
+Confidence OCR: 0.840
+Confidence Keseluruhan: 0.855
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 177 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.878
+Confidence OCR: 0.839
+Confidence Keseluruhan: 0.855
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 178 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.879
+Confidence OCR: 0.839
+Confidence Keseluruhan: 0.855
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 179 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.878
+Confidence OCR: 0.839
+Confidence Keseluruhan: 0.855
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 180 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.878
+Confidence OCR: 0.839
+Confidence Keseluruhan: 0.855
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 181 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.879
+Confidence OCR: 0.839
+Confidence Keseluruhan: 0.855
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 182 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA 6431
+Confidence Deteksi YOLO: 0.879
+Confidence OCR: 0.791
+Confidence Keseluruhan: 0.826
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 183 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA 6431
+Confidence Deteksi YOLO: 0.878
+Confidence OCR: 0.791
+Confidence Keseluruhan: 0.826
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 184 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA 6431
+Confidence Deteksi YOLO: 0.878
+Confidence OCR: 0.791
+Confidence Keseluruhan: 0.826
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 185 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA 6431
+Confidence Deteksi YOLO: 0.878
+Confidence OCR: 0.791
+Confidence Keseluruhan: 0.826
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 186 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA 6431
+Confidence Deteksi YOLO: 0.878
+Confidence OCR: 0.791
+Confidence Keseluruhan: 0.826
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 187 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA 6431
+Confidence Deteksi YOLO: 0.878
+Confidence OCR: 0.791
+Confidence Keseluruhan: 0.826
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 188 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.878
+Confidence OCR: 0.864
+Confidence Keseluruhan: 0.869
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 189 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.878
+Confidence OCR: 0.864
+Confidence Keseluruhan: 0.869
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 190 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.878
+Confidence OCR: 0.864
+Confidence Keseluruhan: 0.869
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 191 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA G431
+Confidence Deteksi YOLO: 0.878
+Confidence OCR: 0.864
+Confidence Keseluruhan: 0.869
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 192 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 6431
+Confidence Deteksi YOLO: 0.879
+Confidence OCR: 0.878
+Confidence Keseluruhan: 0.878
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 193 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 6431
+Confidence Deteksi YOLO: 0.878
+Confidence OCR: 0.878
+Confidence Keseluruhan: 0.878
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 194 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 6431
+Confidence Deteksi YOLO: 0.878
+Confidence OCR: 0.878
+Confidence Keseluruhan: 0.878
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 195 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 6431
+Confidence Deteksi YOLO: 0.878
+Confidence OCR: 0.878
+Confidence Keseluruhan: 0.878
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 196 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 6431
+Confidence Deteksi YOLO: 0.878
+Confidence OCR: 0.878
+Confidence Keseluruhan: 0.878
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 197 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 6431
+Confidence Deteksi YOLO: 0.878
+Confidence OCR: 0.878
+Confidence Keseluruhan: 0.878
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 198 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 6431
+Confidence Deteksi YOLO: 0.878
+Confidence OCR: 0.878
+Confidence Keseluruhan: 0.878
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 199 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 6431
+Confidence Deteksi YOLO: 0.878
+Confidence OCR: 0.878
+Confidence Keseluruhan: 0.878
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 200 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 6431
+Confidence Deteksi YOLO: 0.878
+Confidence OCR: 0.878
+Confidence Keseluruhan: 0.878
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 201 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 6431
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.878
+Confidence Keseluruhan: 0.878
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 202 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 6431
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.878
+Confidence Keseluruhan: 0.878
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 203 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 6431
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.878
+Confidence Keseluruhan: 0.878
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 204 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 6431
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.878
+Confidence Keseluruhan: 0.878
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 205 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 6431
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.878
+Confidence Keseluruhan: 0.878
+Valid Format: Ya
+Bounding Box: (1031, 490, 1218, 565)
+============================================================
+
+============================================================
+Frame: 206 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.855
+Confidence Keseluruhan: 0.862
+Valid Format: Ya
+Bounding Box: (1031, 491, 1217, 565)
+============================================================
+
+============================================================
+Frame: 207 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.855
+Confidence Keseluruhan: 0.862
+Valid Format: Ya
+Bounding Box: (1031, 491, 1217, 565)
+============================================================
+
+============================================================
+Frame: 208 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.855
+Confidence Keseluruhan: 0.862
+Valid Format: Ya
+Bounding Box: (1031, 491, 1217, 565)
+============================================================
+
+============================================================
+Frame: 209 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA 0431
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.884
+Confidence Keseluruhan: 0.879
+Valid Format: Ya
+Bounding Box: (1032, 491, 1217, 565)
+============================================================
+
+============================================================
+Frame: 210 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA 0431
+Confidence Deteksi YOLO: 0.872
+Confidence OCR: 0.891
+Confidence Keseluruhan: 0.883
+Valid Format: Ya
+Bounding Box: (1032, 491, 1217, 565)
+============================================================
+
+============================================================
+Frame: 211 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA 0431
+Confidence Deteksi YOLO: 0.871
+Confidence OCR: 0.891
+Confidence Keseluruhan: 0.883
+Valid Format: Ya
+Bounding Box: (1032, 491, 1217, 565)
+============================================================
+
+============================================================
+Frame: 212 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA 0431
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.891
+Confidence Keseluruhan: 0.884
+Valid Format: Ya
+Bounding Box: (1032, 491, 1217, 565)
+============================================================
+
+============================================================
+Frame: 213 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.856
+Confidence Keseluruhan: 0.863
+Valid Format: Ya
+Bounding Box: (1031, 491, 1217, 565)
+============================================================
+
+============================================================
+Frame: 214 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.856
+Confidence Keseluruhan: 0.863
+Valid Format: Ya
+Bounding Box: (1031, 491, 1217, 565)
+============================================================
+
+============================================================
+Frame: 215 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.856
+Confidence Keseluruhan: 0.863
+Valid Format: Ya
+Bounding Box: (1031, 491, 1217, 565)
+============================================================
+
+============================================================
+Frame: 216 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.843
+Confidence Keseluruhan: 0.855
+Valid Format: Ya
+Bounding Box: (1031, 491, 1217, 565)
+============================================================
+
+============================================================
+Frame: 217 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.843
+Confidence Keseluruhan: 0.855
+Valid Format: Ya
+Bounding Box: (1031, 491, 1217, 565)
+============================================================
+
+============================================================
+Frame: 218 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.843
+Confidence Keseluruhan: 0.855
+Valid Format: Ya
+Bounding Box: (1031, 491, 1217, 565)
+============================================================
+
+============================================================
+Frame: 219 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.843
+Confidence Keseluruhan: 0.855
+Valid Format: Ya
+Bounding Box: (1031, 491, 1217, 565)
+============================================================
+
+============================================================
+Frame: 220 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.873
+Confidence OCR: 0.843
+Confidence Keseluruhan: 0.855
+Valid Format: Ya
+Bounding Box: (1031, 491, 1217, 565)
+============================================================
+
+============================================================
+Frame: 221 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.874
+Confidence OCR: 0.843
+Confidence Keseluruhan: 0.856
+Valid Format: Ya
+Bounding Box: (1031, 491, 1217, 565)
+============================================================
+
+============================================================
+Frame: 222 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.874
+Confidence OCR: 0.843
+Confidence Keseluruhan: 0.856
+Valid Format: Ya
+Bounding Box: (1031, 491, 1217, 565)
+============================================================
+
+============================================================
+Frame: 223 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.874
+Confidence OCR: 0.843
+Confidence Keseluruhan: 0.855
+Valid Format: Ya
+Bounding Box: (1031, 491, 1217, 565)
+============================================================
+
+============================================================
+Frame: 224 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.874
+Confidence OCR: 0.843
+Confidence Keseluruhan: 0.856
+Valid Format: Ya
+Bounding Box: (1031, 491, 1217, 565)
+============================================================
+
+============================================================
+Frame: 225 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.874
+Confidence OCR: 0.843
+Confidence Keseluruhan: 0.856
+Valid Format: Ya
+Bounding Box: (1031, 491, 1217, 565)
+============================================================
+
+============================================================
+Frame: 226 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.875
+Confidence OCR: 0.843
+Confidence Keseluruhan: 0.856
+Valid Format: Ya
+Bounding Box: (1031, 491, 1217, 565)
+============================================================
+
+============================================================
+Frame: 227 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.875
+Confidence OCR: 0.843
+Confidence Keseluruhan: 0.856
+Valid Format: Ya
+Bounding Box: (1031, 491, 1217, 565)
+============================================================
+
+============================================================
+Frame: 228 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.875
+Confidence OCR: 0.843
+Confidence Keseluruhan: 0.856
+Valid Format: Ya
+Bounding Box: (1031, 491, 1217, 565)
+============================================================
+
+============================================================
+Frame: 229 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.875
+Confidence OCR: 0.843
+Confidence Keseluruhan: 0.856
+Valid Format: Ya
+Bounding Box: (1031, 491, 1217, 565)
+============================================================
+
+============================================================
+Frame: 230 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.875
+Confidence OCR: 0.843
+Confidence Keseluruhan: 0.856
+Valid Format: Ya
+Bounding Box: (1031, 491, 1217, 565)
+============================================================
+
+============================================================
+Frame: 231 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.875
+Confidence OCR: 0.882
+Confidence Keseluruhan: 0.879
+Valid Format: Ya
+Bounding Box: (1031, 491, 1216, 565)
+============================================================
+
+============================================================
+Frame: 232 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.876
+Confidence OCR: 0.883
+Confidence Keseluruhan: 0.880
+Valid Format: Ya
+Bounding Box: (1031, 491, 1216, 565)
+============================================================
+
+============================================================
+Frame: 233 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.875
+Confidence OCR: 0.883
+Confidence Keseluruhan: 0.880
+Valid Format: Ya
+Bounding Box: (1031, 491, 1216, 565)
+============================================================
+
+============================================================
+Frame: 234 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.875
+Confidence OCR: 0.883
+Confidence Keseluruhan: 0.880
+Valid Format: Ya
+Bounding Box: (1031, 491, 1216, 565)
+============================================================
+
+============================================================
+Frame: 235 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.875
+Confidence OCR: 0.883
+Confidence Keseluruhan: 0.880
+Valid Format: Ya
+Bounding Box: (1031, 491, 1216, 565)
+============================================================
+
+============================================================
+Frame: 236 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.876
+Confidence OCR: 0.883
+Confidence Keseluruhan: 0.880
+Valid Format: Ya
+Bounding Box: (1031, 491, 1216, 565)
+============================================================
+
+============================================================
+Frame: 237 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.876
+Confidence OCR: 0.883
+Confidence Keseluruhan: 0.880
+Valid Format: Ya
+Bounding Box: (1031, 491, 1216, 565)
+============================================================
+
+============================================================
+Frame: 238 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.876
+Confidence OCR: 0.883
+Confidence Keseluruhan: 0.880
+Valid Format: Ya
+Bounding Box: (1031, 491, 1216, 565)
+============================================================
+
+============================================================
+Frame: 239 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.876
+Confidence OCR: 0.883
+Confidence Keseluruhan: 0.880
+Valid Format: Ya
+Bounding Box: (1031, 491, 1216, 565)
+============================================================
+
+============================================================
+Frame: 240 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.876
+Confidence OCR: 0.883
+Confidence Keseluruhan: 0.880
+Valid Format: Ya
+Bounding Box: (1031, 491, 1216, 565)
+============================================================
+
+============================================================
+Frame: 241 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.876
+Confidence OCR: 0.883
+Confidence Keseluruhan: 0.880
+Valid Format: Ya
+Bounding Box: (1031, 491, 1216, 565)
+============================================================
+
+============================================================
+Frame: 242 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.876
+Confidence OCR: 0.883
+Confidence Keseluruhan: 0.880
+Valid Format: Ya
+Bounding Box: (1031, 491, 1216, 565)
+============================================================
+
+============================================================
+Frame: 243 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.876
+Confidence OCR: 0.868
+Confidence Keseluruhan: 0.872
+Valid Format: Ya
+Bounding Box: (1031, 491, 1216, 565)
+============================================================
+
+============================================================
+Frame: 244 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.876
+Confidence OCR: 0.868
+Confidence Keseluruhan: 0.872
+Valid Format: Ya
+Bounding Box: (1031, 491, 1216, 565)
+============================================================
+
+============================================================
+Frame: 245 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.876
+Confidence OCR: 0.872
+Confidence Keseluruhan: 0.874
+Valid Format: Ya
+Bounding Box: (1031, 491, 1216, 565)
+============================================================
+
+============================================================
+Frame: 246 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D1205 AJA 0431
+Confidence Deteksi YOLO: 0.876
+Confidence OCR: 0.872
+Confidence Keseluruhan: 0.874
+Valid Format: Ya
+Bounding Box: (1031, 491, 1216, 565)
+============================================================
+
+============================================================
+Frame: 247 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C43
+Confidence Deteksi YOLO: 0.876
+Confidence OCR: 0.804
+Confidence Keseluruhan: 0.833
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 248 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C43
+Confidence Deteksi YOLO: 0.876
+Confidence OCR: 0.804
+Confidence Keseluruhan: 0.833
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 249 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C43
+Confidence Deteksi YOLO: 0.875
+Confidence OCR: 0.804
+Confidence Keseluruhan: 0.833
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 250 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C4
+Confidence Deteksi YOLO: 0.876
+Confidence OCR: 0.814
+Confidence Keseluruhan: 0.839
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 251 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C4
+Confidence Deteksi YOLO: 0.876
+Confidence OCR: 0.814
+Confidence Keseluruhan: 0.839
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 252 (waktu: 0.13s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C4
+Confidence Deteksi YOLO: 0.876
+Confidence OCR: 0.814
+Confidence Keseluruhan: 0.839
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 253 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C4
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.814
+Confidence Keseluruhan: 0.840
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 254 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C4
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.814
+Confidence Keseluruhan: 0.840
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 255 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C4
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.814
+Confidence Keseluruhan: 0.839
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 256 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C4
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.814
+Confidence Keseluruhan: 0.840
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 257 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C4
+Confidence Deteksi YOLO: 0.876
+Confidence OCR: 0.814
+Confidence Keseluruhan: 0.839
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 258 (waktu: 0.16s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C4
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.814
+Confidence Keseluruhan: 0.839
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 259 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C4
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.814
+Confidence Keseluruhan: 0.839
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 260 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C4
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.810
+Confidence Keseluruhan: 0.836
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 261 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C4
+Confidence Deteksi YOLO: 0.876
+Confidence OCR: 0.809
+Confidence Keseluruhan: 0.836
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 262 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C4
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.806
+Confidence Keseluruhan: 0.834
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 263 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C4
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.812
+Confidence Keseluruhan: 0.838
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 264 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C4
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.812
+Confidence Keseluruhan: 0.838
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 265 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C4
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.812
+Confidence Keseluruhan: 0.838
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 266 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C4
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.813
+Confidence Keseluruhan: 0.839
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 267 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C4
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.813
+Confidence Keseluruhan: 0.839
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 268 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C4
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.813
+Confidence Keseluruhan: 0.839
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 269 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C4
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.813
+Confidence Keseluruhan: 0.839
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 270 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C4
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.808
+Confidence Keseluruhan: 0.836
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 271 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C4
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.808
+Confidence Keseluruhan: 0.836
+Valid Format: Ya
+Bounding Box: (1030, 489, 1216, 566)
+============================================================
+
+============================================================
+Frame: 272 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C431
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.835
+Confidence Keseluruhan: 0.852
+Valid Format: Ya
+Bounding Box: (1030, 489, 1215, 566)
+============================================================
+
+============================================================
+Frame: 273 (waktu: 0.17s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C431
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.835
+Confidence Keseluruhan: 0.852
+Valid Format: Ya
+Bounding Box: (1030, 489, 1215, 566)
+============================================================
+
+============================================================
+Frame: 274 (waktu: 0.18s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C431
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.835
+Confidence Keseluruhan: 0.852
+Valid Format: Ya
+Bounding Box: (1030, 489, 1215, 566)
+============================================================
+
+============================================================
+Frame: 275 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C431
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.835
+Confidence Keseluruhan: 0.852
+Valid Format: Ya
+Bounding Box: (1030, 489, 1215, 566)
+============================================================
+
+============================================================
+Frame: 276 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C431
+Confidence Deteksi YOLO: 0.877
+Confidence OCR: 0.836
+Confidence Keseluruhan: 0.852
+Valid Format: Ya
+Bounding Box: (1030, 489, 1215, 566)
+============================================================
+
+============================================================
+Frame: 277 (waktu: 0.14s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C431
+Confidence Deteksi YOLO: 0.878
+Confidence OCR: 0.836
+Confidence Keseluruhan: 0.852
+Valid Format: Ya
+Bounding Box: (1030, 489, 1215, 566)
+============================================================
+
+============================================================
+Frame: 278 (waktu: 0.19s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C431
+Confidence Deteksi YOLO: 0.878
+Confidence OCR: 0.836
+Confidence Keseluruhan: 0.852
+Valid Format: Ya
+Bounding Box: (1030, 489, 1215, 566)
+============================================================
+
+============================================================
+Frame: 279 (waktu: 0.22s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C431
+Confidence Deteksi YOLO: 0.878
+Confidence OCR: 0.906
+Confidence Keseluruhan: 0.895
+Valid Format: Ya
+Bounding Box: (1030, 489, 1215, 566)
+============================================================
+
+============================================================
+Frame: 280 (waktu: 0.20s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C431
+Confidence Deteksi YOLO: 0.878
+Confidence OCR: 0.906
+Confidence Keseluruhan: 0.895
+Valid Format: Ya
+Bounding Box: (1030, 489, 1215, 566)
+============================================================
+
+============================================================
+Frame: 281 (waktu: 0.15s)
+[ACCEPTED] Status: ACCEPTED
+Plat Nomor: D 1205 AJA
+Teks Mentah: D 1205 AJA C431
+Confidence Deteksi YOLO: 0.878
+Confidence OCR: 0.906
+Confidence Keseluruhan: 0.895
+Valid Format: Ya
+Bounding Box: (1030, 489, 1215, 566)
+============================================================
+
+
+============================================================
+RINGKASAN
+============================================================
+Total frame diproses : 281
+Total deteksi plat   : 281
+Total ACCEPTED       : 281
+Plat unik ditemukan  : D 1205 AJA
+============================================================

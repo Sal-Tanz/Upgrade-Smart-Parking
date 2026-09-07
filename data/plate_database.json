@@ -1,0 +1,32 @@
+{
+  "registered_plates": [
+    {
+      "plate": "T 1023 US",
+      "owner": "Wakil Dekan",
+      "vehicle": "Hyundai Stargazer",
+      "color": "Putih",
+      "active": true
+    },
+    {
+      "plate": "D 1205 AJA",
+      "owner": "Dosen Arsitek",
+      "vehicle": "Suzuki XL7",
+      "color": "Orange",
+      "active": true
+    },
+    {
+      "plate": "T 1292 TF",
+      "owner": "Mobil Fakultas",
+      "vehicle": "Toyota Avanza",
+      "color": "Silver",
+      "active": true
+    },
+    {
+      "plate": "D 1279 AAD",
+      "owner": "Wakil Dekan",
+      "vehicle": "Sedan",
+      "color": "Hitam",
+      "active": true
+    }
+  ]
+}

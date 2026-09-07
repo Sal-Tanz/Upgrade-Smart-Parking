@@ -1,0 +1,8 @@
+
+path: /home/x/dev/project/Machine-Learning-Parking/ml/training/ml/data/license_plates
+train: train/images/plates
+val: val/images/plates
+test: test/images/plates
+
+names:
+  0: plate

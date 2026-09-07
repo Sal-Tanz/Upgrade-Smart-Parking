@@ -25,7 +25,7 @@
     "react-dropzone": "^15.0.0",
     "react-hook-form": "^7.79.0",
     "react-image-crop": "^11.0.10",
-    "react-konva": "^19.2.5",
+    "react-konva": "^18.2.10",
     "shadcn": "^4.11.0",
     "tailwind-merge": "^2.6.1",
     "tailwindcss-animate": "^1.0.7",

@@ -38,6 +38,20 @@ async def get_slot(slot_id: str):
     return {"slot_id": slot_id, "cluster": slot["cluster"], "status": slot["status"]}
 
 
+@router.put("/slots/{slot_id}")
+async def update_slot(slot_id: str, status: str = Query(...)):
+    """Update a specific slot status."""
+    norm_status = "kosong" if status in ("kosong", "available") else "terisi" if status in ("terisi", "occupied") else status
+    if not parking_svc.get_slot(slot_id):
+        raise HTTPException(status_code=404, detail="Slot not found")
+    success = parking_svc.update_status(slot_id, norm_status)
+    if not success:
+        raise HTTPException(status_code=400, detail=f"Invalid slot status: {status}")
+    slot = parking_svc.get_slot(slot_id)
+    return {"slot_id": slot_id, "cluster": slot["cluster"], "status": slot["status"]}
+
+
+
 @router.post("/validate-plate")
 async def validate_plate(
     plate_text: str = Query(...),

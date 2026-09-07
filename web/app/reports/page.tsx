@@ -8,6 +8,7 @@ import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { format } from "date-fns";
 import { TrendingUp, Clock, CheckCircle, Calendar } from "lucide-react";
+import { DashboardShell } from "@/components/layout/dashboard-shell";
 
 export default function ReportsPage() {
   const [records, setRecords] = useState<AttendanceRecord[]>([]);
@@ -43,19 +44,37 @@ export default function ReportsPage() {
 
   // Calculate statistics
   const totalRecords = records.length;
-  const onTimeRecords = records.filter(r => r.status === "completed").length;
+  const onTimeRecords = records.filter(
+    (r) => r.arrival_status === "TEPAT_WAKTU" || r.status === "completed" || r.departure_status === "TEPAT_WAKTU"
+  ).length;
   const onTimeRate = totalRecords > 0 ? ((onTimeRecords / totalRecords) * 100).toFixed(1) : "0.0";
-  const totalDuration = records.reduce((sum, r) => sum + (r.duration_minutes || 0), 0);
+  const totalDuration = records.reduce(
+    (sum, r) => sum + (r.duration_minutes || r.parking_duration_minutes || 0),
+    0
+  );
   const avgDuration = totalRecords > 0 ? Math.round(totalDuration / totalRecords) : 0;
 
   // Group records by date for trend analysis
   const recordsByDate = records.reduce((acc, record) => {
-    const date = format(new Date(record.entry_time), "yyyy-MM-dd");
+    const entryDate = record.entry_time || record.arrival_time;
+    let date = record.date;
+    if (!date && entryDate) {
+      try {
+        date = format(new Date(entryDate), "yyyy-MM-dd");
+      } catch {
+        date = "Unknown";
+      }
+    }
+    date = date || "Unknown";
     if (!acc[date]) {
       acc[date] = { total: 0, onTime: 0 };
     }
     acc[date].total++;
-    if (record.status === "completed") {
+    const isCompleted =
+      record.status === "completed" ||
+      record.arrival_status === "TEPAT_WAKTU" ||
+      record.departure_status === "TEPAT_WAKTU";
+    if (isCompleted) {
       acc[date].onTime++;
     }
     return acc;
@@ -86,40 +105,41 @@ export default function ReportsPage() {
 
   if (loading) {
     return (
-      <div className="flex items-center justify-center h-full">
-        <div className="text-center">
-          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-accent mx-auto"></div>
-          <p className="mt-4 text-muted-foreground">Loading reports...</p>
+      <DashboardShell title="Attendance Reports" subtitle="Analyze attendance patterns and trends">
+        <div className="flex items-center justify-center min-h-[400px]">
+          <div className="text-center">
+            <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-accent mx-auto"></div>
+            <p className="mt-4 text-muted-foreground">Loading reports...</p>
+          </div>
         </div>
-      </div>
+      </DashboardShell>
     );
   }
 
   if (error) {
     return (
-      <div className="p-6">
+      <DashboardShell title="Attendance Reports" subtitle="Analyze attendance patterns and trends">
         <Card className="p-6 bg-red-500/10 border-red-500/30">
           <p className="text-red-400">{error}</p>
           <Button onClick={fetchRecords} className="mt-4" variant="outline">
             Retry
           </Button>
         </Card>
-      </div>
+      </DashboardShell>
     );
   }
 
   return (
-    <div className="p-6 space-y-6">
-      {/* Header */}
-      <div className="flex items-center justify-between">
-        <div>
-          <h1 className="text-3xl font-bold text-foreground">Attendance Reports</h1>
-          <p className="text-muted-foreground mt-1">Analyze attendance patterns and trends</p>
+    <DashboardShell
+      title="Attendance Reports"
+      subtitle="Analyze attendance patterns and trends"
+    >
+      <div className="space-y-6">
+        <div className="flex items-center justify-end">
+          <Button onClick={exportToCSV} variant="outline">
+            Export CSV
+          </Button>
         </div>
-        <Button onClick={exportToCSV} variant="outline">
-          Export CSV
-        </Button>
-      </div>
 
       {/* Filters */}
       <Card className="p-4">
@@ -215,7 +235,13 @@ export default function ReportsPage() {
               return (
                 <div key={date} className="flex items-center gap-3">
                   <div className="w-24 text-sm text-muted-foreground">
-                    {format(new Date(date), "MMM dd")}
+                    {(() => {
+                      try {
+                        return format(new Date(date), "MMM dd");
+                      } catch {
+                        return date;
+                      }
+                    })()}
                   </div>
                   <div className="flex-1 bg-muted rounded-full h-8 overflow-hidden">
                     <div
@@ -253,20 +279,23 @@ export default function ReportsPage() {
               </tr>
             </thead>
             <tbody className="divide-y divide-border">
-              {records.slice(0, 20).map(record => (
-                <tr key={record.id} className="hover:bg-muted/30">
-                  <td className="px-4 py-3 text-sm font-mono text-foreground">
-                    {record.plate_number}
-                  </td>
-                  <td className="px-4 py-3 text-sm text-foreground">
-                    {format(new Date(record.entry_time), "MMM dd, HH:mm")}
-                  </td>
-                  <td className="px-4 py-3 text-sm text-foreground">
-                    {record.exit_time ? format(new Date(record.exit_time), "MMM dd, HH:mm") : "-"}
-                  </td>
-                  <td className="px-4 py-3 text-sm text-foreground">
-                    {record.duration_minutes ? `${record.duration_minutes} min` : "-"}
-                  </td>
+              {records.slice(0, 20).map(record => {
+                const entryDate = record.entry_time || record.arrival_time;
+                const exitDate = record.exit_time || record.departure_time;
+                return (
+                  <tr key={record.id} className="hover:bg-muted/30">
+                    <td className="px-4 py-3 text-sm font-mono text-foreground">
+                      {record.plate_number || "-"}
+                    </td>
+                    <td className="px-4 py-3 text-sm text-foreground">
+                      {entryDate ? format(new Date(entryDate), "MMM dd, HH:mm") : "-"}
+                    </td>
+                    <td className="px-4 py-3 text-sm text-foreground">
+                      {exitDate ? format(new Date(exitDate), "MMM dd, HH:mm") : "-"}
+                    </td>
+                    <td className="px-4 py-3 text-sm text-foreground">
+                      {record.duration_minutes ? `${record.duration_minutes} min` : "-"}
+                    </td>
                   <td className="px-4 py-3 text-sm text-foreground">
                     {record.slot_id || "-"}
                   </td>
@@ -280,8 +309,9 @@ export default function ReportsPage() {
                     </span>
                   </td>
                 </tr>
-              ))}
-            </tbody>
+              );
+            })}
+          </tbody>
           </table>
           {records.length > 20 && (
             <p className="text-center text-sm text-muted-foreground mt-4">
@@ -291,5 +321,7 @@ export default function ReportsPage() {
         </div>
       </Card>
     </div>
-  );
+  </DashboardShell>
+);
 }
+

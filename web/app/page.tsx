@@ -40,8 +40,25 @@ export default function DashboardPage() {
   const { connectionStatus } = useWebSocket({
     url: wsUrl,
     onMessage: (data) => {
-      if (data?.id && data?.event_type) {
-        setEvents(prev => [data as ParkingEvent, ...prev].slice(0, 50));
+      const eventType = data?.event_type || data?.type;
+      if (data && eventType) {
+        const normalized: ParkingEvent = {
+          id: data.id || Date.now(),
+          event_type: eventType,
+          type: eventType,
+          plat: data.plat || data.plate_number || data.plate || "",
+          plate_number: data.plate_number || data.plat || data.plate || "",
+          slot_id: data.slot_id,
+          cluster: data.cluster,
+          jabatan: data.jabatan,
+          reason: data.reason || data.validation_result || `Event ${eventType}`,
+          validation_result: data.validation_result || data.reason || "",
+          buzzer_pattern: data.buzzer_pattern || data.buzzer || "",
+          created_at: data.created_at || data.timestamp || new Date().toISOString(),
+          timestamp: data.timestamp || data.created_at || new Date().toISOString(),
+          is_valid: data.is_valid ?? (eventType !== "VIOLATION" && data.validation_result !== "REJECTED"),
+        };
+        setEvents(prev => [normalized, ...prev].slice(0, 50));
       }
     },
   });

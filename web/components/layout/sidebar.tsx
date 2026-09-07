@@ -9,6 +9,7 @@ import {
   ParkingSquare,
   Calendar,
   Bell,
+  BarChart3,
   LogOut,
 } from "lucide-react";
 import { cn } from "@/lib/utils";
@@ -18,6 +19,7 @@ const navigation = [
   { name: "Vehicles", href: "/vehicles", icon: Car },
   { name: "Events", href: "/events", icon: Bell },
   { name: "Attendance", href: "/attendance", icon: Calendar },
+  { name: "Reports", href: "/reports", icon: BarChart3 },
 ];
 
 export function Sidebar() {

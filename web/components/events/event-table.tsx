@@ -52,9 +52,11 @@ export function EventTable() {
   }
 
   const filteredEvents = events.filter((event) => {
+    const plateStr = (event.plat || event.plate_number || "").toLowerCase();
+    const slotStr = (event.slot_id || "").toLowerCase();
     const matchesSearch =
-      event.plat?.toLowerCase().includes(searchTerm.toLowerCase()) ||
-      event.slot_id?.toLowerCase().includes(searchTerm.toLowerCase());
+      plateStr.includes(searchTerm.toLowerCase()) ||
+      slotStr.includes(searchTerm.toLowerCase());
     const matchesFilter = filterType === "all" || event.event_type === filterType;
     return matchesSearch && matchesFilter;
   });
@@ -126,15 +128,17 @@ export function EventTable() {
                 </td>
               </tr>
             ) : (
-              filteredEvents.map((event) => (
-                <tr key={event.id} className="hover:bg-muted/50">
-                  <td className="px-4 py-3 text-sm">
-                    {format(new Date(event.timestamp), "dd/MM/yyyy HH:mm")}
-                  </td>
-                  <td className="px-4 py-3 font-mono text-sm">
-                    {event.plat || "-"}
-                  </td>
-                  <td className="px-4 py-3 text-sm">
+              filteredEvents.map((event) => {
+                const eventTime = event.timestamp || event.created_at;
+                return (
+                  <tr key={event.id} className="hover:bg-muted/50">
+                    <td className="px-4 py-3 text-sm">
+                      {eventTime ? format(new Date(eventTime), "dd/MM/yyyy HH:mm") : "-"}
+                    </td>
+                    <td className="px-4 py-3 font-mono text-sm">
+                      {event.plat || event.plate_number || "-"}
+                    </td>
+                    <td className="px-4 py-3 text-sm">
                     <Badge
                       variant={
                         event.event_type === "VALID"
@@ -175,8 +179,9 @@ export function EventTable() {
                     )}
                   </td>
                 </tr>
-              ))
-            )}
+              );
+            })
+          )}
           </tbody>
         </table>
       </div>

@@ -33,9 +33,11 @@ export function AttendanceTable() {
     }
   }
 
-  const filteredRecords = records.filter((record) =>
-    record.plate_number.toLowerCase().includes(searchTerm.toLowerCase())
-  );
+  const filteredRecords = records.filter((record) => {
+    const plateStr = (record.plate_number || record.plate || "").toLowerCase();
+    const query = (searchTerm || "").toLowerCase();
+    return plateStr.includes(query);
+  });
 
   if (loading) {
     return <div className="p-6">Loading attendance records...</div>;
@@ -78,38 +80,40 @@ export function AttendanceTable() {
                 </td>
               </tr>
             ) : (
-              filteredRecords.map((record) => (
-                <tr key={record.id} className="hover:bg-muted/50">
-                  <td className="px-4 py-3 font-mono text-sm">
-                    {record.plate_number}
-                  </td>
-                  <td className="px-4 py-3 text-sm">
-                    {format(new Date(record.entry_time), "dd/MM/yyyy HH:mm")}
-                  </td>
-                  <td className="px-4 py-3 text-sm">
-                    {record.exit_time
-                      ? format(new Date(record.exit_time), "dd/MM/yyyy HH:mm")
-                      : "-"}
-                  </td>
-                  <td className="px-4 py-3 text-sm">
-                    {record.duration_minutes
-                      ? `${record.duration_minutes} min`
-                      : "-"}
-                  </td>
-                  <td className="px-4 py-3 text-sm">{record.slot_id || "-"}</td>
-                  <td className="px-4 py-3 text-sm">
-                    <span
-                      className={`rounded-full px-2 py-1 text-xs ${
-                        record.status === "completed"
-                          ? "bg-green-500/20 text-green-400"
-                          : "bg-blue-500/20 text-blue-400"
-                      }`}
-                    >
-                      {record.status}
-                    </span>
-                  </td>
-                </tr>
-              ))
+              filteredRecords.map((record) => {
+                const entryDate = record.entry_time || record.arrival_time;
+                const exitDate = record.exit_time || record.departure_time;
+                return (
+                  <tr key={record.id} className="hover:bg-muted/50">
+                    <td className="px-4 py-3 font-mono text-sm">
+                      {record.plate_number || record.plate || "-"}
+                    </td>
+                    <td className="px-4 py-3 text-sm">
+                      {entryDate ? format(new Date(entryDate), "dd/MM/yyyy HH:mm") : "-"}
+                    </td>
+                    <td className="px-4 py-3 text-sm">
+                      {exitDate ? format(new Date(exitDate), "dd/MM/yyyy HH:mm") : "-"}
+                    </td>
+                    <td className="px-4 py-3 text-sm">
+                      {record.duration_minutes
+                        ? `${record.duration_minutes} min`
+                        : "-"}
+                    </td>
+                    <td className="px-4 py-3 text-sm">{record.slot_id || "-"}</td>
+                    <td className="px-4 py-3 text-sm">
+                      <span
+                        className={`rounded-full px-2 py-1 text-xs ${
+                          record.status === "completed"
+                            ? "bg-green-500/20 text-green-400"
+                            : "bg-blue-500/20 text-blue-400"
+                        }`}
+                      >
+                        {record.status || "active"}
+                      </span>
+                    </td>
+                  </tr>
+                );
+              })
             )}
           </tbody>
         </table>

@@ -53,8 +53,8 @@ export function EventList({ events, maxItems = 50 }: EventListProps) {
                 </div>
 
                 <div className="text-sm text-foreground mb-1">
-                  {event.plat && (
-                    <span className="font-mono font-semibold">{event.plat}</span>
+                  {(event.plat || event.plate_number) && (
+                    <span className="font-mono font-semibold">{event.plat || event.plate_number}</span>
                   )}
                   {event.jabatan && (
                     <span className="ml-2 text-muted-foreground">
@@ -63,7 +63,7 @@ export function EventList({ events, maxItems = 50 }: EventListProps) {
                   )}
                 </div>
 
-                <div className="text-xs text-muted-foreground">{event.reason}</div>
+                <div className="text-xs text-muted-foreground">{event.reason || event.validation_result}</div>
 
                 {(event.expected_cluster || event.actual_cluster) && (
                   <div className="mt-2 text-xs text-muted-foreground">
@@ -78,10 +78,12 @@ export function EventList({ events, maxItems = 50 }: EventListProps) {
               </div>
 
               <div className="text-xs text-muted-foreground whitespace-nowrap">
-                {new Date(event.created_at).toLocaleTimeString('id-ID', {
-                  hour: '2-digit',
-                  minute: '2-digit',
-                })}
+                {(event.created_at || event.timestamp)
+                  ? new Date(event.created_at || event.timestamp || "").toLocaleTimeString('id-ID', {
+                      hour: '2-digit',
+                      minute: '2-digit',
+                    })
+                  : '-'}
               </div>
             </div>
           </div>

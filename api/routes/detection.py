@@ -28,8 +28,15 @@ _pipeline: ALPRPipeline | None = None
 def _get_pipeline() -> ALPRPipeline:
     global _pipeline
     if _pipeline is None:
-        _pipeline = ALPRPipeline()
+        try:
+            _pipeline = ALPRPipeline()
+        except ImportError as exc:
+            raise HTTPException(
+                status_code=503,
+                detail=f"OCR engine belum terpasang di server: {exc}",
+            ) from exc
     return _pipeline
+
 
 
 vehicle_svc = VehicleService()

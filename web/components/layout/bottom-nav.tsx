@@ -12,12 +12,14 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { cn } from "@/lib/utils";
-import { LayoutDashboard, Car, Bell, Plus } from "lucide-react";
+import { LayoutDashboard, Car, Bell, Calendar, BarChart3, Plus } from "lucide-react";
 
 const mobileNavItems = [
   { name: "Home", href: "/", icon: LayoutDashboard },
   { name: "Vehicles", href: "/vehicles", icon: Car },
   { name: "Events", href: "/events", icon: Bell },
+  { name: "Attendance", href: "/attendance", icon: Calendar },
+  { name: "Reports", href: "/reports", icon: BarChart3 },
 ];
 
 export function BottomNav() {

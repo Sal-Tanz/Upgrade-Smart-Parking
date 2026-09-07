@@ -41,6 +41,12 @@ export function VehicleTable() {
     formState: { errors, isSubmitting },
   } = useForm<VehicleFormData>({
     resolver: zodResolver(vehicleSchema),
+    defaultValues: {
+      plat: "",
+      owner: "",
+      role: "S",
+      status: "active",
+    },
   });
 
   useEffect(() => {
@@ -53,7 +59,7 @@ export function VehicleTable() {
       setError(null);
       const response = await vehicleApi.getAll();
       if (response.success && response.data) {
-        setVehicles(response.data.vehicles);
+        setVehicles(Array.isArray(response.data) ? response.data : (response.data as any).vehicles || []);
       } else {
         setError("Failed to load vehicles");
       }
@@ -101,10 +107,11 @@ export function VehicleTable() {
 
   function handleEdit(vehicle: Vehicle) {
     setEditingVehicle(vehicle);
-    setValue("plat", vehicle.plat);
-    setValue("owner", vehicle.owner);
-    setValue("role", vehicle.role);
-    setValue("status", vehicle.status);
+    setValue("plat", vehicle.plat || vehicle.plate || "");
+    setValue("owner", vehicle.nama_pemilik || vehicle.owner || "");
+    setValue("role", (vehicle.jabatan || vehicle.role || "S") as "D" | "W" | "S");
+    const currentStatus = vehicle.status === "active" || vehicle.aktif ? "active" : "inactive";
+    setValue("status", currentStatus);
     setDialogOpen(true);
   }
 
@@ -114,11 +121,12 @@ export function VehicleTable() {
     setDialogOpen(true);
   }
 
-  const filteredVehicles = vehicles.filter(
-    (v) =>
-      v.plat.toLowerCase().includes(searchTerm.toLowerCase()) ||
-      v.owner.toLowerCase().includes(searchTerm.toLowerCase())
-  );
+  const filteredVehicles = vehicles.filter((v) => {
+    const plateStr = (v.plat || v.plate || "").toLowerCase();
+    const ownerStr = (v.nama_pemilik || v.owner || "").toLowerCase();
+    const query = (searchTerm || "").toLowerCase();
+    return plateStr.includes(query) || ownerStr.includes(query);
+  });
 
   if (loading) {
     return <div className="p-6">Loading vehicles...</div>;
@@ -142,12 +150,14 @@ export function VehicleTable() {
           className="max-w-sm"
         />
         <Dialog open={dialogOpen} onOpenChange={setDialogOpen}>
-          <DialogTrigger asChild>
-            <Button onClick={handleAdd}>
-              <Plus className="mr-2 h-4 w-4" />
-              Add Vehicle
-            </Button>
-          </DialogTrigger>
+          <DialogTrigger
+            render={
+              <Button onClick={handleAdd}>
+                <Plus className="mr-2 h-4 w-4" />
+                Add Vehicle
+              </Button>
+            }
+          />
           <DialogContent>
             <DialogHeader>
               <DialogTitle>
@@ -263,23 +273,28 @@ export function VehicleTable() {
                 </td>
               </tr>
             ) : (
-              filteredVehicles.map((vehicle) => (
-                <tr key={vehicle.plat} className="hover:bg-muted/50">
-                  <td className="px-4 py-3 font-mono text-sm">{vehicle.plat}</td>
-                  <td className="px-4 py-3 text-sm">{vehicle.owner}</td>
-                  <td className="px-4 py-3 text-sm">{vehicle.role}</td>
-                  <td className="px-4 py-3 text-sm">
-                    <span
-                      className={`rounded-full px-2 py-1 text-xs ${
-                        vehicle.status === "active"
-                          ? "bg-green-500/20 text-green-400"
-                          : "bg-red-500/20 text-red-400"
-                      }`}
-                    >
-                      {vehicle.status}
-                    </span>
-                  </td>
-                  <td className="px-4 py-3">
+              filteredVehicles.map((vehicle) => {
+                const ownerName = vehicle.nama_pemilik || vehicle.owner || "-";
+                const roleName = vehicle.jabatan || vehicle.role || "-";
+                const isActive = vehicle.aktif ?? (vehicle.status === "active" || vehicle.status === "aktif");
+                const statusDisplay = isActive ? "Active" : "Inactive";
+                return (
+                  <tr key={vehicle.plat} className="hover:bg-muted/50">
+                    <td className="px-4 py-3 font-mono text-sm">{vehicle.plat}</td>
+                    <td className="px-4 py-3 text-sm">{ownerName}</td>
+                    <td className="px-4 py-3 text-sm">{roleName}</td>
+                    <td className="px-4 py-3 text-sm">
+                      <span
+                        className={`rounded-full px-2 py-1 text-xs ${
+                          isActive
+                            ? "bg-green-500/20 text-green-400"
+                            : "bg-red-500/20 text-red-400"
+                        }`}
+                      >
+                        {statusDisplay}
+                      </span>
+                    </td>
+                    <td className="px-4 py-3">
                     <div className="flex gap-2">
                       <Button
                         variant="ghost"
@@ -299,8 +314,9 @@ export function VehicleTable() {
                     </div>
                   </td>
                 </tr>
-              ))
-            )}
+              );
+            })
+          )}
           </tbody>
         </table>
       </div>

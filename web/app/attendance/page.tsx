@@ -1,15 +1,15 @@
 import { AttendanceTable } from "@/components/attendance/attendance-table";
+import { DashboardShell } from "@/components/layout/dashboard-shell";
 
 export default function AttendancePage() {
   return (
-    <div className="space-y-6">
-      <div>
-        <h1 className="text-3xl font-bold tracking-tight">Attendance</h1>
-        <p className="text-muted-foreground">
-          View parking attendance records and duration
-        </p>
+    <DashboardShell
+      title="Attendance"
+      subtitle="View parking attendance records and duration"
+    >
+      <div className="space-y-6">
+        <AttendanceTable />
       </div>
-      <AttendanceTable />
-    </div>
+    </DashboardShell>
   );
 }

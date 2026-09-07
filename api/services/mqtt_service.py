@@ -74,13 +74,15 @@ class MQTTService:
             self.connected = False
             logger.error(f"Failed to connect to MQTT broker. Return code: {rc}")
 
-    def _on_disconnect(self, client, userdata, rc, properties=None):
+    def _on_disconnect(self, client, userdata, *args, **kwargs):
         """Callback ketika terputus dari MQTT broker."""
         self.connected = False
+        rc = args[1] if len(args) > 1 else (args[0] if args else 0)
         if rc != 0:
-            logger.warning(f"Unexpected disconnection from MQTT broker. Return code: {rc}")
+            logger.warning(f"Unexpected disconnection from MQTT broker. Return code/reason: {rc}")
         else:
             logger.info("Disconnected from MQTT broker")
+
 
     def _on_message(self, client, userdata, msg):
         """Callback ketika menerima pesan dari subscribed topic."""

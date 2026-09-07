@@ -7,6 +7,7 @@ import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Upload, FileArchive, CheckCircle } from "lucide-react";
 import { detectionApi } from "@/lib/api/client";
+import { DashboardShell } from "@/components/layout/dashboard-shell";
 
 export default function BatchUploadPage() {
   const [files, setFiles] = useState<File[]>([]);
@@ -76,63 +77,68 @@ export default function BatchUploadPage() {
   };
 
   return (
-    <div className="space-y-6">
-      <Card className="p-6">
-        <h2 className="text-lg font-semibold text-foreground mb-4">Batch Upload Plat Nomor</h2>
+    <DashboardShell
+      title="Batch Upload"
+      subtitle="Upload and process multiple vehicle license plate images"
+    >
+      <div className="space-y-6">
+        <Card className="p-6">
+          <h2 className="text-lg font-semibold text-foreground mb-4">Batch Upload Plat Nomor</h2>
 
-        <div
-          {...getRootProps()}
-          className={`border-2 border-dashed rounded-lg p-8 text-center transition-colors cursor-pointer ${
-            isDragActive ? "border-accent bg-accent/10" : "border-border hover:border-accent/50"
-          }`}
-        >
-          <input {...getInputProps()} />
-          <div className="flex flex-col items-center gap-2">
-            {files.length > 0 ? (
-              <>
-                <FileArchive className="h-10 w-10 text-accent" />
-                <p className="text-sm text-foreground">{files.length} file(s) selected</p>
-              </>
-            ) : (
-              <>
-                <Upload className="h-10 w-10 text-muted-foreground" />
-                <p className="text-sm text-muted-foreground">
-                  Drag & drop images or ZIP files here, or click to select
-                </p>
-                <p className="text-xs text-muted-foreground">
-                  PNG, JPG, ZIP up to 100MB (max 50 files)
-                </p>
-              </>
-            )}
+          <div
+            {...getRootProps()}
+            className={`border-2 border-dashed rounded-lg p-8 text-center transition-colors cursor-pointer ${
+              isDragActive ? "border-accent bg-accent/10" : "border-border hover:border-accent/50"
+            }`}
+          >
+            <input {...getInputProps()} />
+            <div className="flex flex-col items-center gap-2">
+              {files.length > 0 ? (
+                <>
+                  <FileArchive className="h-10 w-10 text-accent" />
+                  <p className="text-sm text-foreground">{files.length} file(s) selected</p>
+                </>
+              ) : (
+                <>
+                  <Upload className="h-10 w-10 text-muted-foreground" />
+                  <p className="text-sm text-muted-foreground">
+                    Drag & drop images or ZIP files here, or click to select
+                  </p>
+                  <p className="text-xs text-muted-foreground">
+                    PNG, JPG, ZIP up to 100MB (max 50 files)
+                  </p>
+                </>
+              )}
+            </div>
           </div>
-        </div>
 
-        {files.length > 0 && (
-          <div className="mt-4 space-y-2">
-            <div className="text-sm text-muted-foreground">Files to process:</div>
-            <ul className="text-xs text-muted-foreground space-y-1 max-h-40 overflow-y-auto">
-              {files.map((file, i) => (
-                <li key={i}>• {file.name} ({(file.size / 1024 / 1024).toFixed(2)} MB)</li>
-              ))}
-            </ul>
-          </div>
-        )}
+          {files.length > 0 && (
+            <div className="mt-4 space-y-2">
+              <div className="text-sm text-muted-foreground">Files to process:</div>
+              <ul className="text-xs text-muted-foreground space-y-1 max-h-40 overflow-y-auto">
+                {files.map((file, i) => (
+                  <li key={i}>• {file.name} ({(file.size / 1024 / 1024).toFixed(2)} MB)</li>
+                ))}
+              </ul>
+            </div>
+          )}
 
-        {files.length > 0 && (
-          <div className="mt-4">
-            <Button onClick={handleProcess} disabled={processing}>
-              {processing ? "Processing..." : "Process All Files"}
-            </Button>
-          </div>
-        )}
+          {files.length > 0 && (
+            <div className="mt-4">
+              <Button onClick={handleProcess} disabled={processing}>
+                {processing ? "Processing..." : "Process All Files"}
+              </Button>
+            </div>
+          )}
 
-        {results && (
-          <div className="mt-4 flex items-center gap-2 text-sm text-status-available">
-            <CheckCircle className="h-4 w-4" />
-            Processed: {results.success} successful, {results.failed} failed
-          </div>
-        )}
-      </Card>
-    </div>
+          {results && (
+            <div className="mt-4 flex items-center gap-2 text-sm text-status-available">
+              <CheckCircle className="h-4 w-4" />
+              Processed: {results.success} successful, {results.failed} failed
+            </div>
+          )}
+        </Card>
+      </div>
+    </DashboardShell>
   );
 }

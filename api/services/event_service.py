@@ -42,11 +42,19 @@ class EventService:
         await event_bus.publish({
             "id": event.id,
             "type": event.event_type,
+            "event_type": event.event_type,
             "plate": event.plate_number,
+            "plate_number": event.plate_number,
             "slot_id": event.slot_id,
             "cluster": event.cluster,
+            "jabatan": event.jabatan,
+            "reason": event.validation_result or event.event_type,
+            "validation_result": event.validation_result,
             "timestamp": event.created_at.isoformat(),
+            "created_at": event.created_at.isoformat(),
             "buzzer": event.buzzer_pattern,
+            "buzzer_pattern": event.buzzer_pattern,
+            "is_valid": event.validation_result != "REJECTED" and event.event_type != "VIOLATION",
         })
 
         return event

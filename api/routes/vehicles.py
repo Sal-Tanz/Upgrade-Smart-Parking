@@ -3,7 +3,7 @@ from fastapi import APIRouter, Depends, Query, HTTPException
 from sqlalchemy.ext.asyncio import AsyncSession
 from api.database import get_db
 from api.services.vehicle_service import VehicleService
-from api.schemas.vehicle import VehicleCreate, VehicleUpdate, VehicleResponse, VehicleListResponse, VehicleDeleteResponse, VehicleDeleteResponse
+from api.schemas.vehicle import VehicleCreate, VehicleUpdate, VehicleResponse, VehicleListResponse, VehicleDeleteResponse
 
 router = APIRouter(prefix="/api/vehicles", tags=["vehicles"])
 vehicle_svc = VehicleService()

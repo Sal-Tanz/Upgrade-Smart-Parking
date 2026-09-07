@@ -7,7 +7,7 @@
       "center": [200, 175],
       "width": 200,
       "height": 150,
-      "status": "unknown"
+      "status": "kosong"
     },
     {
       "slot_id": "M-02",
@@ -16,7 +16,7 @@
       "center": [410, 175],
       "width": 200,
       "height": 150,
-      "status": "unknown"
+      "status": "kosong"
     },
     {
       "slot_id": "M-03",
@@ -25,7 +25,7 @@
       "center": [620, 175],
       "width": 200,
       "height": 150,
-      "status": "unknown"
+      "status": "kosong"
     },
     {
       "slot_id": "M-04",
@@ -34,7 +34,7 @@
       "center": [830, 175],
       "width": 200,
       "height": 150,
-      "status": "unknown"
+      "status": "kosong"
     },
     {
       "slot_id": "M-05",
@@ -43,7 +43,7 @@
       "center": [1040, 175],
       "width": 200,
       "height": 150,
-      "status": "unknown"
+      "status": "kosong"
     },
     {
       "slot_id": "O-01",
@@ -52,7 +52,7 @@
       "center": [200, 475],
       "width": 200,
       "height": 150,
-      "status": "unknown"
+      "status": "kosong"
     },
     {
       "slot_id": "O-02",
@@ -61,7 +61,7 @@
       "center": [410, 475],
       "width": 200,
       "height": 150,
-      "status": "unknown"
+      "status": "kosong"
     },
     {
       "slot_id": "O-03",
@@ -70,7 +70,7 @@
       "center": [620, 475],
       "width": 200,
       "height": 150,
-      "status": "unknown"
+      "status": "kosong"
     },
     {
       "slot_id": "O-04",
@@ -79,7 +79,7 @@
       "center": [830, 475],
       "width": 200,
       "height": 150,
-      "status": "unknown"
+      "status": "kosong"
     },
     {
       "slot_id": "O-05",
@@ -88,7 +88,7 @@
       "center": [1040, 475],
       "width": 200,
       "height": 150,
-      "status": "unknown"
+      "status": "kosong"
     },
     {
       "slot_id": "O-06",
@@ -97,7 +97,7 @@
       "center": [200, 635],
       "width": 200,
       "height": 150,
-      "status": "unknown"
+      "status": "kosong"
     },
     {
       "slot_id": "O-07",
@@ -106,7 +106,7 @@
       "center": [410, 635],
       "width": 200,
       "height": 150,
-      "status": "unknown"
+      "status": "kosong"
     },
     {
       "slot_id": "O-08",
@@ -115,7 +115,7 @@
       "center": [620, 635],
       "width": 200,
       "height": 150,
-      "status": "unknown"
+      "status": "kosong"
     },
     {
       "slot_id": "O-09",
@@ -124,7 +124,7 @@
       "center": [830, 635],
       "width": 200,
       "height": 150,
-      "status": "unknown"
+      "status": "kosong"
     },
     {
       "slot_id": "O-10",
@@ -133,7 +133,7 @@
       "center": [1040, 635],
       "width": 200,
       "height": 150,
-      "status": "unknown"
+      "status": "kosong"
     }
   ],
   "total_slots": 15,

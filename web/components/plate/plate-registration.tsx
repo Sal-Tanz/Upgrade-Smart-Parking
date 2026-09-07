@@ -123,7 +123,7 @@ export function PlateRegistration() {
 
               <div className="space-y-2">
                 <Label>Jenis Kendaraan</Label>
-                <Select value={vehicleType} onValueChange={setVehicleType}>
+                <Select value={vehicleType} onValueChange={(val) => setVehicleType(val || "")}>
                   <SelectTrigger><SelectValue placeholder="Pilih jenis" /></SelectTrigger>
                   <SelectContent>
                     <SelectItem value="sedan">Sedan</SelectItem>
@@ -137,7 +137,7 @@ export function PlateRegistration() {
 
               <div className="space-y-2">
                 <Label>Kondisi Pencahayaan</Label>
-                <Select value={lighting} onValueChange={setLighting}>
+                <Select value={lighting} onValueChange={(val) => setLighting(val || "")}>
                   <SelectTrigger><SelectValue placeholder="Pilih kondisi" /></SelectTrigger>
                   <SelectContent>
                     <SelectItem value="siang">Siang</SelectItem>
@@ -150,7 +150,7 @@ export function PlateRegistration() {
 
               <div className="space-y-2">
                 <Label>Sudut Pengambilan</Label>
-                <Select value={angle} onValueChange={setAngle}>
+                <Select value={angle} onValueChange={(val) => setAngle(val || "")}>
                   <SelectTrigger><SelectValue placeholder="Pilih sudut" /></SelectTrigger>
                   <SelectContent>
                     <SelectItem value="depan">Depan</SelectItem>

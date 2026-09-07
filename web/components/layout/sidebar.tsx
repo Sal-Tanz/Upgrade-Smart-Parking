@@ -1,8 +1,8 @@
 "use client";
 
 import Link from "next/link";
-import { usePathname } from "next/navigation";
-import { signOut, useSession } from "next-auth/react";
+import { useEffect, useState } from "react";
+import { useRouter, usePathname } from "next/navigation";
 import {
   LayoutDashboard,
   Car,
@@ -24,7 +24,26 @@ const navigation = [
 
 export function Sidebar() {
   const pathname = usePathname();
-  const { data: session } = useSession();
+  const router = useRouter();
+  const [user, setUser] = useState<{ name?: string; role?: string } | null>(null);
+
+  useEffect(() => {
+    try {
+      const raw = localStorage.getItem("auth_user");
+      if (raw) {
+        const parsed = JSON.parse(raw);
+        setUser({ name: parsed.username || parsed.name, role: parsed.role });
+      }
+    } catch {
+      // ignore
+    }
+  }, []);
+
+  function handleSignOut() {
+    localStorage.removeItem("auth_token");
+    localStorage.removeItem("auth_user");
+    router.push("/login");
+  }
 
   return (
     <aside className="flex h-screen w-64 flex-col border-r border-border bg-card">
@@ -66,19 +85,19 @@ export function Sidebar() {
         <div className="flex items-center justify-between gap-3">
           <div className="flex items-center gap-3">
             <div className="flex h-10 w-10 items-center justify-center rounded-full bg-accent/20 text-accent font-semibold">
-              {session?.user?.name?.charAt(0).toUpperCase() || "U"}
+              {user?.name?.charAt(0).toUpperCase() || "A"}
             </div>
             <div className="flex flex-col">
               <span className="text-sm font-medium text-foreground">
-                {session?.user?.name || "User"}
+                {user?.name || "Admin"}
               </span>
               <span className="text-xs text-muted capitalize">
-                {session?.user?.role || "viewer"}
+                {user?.role || "admin"}
               </span>
             </div>
           </div>
           <button
-            onClick={() => signOut({ callbackUrl: "/login" })}
+            onClick={handleSignOut}
             className="rounded-lg p-2 text-muted transition-colors hover:bg-red-500/10 hover:text-red-400 cursor-pointer"
             aria-label="Sign out"
           >

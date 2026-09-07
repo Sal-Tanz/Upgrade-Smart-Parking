@@ -3,7 +3,6 @@
 import { useState } from "react";
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
-import { signIn } from "next-auth/react";
 import { useRouter } from "next/navigation";
 import { loginSchema, LoginFormData } from "@/lib/validators";
 import { AlertCircle } from "lucide-react";
@@ -22,17 +21,35 @@ export function LoginForm() {
 
   async function onSubmit(data: LoginFormData) {
     setError(null);
-    const result = await signIn("credentials", {
-      username: data.username,
-      password: data.password,
-      redirect: false,
-    });
+    try {
+      const res = await fetch("/api/auth/login", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          username: data.username,
+          password: data.password,
+        }),
+      });
 
-    if (result?.error) {
-      setError("Invalid username or password");
-    } else {
-      router.push("/");
-      router.refresh();
+      if (!res.ok) {
+        const errData = await res.json().catch(() => null);
+        setError(errData?.detail || "Invalid username or password");
+        return;
+      }
+
+      const resData = await res.json();
+      if (resData.access_token) {
+        localStorage.setItem("auth_token", resData.access_token);
+        localStorage.setItem("auth_user", JSON.stringify({
+          username: data.username,
+          role: resData.role || "admin",
+        }));
+        router.push("/");
+      } else {
+        setError("Login failed: no token received");
+      }
+    } catch (err: any) {
+      setError(err?.message || "Failed to connect to server");
     }
   }
 

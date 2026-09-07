@@ -4,9 +4,10 @@ __pycache__/
 *$py.class
 *.so
 .Python
-build/
+/build/
 develop-eggs/
-dist/
+/dist/
+!internal/assets/dist/**
 downloads/
 eggs/
 .eggs/
@@ -68,3 +69,9 @@ temp/
 # Next.js
 .next/
 out/
+web/out/
+
+# Go Binary & Runtime
+/smartparking
+/smartparking.exe
+.smartparking.pid

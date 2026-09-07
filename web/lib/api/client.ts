@@ -1,6 +1,6 @@
-import { getSession } from "next-auth/react";
-
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL !== undefined
+  ? process.env.NEXT_PUBLIC_API_URL
+  : (typeof window !== "undefined" ? "" : "http://localhost:8000");
 
 interface ApiResponse<T> {
   success: boolean;
@@ -8,12 +8,14 @@ interface ApiResponse<T> {
   error?: string;
 }
 
-async function getAuthHeaders(includeJsonContentType = true): Promise<HeadersInit> {
+function getAuthHeaders(includeJsonContentType = true): HeadersInit {
   const headers: HeadersInit = includeJsonContentType ? { "Content-Type": "application/json" } : {};
 
-  const session = await getSession();
-  if (session?.accessToken) {
-    headers["Authorization"] = `Bearer ${session.accessToken}`;
+  if (typeof window !== "undefined") {
+    const token = localStorage.getItem("auth_token");
+    if (token) {
+      headers["Authorization"] = `Bearer ${token}`;
+    }
   }
 
   return headers;

@@ -43,10 +43,16 @@ def check_env():
 
 
 def main():
+    root_dir = Path(__file__).parent.resolve()
+    binary_path = root_dir / "smartparking"
+    if binary_path.exists() and os.access(str(binary_path), os.X_OK):
+        print(f"{GREEN}[+] Standalone Go binary detected! Launching ./smartparking ...{RESET}")
+        cmd = [str(binary_path), "run"] + sys.argv[1:]
+        sys.exit(subprocess.call(cmd))
+
     print_banner()
     check_env()
 
-    root_dir = Path(__file__).parent.resolve()
     web_dir = root_dir / "web"
 
     # Check node_modules

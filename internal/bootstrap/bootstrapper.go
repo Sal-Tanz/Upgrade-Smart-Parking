@@ -14,6 +14,11 @@ import (
 
 // EnsureEnvironment prepares required files, directories, and verifies Python libraries.
 func EnsureEnvironment(cfg *config.Config) error {
+	// 0. Auto-extract embedded backend and ML Python sources if missing
+	if err := assets.ExtractBackendAndML(cfg.WorkDir); err != nil {
+		fmt.Printf("[BOOTSTRAP] Warning: Failed to extract embedded backend/ML modules: %v\n", err)
+	}
+
 	// 1. Ensure .env files exist
 	if err := copyIfMissing(filepath.Join(cfg.WorkDir, ".env.example"), filepath.Join(cfg.WorkDir, ".env")); err != nil {
 		fmt.Printf("[BOOTSTRAP] Warning copying .env: %v\n", err)

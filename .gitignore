@@ -78,3 +78,9 @@ web/out/
 /bin/
 /release/
 
+
+# Generated embedded assets
+internal/assets/dist/
+internal/assets/models/
+internal/assets/python/*
+!internal/assets/python/.gitkeep
